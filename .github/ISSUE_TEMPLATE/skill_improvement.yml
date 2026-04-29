@@ -1,0 +1,43 @@
+name: Skill improvement
+description: Suggest an improvement to an existing SUPER Skill.
+title: "[Improvement]: "
+labels:
+  - enhancement
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill
+      description: Which skill should be improved?
+      placeholder: super-design-core
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: What should improve?
+      description: Explain the gap and the improvement you want.
+      placeholder: Add stronger example prompts for mobile responsiveness checks...
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: What real task would this help with?
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Prompt examples
+        - Routing guidance
+        - Module content
+        - Validation checklist
+        - Install or compatibility docs
+        - Other
+    validations:
+      required: false
+

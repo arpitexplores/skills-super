@@ -1,0 +1,40 @@
+name: New skill request
+description: Suggest a new SUPER Skill or a new module for an existing skill.
+title: "[Skill request]: "
+labels:
+  - skill-request
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What skill or module do you want?
+      description: Describe the capability you want added.
+      placeholder: A skill for browser automation QA, or a module inside super-security for...
+    validations:
+      required: true
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Example tasks
+      description: List 2-3 prompts or real tasks this should support.
+      placeholder: |
+        Use $... to audit...
+        Use $... to generate...
+    validations:
+      required: true
+  - type: input
+    id: existing_skill
+    attributes:
+      label: Related existing skill
+      description: If this belongs inside an existing skill, name it.
+      placeholder: super-automation
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: Helpful references
+      description: Add docs, examples, repos, tools, or standards that should inform the skill.
+    validations:
+      required: false
+

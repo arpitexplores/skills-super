@@ -1,0 +1,29 @@
+name: Documentation feedback
+description: Suggest improvements to README files, examples, install docs, or wording.
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or repo
+      description: Which README, repo, or doc page needs improvement?
+      placeholder: skills-super README
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What should change?
+      description: Explain what is unclear, missing, or misleading.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_copy
+    attributes:
+      label: Suggested wording
+      description: Optional. Add replacement wording if you have it.
+    validations:
+      required: false
+

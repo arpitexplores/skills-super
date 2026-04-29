@@ -1,0 +1,41 @@
+name: Bug report
+description: Report something broken, incorrect, or confusing in a SUPER Skill.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when a skill gives incorrect guidance, has a broken reference, or is hard to use.
+  - type: input
+    id: skill
+    attributes:
+      label: Skill
+      description: Which skill is affected?
+      placeholder: super-seo-foundation
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the issue?
+      description: Describe what is broken, incorrect, or confusing.
+      placeholder: The skill points to a missing module, or the guidance is unclear for...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What should happen instead?
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context
+      description: Add links, screenshots, prompts, outputs, or repo paths if useful.
+    validations:
+      required: false
+
