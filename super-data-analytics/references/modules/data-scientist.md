@@ -1,5 +1,4 @@
-## Source: references/skills/data-scientist/SKILL.md
-
+## Module: Data Scientist
 ---
 name: data-scientist
 description: Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.
@@ -200,7 +199,7 @@ Expert data scientist combining strong statistical foundations with modern machi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: statsmodels
@@ -814,8 +813,7 @@ For detailed documentation and examples:
 - Examples: https://www.statsmodels.org/stable/examples/index.html
 - API reference: https://www.statsmodels.org/stable/api.html
 
-## Source: references/skills/data-scientist/references/legacy/statsmodels/SKILL.md
-
+## Imported Module: Statsmodels
 ---
 name: statsmodels
 description: Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals, and inference. Best for econometrics, time series, rigorous inference with coefficient tables. For...

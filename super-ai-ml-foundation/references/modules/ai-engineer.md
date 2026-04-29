@@ -1,5 +1,4 @@
-## Source: references/skills/ai-engineer/SKILL.md
-
+## Module: Ai Engineer
 ---
 name: ai-engineer
 description: Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations.
@@ -188,7 +187,7 @@ Expert AI engineer specializing in LLM application development, RAG systems, and
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ai-ml
@@ -445,7 +444,7 @@ Use @evaluation to create evaluation framework
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: llm-app-patterns
@@ -1211,8 +1210,7 @@ llm_client = LLMWithFallback(
 - [LlamaIndex](https://www.llamaindex.ai/)
 - Provider cookbook for the chosen model provider
 
-## Source: references/skills/ai-engineer/references/legacy/ai-ml/SKILL.md
-
+## Imported Module: Ai Ml
 ---
 name: ai-ml
 description: "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features."
@@ -1466,8 +1464,7 @@ Use @evaluation to create evaluation framework
 - `cloud-devops` - Infrastructure
 - `testing-qa` - AI testing
 
-## Source: references/skills/ai-engineer/references/legacy/llm-app-patterns/SKILL.md
-
+## Imported Module: Llm App Patterns
 ---
 name: llm-app-patterns
 description: "Production-ready patterns for building LLM applications. Covers RAG pipelines, agent architectures, prompt IDEs, and LLMOps monitoring. Use when designing AI applications, implementing RAG, buildin..."

@@ -1,5 +1,4 @@
-## Source: references/skills/paid-ads/SKILL.md
-
+## Module: Paid Ads
 ---
 name: paid-ads
 description: Paid advertising strategy and optimization across platforms. Use for PPC, targeting, and campaign execution.
@@ -315,7 +314,7 @@ For tracking, see also: [ga4.md](../../tools/integrations/ga4.md), [segment.md](
 - **ab-test-setup**: For landing page testing to improve ROAS
 - **page-cro**: For optimizing post-click conversion rates
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Paid Ads
 

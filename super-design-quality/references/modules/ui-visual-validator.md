@@ -1,5 +1,4 @@
-## Source: references/skills/ui-visual-validator/SKILL.md
-
+## Module: Ui Visual Validator
 ---
 name: ui-visual-validator
 description: UI quality validation, consistency checks, and frontend best-practice audits.
@@ -653,8 +652,7 @@ Before finalizing code:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-visual-validator/references/legacy/baseline-ui/SKILL.md
-
+## Imported Module: Baseline Ui
 ---
 name: baseline-ui
 description: Validates animation durations, enforces typography scale, checks component accessibility, and prevents layout anti-patterns in Tailwind CSS projects. Use when building UI components, reviewing CSS utilities, styling React views, or enforcing design consistency.
@@ -741,8 +739,7 @@ Enforces an opinionated UI baseline to prevent AI-generated interface slop.
 - SHOULD limit accent color usage to one per view
 - SHOULD use existing theme or Tailwind CSS color tokens before introducing new ones
 
-## Source: references/skills/ui-visual-validator/references/legacy/frontend-dev-guidelines/SKILL.md
-
+## Imported Module: Frontend Dev Guidelines
 ---
 name: frontend-dev-guidelines
 description: "Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router..."

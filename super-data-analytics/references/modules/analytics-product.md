@@ -1,5 +1,4 @@
-## Source: references/skills/analytics-product/SKILL.md
-
+## Module: Analytics Product
 ---
 name: analytics-product
 description: 'Analytics de produto — PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto. Ativar para: configurar tracking de eventos, criar funil de...'

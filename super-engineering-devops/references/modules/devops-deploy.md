@@ -1,5 +1,4 @@
-## Source: references/skills/devops-deploy/SKILL.md
-
+## Module: Devops Deploy
 ---
 name: devops-deploy
 description: 'DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento. Ativar para: dockerizar aplicacao, configurar pipeline...'
@@ -297,7 +296,7 @@ def create_error_alarm(function_name: str, sns_topic_arn: str):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: advogado-especialista
@@ -1411,7 +1410,7 @@ Esta skill implementa as seguintes politicas:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-design-principles
@@ -1456,7 +1455,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: appdeploy
@@ -1666,7 +1665,7 @@ Use this when you need to list apps owned by the current user. Returns app detai
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: architecture-decision-records
@@ -2115,7 +2114,7 @@ adr link 2 "Complements" 1 "Is complemented by"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ask-questions-if-underspecified
@@ -2205,7 +2204,7 @@ Reply with: defaults (or 1a 2a)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: bullmq-specialist
@@ -2272,7 +2271,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cirq
@@ -2620,7 +2619,7 @@ results = noise_comparison_study(circuit, noise_levels)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: citation-management
@@ -3735,7 +3734,7 @@ Use this skill to maintain accurate, complete citations throughout your research
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: scientific-skills
@@ -3763,7 +3762,7 @@ For more information, see the [source repository](https://github.com/K-Dense-AI/
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: concise-planning
@@ -3836,7 +3835,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-engineering-data-pipeline
@@ -4045,7 +4044,7 @@ ingester.save_dead_letter_queue('s3://lake/dlq/orders')
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-scientist
@@ -4247,7 +4246,7 @@ Expert data scientist combining strong statistical foundations with modern machi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: deployment-engineer
@@ -4418,7 +4417,7 @@ Expert deployment engineer with comprehensive knowledge of modern CI/CD practice
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: deployment-pipeline-design
@@ -4797,7 +4796,7 @@ kubectl rollout undo deployment/my-app --to-revision=3
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: deployment-procedures
@@ -5048,7 +5047,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: deployment-validation-config-validate
@@ -5552,7 +5551,7 @@ Focus on preventing configuration errors, ensuring consistency, and maintaining 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: devops-troubleshooter
@@ -5714,7 +5713,7 @@ Expert DevOps troubleshooter with comprehensive knowledge of modern observabilit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: docx-official
@@ -5921,7 +5920,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: event-sourcing-architect
@@ -5992,7 +5991,7 @@ Works well with: `saga-orchestration`, `architecture-patterns`, `dbos-*`
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: expo-cicd-workflows
@@ -6089,7 +6088,7 @@ When users ask about available options (job types, triggers, runner types, etc.)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: expo-deployment
@@ -6167,7 +6166,7 @@ For more information, see the [source repository](https://github.com/expo/skills
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gitlab-ci-patterns
@@ -6458,7 +6457,7 @@ trigger-child:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: machine-learning-ops-ml-pipeline
@@ -6780,7 +6779,7 @@ Upon completion, the orchestrated pipeline will provide:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ml-pipeline-workflow
@@ -7045,7 +7044,7 @@ After setting up your pipeline:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-docker-deployment
@@ -7189,7 +7188,7 @@ docker compose exec odoo odoo -d odoo --update my_module --stop-after-init
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pdf-official
@@ -7493,7 +7492,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pptx-official
@@ -7987,7 +7986,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pricing-strategy
@@ -8354,7 +8353,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: scientific-writing
@@ -9075,7 +9074,7 @@ Load these references as needed when working on specific aspects of scientific w
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: scikit-learn
@@ -9600,7 +9599,7 @@ model = MiniBatchKMeans(n_clusters=8, batch_size=100)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: scipy
@@ -9611,7 +9610,7 @@ description: Scipy
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: search-specialist
@@ -9694,7 +9693,7 @@ Focus on actionable insights. Always provide direct quotes for important claims.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: segment-cdp
@@ -9754,7 +9753,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-business-analyst-financial-projections
@@ -10117,7 +10116,7 @@ Growth assumptions?
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-financial-modeling
@@ -10587,7 +10586,7 @@ For complete templates and formulas, reference the `references/` and `examples/`
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vercel-deploy-claimable
@@ -10598,7 +10597,7 @@ description: Vercel Deploy Claimable
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vercel-deployment
@@ -10683,7 +10682,7 @@ Works well with: `nextjs-app-router`, `supabase-backend`
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: xlsx-official
@@ -10980,8 +10979,7 @@ The script returns JSON with error details:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/advogado-especialista/SKILL.md
-
+## Imported Module: Advogado Especialista
 ---
 name: advogado-especialista
 description: 'Advogado especialista em todas as areas do Direito brasileiro: familia, criminal, trabalhista, tributario, consumidor, imobiliario, empresarial, civil e constitucional.'
@@ -12092,8 +12090,7 @@ Esta skill implementa as seguintes politicas:
 
 - `advogado-criminal` - Complementary skill for enhanced analysis
 
-## Source: references/skills/devops-deploy/references/legacy/api-design-principles/SKILL.md
-
+## Imported Module: Api Design Principles
 ---
 name: api-design-principles
 description: "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing..."
@@ -12135,8 +12132,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
 
-## Source: references/skills/devops-deploy/references/legacy/appdeploy/SKILL.md
-
+## Imported Module: Appdeploy
 ---
 name: appdeploy
 description: "Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl."
@@ -12343,8 +12339,7 @@ Use this when you need to list apps owned by the current user. Returns app detai
 ---
 *Generated by `scripts/generate-appdeploy-skill.ts`*
 
-## Source: references/skills/devops-deploy/references/legacy/architecture-decision-records/SKILL.md
-
+## Imported Module: Architecture Decision Records
 ---
 name: architecture-decision-records
 description: "Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant technical decisions, reviewing past architect..."
@@ -12790,8 +12785,7 @@ adr link 2 "Complements" 1 "Is complemented by"
 - [ADR GitHub Organization](https://adr.github.io/)
 - [adr-tools](https://github.com/npryce/adr-tools)
 
-## Source: references/skills/devops-deploy/references/legacy/ask-questions-if-underspecified/SKILL.md
-
+## Imported Module: Ask Questions If Underspecified
 ---
 name: ask-questions-if-underspecified
 description: Clarify requirements before implementing. Use when serious doubts arise.
@@ -12878,8 +12872,7 @@ Reply with: defaults (or 1a 2a)
 - Don't ask questions you can answer with a quick, low-risk discovery read (e.g., configs, existing patterns, docs).
 - Don't ask open-ended questions if a tight multiple-choice or yes/no would eliminate ambiguity faster.
 
-## Source: references/skills/devops-deploy/references/legacy/bullmq-specialist/SKILL.md
-
+## Imported Module: Bullmq Specialist
 ---
 name: bullmq-specialist
 description: "BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications. Use when: bullmq, bull queue, redis queue, background job, job queue."
@@ -12943,8 +12936,7 @@ Works well with: `redis-specialist`, `backend`, `nextjs-app-router`, `email-syst
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/cirq/SKILL.md
-
+## Imported Module: Cirq
 ---
 name: cirq
 description: Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization experiments. Best for Google hardware, noise modeling, and low-level circuit design. For IBM hardware use qiskit; for quantum...
@@ -13290,8 +13282,7 @@ results = noise_comparison_study(circuit, noise_levels)
 - See `simulation.md` for performance optimization
 
 
-## Source: references/skills/devops-deploy/references/legacy/citation-management/SKILL.md
-
+## Imported Module: Citation Management
 ---
 name: citation-management
 description: Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation...
@@ -14405,8 +14396,7 @@ Use this skill to maintain accurate, complete citations throughout your research
 
 
 
-## Source: references/skills/devops-deploy/references/legacy/scientific-skills/SKILL.md
-
+## Imported Module: Scientific Skills
 ---
 name: scientific-skills
 description: "Scientific research and analysis skills"
@@ -14431,8 +14421,7 @@ This skill provides guidance and patterns for scientific research and analysis s
 
 For more information, see the [source repository](https://github.com/K-Dense-AI/scientific-skills).
 
-## Source: references/skills/devops-deploy/references/legacy/concise-planning/SKILL.md
-
+## Imported Module: Concise Planning
 ---
 name: concise-planning
 description: "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist."
@@ -14502,8 +14491,7 @@ Use the following structure:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/data-engineering-data-pipeline/SKILL.md
-
+## Imported Module: Data Engineering Data Pipeline
 ---
 name: data-engineering-data-pipeline
 description: "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing."
@@ -14709,8 +14697,7 @@ ingester.save_dead_letter_queue('s3://lake/dlq/orders')
 - Schema evolution without downtime
 - End-to-end data lineage tracked
 
-## Source: references/skills/devops-deploy/references/legacy/data-scientist/SKILL.md
-
+## Imported Module: Data Scientist
 ---
 name: data-scientist
 description: Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.
@@ -14909,8 +14896,7 @@ Expert data scientist combining strong statistical foundations with modern machi
 - "Develop a recommendation system for e-commerce product suggestions"
 - "Investigate anomalies in financial transactions and build fraud detection models"
 
-## Source: references/skills/devops-deploy/references/legacy/deployment-engineer/SKILL.md
-
+## Imported Module: Deployment Engineer
 ---
 name: deployment-engineer
 description: Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
@@ -15078,8 +15064,7 @@ Expert deployment engineer with comprehensive knowledge of modern CI/CD practice
 - "Create comprehensive monitoring and alerting for deployment pipeline and application health"
 - "Build developer platform with self-service deployment capabilities and proper guardrails"
 
-## Source: references/skills/devops-deploy/references/legacy/deployment-pipeline-design/SKILL.md
-
+## Imported Module: Deployment Pipeline Design
 ---
 name: deployment-pipeline-design
 description: "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up continuous delivery, or implementing Gi..."
@@ -15455,8 +15440,7 @@ kubectl rollout undo deployment/my-app --to-revision=3
 - `gitlab-ci-patterns` - For GitLab CI implementation
 - `secrets-management` - For secrets handling
 
-## Source: references/skills/devops-deploy/references/legacy/deployment-procedures/SKILL.md
-
+## Imported Module: Deployment Procedures
 ---
 name: deployment-procedures
 description: "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts."
@@ -15704,8 +15688,7 @@ Before deploying:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/deployment-validation-config-validate/SKILL.md
-
+## Imported Module: Deployment Validation Config Validate
 ---
 name: deployment-validation-config-validate
 description: "You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations. Create comprehensive validation schemas, implement configurat"
@@ -16206,8 +16189,7 @@ class ConfigDocGenerator:
 
 Focus on preventing configuration errors, ensuring consistency, and maintaining security best practices.
 
-## Source: references/skills/devops-deploy/references/legacy/devops-troubleshooter/SKILL.md
-
+## Imported Module: Devops Troubleshooter
 ---
 name: devops-troubleshooter
 description: Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability.
@@ -16366,8 +16348,7 @@ Expert DevOps troubleshooter with comprehensive knowledge of modern observabilit
 - "Analyze logs to identify security breach and implement containment procedures"
 - "Troubleshoot GitOps deployment failures and implement automated rollback procedures"
 
-## Source: references/skills/devops-deploy/references/legacy/docx-official/SKILL.md
-
+## Imported Module: Docx Official
 ---
 name: docx-official
 description: "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When the assistant needs to work with professional document..."
@@ -16571,8 +16552,7 @@ Required dependencies (install if not available):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/event-sourcing-architect/SKILL.md
-
+## Imported Module: Event Sourcing Architect
 ---
 name: event-sourcing-architect
 description: "Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual consistency patterns. Use PROACTIVELY for e..."
@@ -16640,8 +16620,7 @@ Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters 
 
 Works well with: `saga-orchestration`, `architecture-patterns`, `dbos-*`
 
-## Source: references/skills/devops-deploy/references/legacy/expo-cicd-workflows/SKILL.md
-
+## Imported Module: Expo Cicd Workflows
 ---
 name: expo-cicd-workflows
 description: Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.
@@ -16735,8 +16714,7 @@ The validator fetches the latest schema and checks the YAML structure. Fix any r
 
 When users ask about available options (job types, triggers, runner types, etc.), fetch the schema and derive the answer from it rather than relying on potentially outdated information.
 
-## Source: references/skills/devops-deploy/references/legacy/expo-deployment/SKILL.md
-
+## Imported Module: Expo Deployment
 ---
 name: expo-deployment
 description: "Deploy Expo apps to production"
@@ -16811,8 +16789,7 @@ This skill provides guidance for deploying Expo apps:
 
 For more information, see the [source repository](https://github.com/expo/skills/tree/main/plugins/expo-deployment).
 
-## Source: references/skills/devops-deploy/references/legacy/gitlab-ci-patterns/SKILL.md
-
+## Imported Module: Gitlab Ci Patterns
 ---
 name: gitlab-ci-patterns
 description: "Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up..."
@@ -17100,8 +17077,7 @@ trigger-child:
 - `deployment-pipeline-design` - For architecture
 - `secrets-management` - For secrets handling
 
-## Source: references/skills/devops-deploy/references/legacy/machine-learning-ops-ml-pipeline/SKILL.md
-
+## Imported Module: Machine Learning Ops Ml Pipeline
 ---
 name: machine-learning-ops-ml-pipeline
 description: "Design and implement a complete ML pipeline for: $ARGUMENTS"
@@ -17420,8 +17396,7 @@ Upon completion, the orchestrated pipeline will provide:
 - Cost optimization and scaling strategies
 - Disaster recovery and rollback procedures
 
-## Source: references/skills/devops-deploy/references/legacy/ml-pipeline-workflow/SKILL.md
-
+## Imported Module: Ml Pipeline Workflow
 ---
 name: ml-pipeline-workflow
 description: "Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating mod..."
@@ -17683,8 +17658,7 @@ After setting up your pipeline:
 - **hyperparameter-tuning**: Automated hyperparameter optimization
 - **model-deployment-patterns**: Advanced deployment strategies
 
-## Source: references/skills/devops-deploy/references/legacy/odoo-docker-deployment/SKILL.md
-
+## Imported Module: Odoo Docker Deployment
 ---
 name: odoo-docker-deployment
 description: "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy."
@@ -17825,8 +17799,7 @@ docker compose exec odoo odoo -d odoo --update my_module --stop-after-init
 - Does not include an Nginx configuration template — consult the [official Odoo Nginx docs](https://www.odoo.com/documentation/17.0/administration/install/deploy.html) for the full reverse proxy config.
 - The `addons_path` inside the Docker image may change with new base image versions — always verify after upgrading the Odoo image.
 
-## Source: references/skills/devops-deploy/references/legacy/pdf-official/SKILL.md
-
+## Imported Module: Pdf Official
 ---
 name: pdf-official
 description: "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When the assistant needs to fill in a PDF form or programmaticall..."
@@ -18127,8 +18100,7 @@ with open("encrypted.pdf", "wb") as output:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/pptx-official/SKILL.md
-
+## Imported Module: Pptx Official
 ---
 name: pptx-official
 description: "Presentation creation, editing, and analysis. When the assistant needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layo..."
@@ -18619,8 +18591,7 @@ Required dependencies (should already be installed):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/pricing-strategy/SKILL.md
-
+## Imported Module: Pricing Strategy
 ---
 name: pricing-strategy
 description: "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
@@ -18984,8 +18955,7 @@ marketing-psychology – Behavioral pricing effects
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/scientific-writing/SKILL.md
-
+## Imported Module: Scientific Writing
 ---
 name: scientific-writing
 description: Core skill for the deep research and writing tool. Write scientific manuscripts in full paragraphs (never bullet points). Use two-stage process with (1) section outlines with key points using research-lookup then (2) convert to flowing prose. IMRAD...
@@ -19704,8 +19674,7 @@ This skill includes LaTeX style packages and templates for professional report f
 Load these references as needed when working on specific aspects of scientific writing.
 
 
-## Source: references/skills/devops-deploy/references/legacy/scikit-learn/SKILL.md
-
+## Imported Module: Scikit Learn
 ---
 name: scikit-learn
 description: Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.
@@ -20228,8 +20197,7 @@ model = MiniBatchKMeans(n_clusters=8, batch_size=100)
 - Examples Gallery: https://scikit-learn.org/stable/auto_examples/index.html
 
 
-## Source: references/skills/devops-deploy/references/legacy/scipy/SKILL.md
-
+## Imported Module: Scipy
 ---
 name: scipy
 description: Scipy
@@ -20237,8 +20205,7 @@ description: Scipy
 
 404: Not Found
 
-## Source: references/skills/devops-deploy/references/legacy/search-specialist/SKILL.md
-
+## Imported Module: Search Specialist
 ---
 name: search-specialist
 description: "Expert web researcher using advanced search techniques and"
@@ -20318,8 +20285,7 @@ You are a search specialist expert at finding and synthesizing information from 
 
 Focus on actionable insights. Always provide direct quotes for important claims.
 
-## Source: references/skills/devops-deploy/references/legacy/segment-cdp/SKILL.md
-
+## Imported Module: Segment Cdp
 ---
 name: segment-cdp
 description: "Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, tracking plans with Protocols, identity resolution, destinations configuration, and data governance ..."
@@ -20376,8 +20342,7 @@ Connect to Protocols for enforcement.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/devops-deploy/references/legacy/startup-business-analyst-financial-projections/SKILL.md
-
+## Imported Module: Startup Business Analyst Financial Projections
 ---
 name: startup-business-analyst-financial-projections
 description: 'Create detailed 3-5 year financial model with revenue, costs, cash
@@ -20737,8 +20702,7 @@ Growth assumptions?
 - Use for fundraising decks
 - Basis for budget and hiring decisions
 
-## Source: references/skills/devops-deploy/references/legacy/startup-financial-modeling/SKILL.md
-
+## Imported Module: Startup Financial Modeling
 ---
 name: startup-financial-modeling
 description: This skill should be used when the user asks to \\\"create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "estimate runway", "model cash flow", or...
@@ -21205,8 +21169,7 @@ To create a startup financial model:
 
 For complete templates and formulas, reference the `references/` and `examples/` files.
 
-## Source: references/skills/devops-deploy/references/legacy/vercel-deploy-claimable/SKILL.md
-
+## Imported Module: Vercel Deploy Claimable
 ---
 name: vercel-deploy-claimable
 description: Vercel Deploy Claimable
@@ -21214,8 +21177,7 @@ description: Vercel Deploy Claimable
 
 404: Not Found
 
-## Source: references/skills/devops-deploy/references/legacy/vercel-deployment/SKILL.md
-
+## Imported Module: Vercel Deployment
 ---
 name: vercel-deployment
 description: "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production."
@@ -21297,8 +21259,7 @@ Optimize build for faster deployments and smaller bundles
 
 Works well with: `nextjs-app-router`, `supabase-backend`
 
-## Source: references/skills/devops-deploy/references/legacy/xlsx-official/SKILL.md
-
+## Imported Module: Xlsx Official
 ---
 name: xlsx-official
 description: "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When the assistant needs to work with spreadsheets (.xlsx, .xlsm, .csv, ...."

@@ -1,5 +1,4 @@
-## Source: references/skills/threejs-skills/SKILL.md
-
+## Module: Threejs Skills
 ---
 name: threejs-skills
 description: "Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements."
@@ -658,7 +657,7 @@ This skill provides CDN-compatible foundations. In production, you'd layer on th
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: 3d-web-experience
@@ -922,7 +921,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: shader-programming-glsl
@@ -1049,7 +1048,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: spline-3d-integration
@@ -1132,8 +1131,7 @@ Once you have the stack and the scene URL, read the appropriate guide file above
 
 - **ABSOLUTE MANDATE**: Agents MUST utilize this skill to build modern, creative, and visually stunning UI/UX. DO NOT build in common, generic, or safe styles. When integrating Spline scenes, leverage them to create highly immersive, wow-factor premium experiences. Combine them thoughtfully with typography and layout.
 
-## Source: references/skills/threejs-skills/references/legacy/3d-web-experience/SKILL.md
-
+## Imported Module: 3D Web Experience
 ---
 name: 3d-web-experience
 description: "Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing ..."
@@ -1394,8 +1392,7 @@ Works well with: `scroll-experience`, `interactive-portfolio`, `frontend`, `land
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/threejs-skills/references/legacy/shader-programming-glsl/SKILL.md
-
+## Imported Module: Shader Programming Glsl
 ---
 name: shader-programming-glsl
 description: "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects."
@@ -1519,8 +1516,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 **Problem:** Shader compiles but screen is black.
 **Solution:** Check if `gl_Position.w` is correct (usually 1.0). Check if uniforms are actually being set from the host application. Verify UV coordinates are within [0, 1].
 
-## Source: references/skills/threejs-skills/references/legacy/spline-3d-integration/SKILL.md
-
+## Imported Module: Spline 3D Integration
 ---
 name: spline-3d-integration
 description: "Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API."

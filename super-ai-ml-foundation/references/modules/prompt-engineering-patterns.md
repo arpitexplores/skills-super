@@ -1,5 +1,4 @@
-## Source: references/skills/prompt-engineering-patterns/SKILL.md
-
+## Module: Prompt Engineering Patterns
 ---
 name: prompt-engineering-patterns
 description: "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing productio..."
@@ -219,7 +218,7 @@ Track these KPIs for your prompts:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: prompt-engineering
@@ -401,7 +400,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: prompt-engineer
@@ -655,7 +654,7 @@ The skill is entirely self-contained, operating purely on user input and framewo
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: llm-prompt-optimizer
@@ -842,7 +841,7 @@ Before using a prompt in production:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: prompt-library
@@ -1170,8 +1169,7 @@ When crafting prompts, ensure:
 
 > 💡 **Tip**: The best prompts are specific, provide context, and include examples of desired output.
 
-## Source: references/skills/prompt-engineering-patterns/references/legacy/llm-prompt-optimizer/SKILL.md
-
+## Imported Module: Llm Prompt Optimizer
 ---
 name: llm-prompt-optimizer
 description: "Use when improving prompts for any LLM. Applies proven prompt engineering techniques to boost output quality, reduce hallucinations, and cut token usage."
@@ -1355,8 +1353,7 @@ Before using a prompt in production:
 **Problem:** Output is too long
 **Solution:** Add explicit word/sentence limits: "Respond in exactly 3 bullet points, each under 20 words."
 
-## Source: references/skills/prompt-engineering-patterns/references/legacy/prompt-engineer/SKILL.md
-
+## Imported Module: Prompt Engineer
 ---
 name: prompt-engineer
 description: "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)"
@@ -1607,8 +1604,7 @@ This skill is **platform-agnostic** and works in any terminal context where GitH
 
 The skill is entirely self-contained, operating purely on user input and framework knowledge.
 
-## Source: references/skills/prompt-engineering-patterns/references/legacy/prompt-engineering/SKILL.md
-
+## Imported Module: Prompt Engineering
 ---
 name: prompt-engineering
 description: "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior."
@@ -1787,8 +1783,7 @@ Build prompts that gracefully handle failures:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/prompt-engineering-patterns/references/legacy/prompt-library/SKILL.md
-
+## Imported Module: Prompt Library
 ---
 name: prompt-library
 description: "Curated collection of high-quality prompts for various use cases. Includes role-based prompts, task-specific templates, and prompt refinement techniques. Use when user needs prompt templates, role-..."

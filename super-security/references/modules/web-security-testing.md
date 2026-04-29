@@ -1,5 +1,4 @@
-## Source: references/skills/web-security-testing/SKILL.md
-
+## Module: Web Security Testing
 ---
 name: web-security-testing
 description: "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues."
@@ -186,7 +185,7 @@ Use @reporting-standards to create security report
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-security-testing
@@ -362,7 +361,7 @@ Use @api-security-best-practices to audit API error handling
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: burp-suite-testing
@@ -750,7 +749,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: burpsuite-project-parser
@@ -1115,7 +1114,7 @@ If not using the wrapper script, invoke directly:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-mobile-security-xss-scan
@@ -1445,7 +1444,7 @@ Focus on identifying XSS attack vectors, providing actionable fixes, and establi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: idor-testing
@@ -1895,7 +1894,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: metasploit-framework
@@ -2381,7 +2380,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pentest-checklist
@@ -2723,7 +2722,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pentest-commands
@@ -3169,7 +3168,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: red-team-tactics
@@ -3378,7 +3377,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: red-team-tools
@@ -3696,7 +3695,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sql-injection-testing
@@ -4152,7 +4151,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sqlmap-database-pentesting
@@ -4560,7 +4559,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vulnerability-scanner
@@ -4846,7 +4845,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: xss-html-injection
@@ -5351,8 +5350,7 @@ Content-Security-Policy: script-src 'self' https://cdn.trusted.com
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/api-security-testing/SKILL.md
-
+## Imported Module: Api Security Testing
 ---
 name: api-security-testing
 description: "API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices."
@@ -5525,8 +5523,7 @@ Use @api-security-best-practices to audit API error handling
 - `web-security-testing` - Web security
 - `api-development` - API development
 
-## Source: references/skills/web-security-testing/references/legacy/burp-suite-testing/SKILL.md
-
+## Imported Module: Burp Suite Testing
 ---
 name: burp-suite-testing
 description: "This skill should be used when the user asks to \"intercept HTTP traffic\", \"modify web requests\", \"use Burp Suite for testing\", \"perform web vulnerability scanning\", \"test with Burp ..."
@@ -5911,8 +5908,7 @@ javascript:alert(1)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/burpsuite-project-parser/SKILL.md
-
+## Imported Module: Burpsuite Project Parser
 ---
 name: burpsuite-project-parser
 description: Searches and explores Burp Suite project files (.burp) from the command line. Use when searching response headers or bodies with regex patterns, extracting security audit findings, dumping proxy history or site map data, or analyzing HTTP traffic captured in a Burp project.
@@ -6274,8 +6270,7 @@ If not using the wrapper script, invoke directly:
   --project-file=/path/to/project.burp [FLAGS]
 ```
 
-## Source: references/skills/web-security-testing/references/legacy/frontend-mobile-security-xss-scan/SKILL.md
-
+## Imported Module: Frontend Mobile Security Xss Scan
 ---
 name: frontend-mobile-security-xss-scan
 description: "You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi"
@@ -6602,8 +6597,7 @@ class XSSReportGenerator {
 
 Focus on identifying XSS attack vectors, providing actionable fixes, and establishing secure coding patterns.
 
-## Source: references/skills/web-security-testing/references/legacy/idor-testing/SKILL.md
-
+## Imported Module: Idor Testing
 ---
 name: idor-testing
 description: "This skill should be used when the user asks to \"test for insecure direct object references,\" \"find IDOR vulnerabilities,\" \"exploit broken access control,\" \"enumerate user IDs or obje..."
@@ -7050,8 +7044,7 @@ def download_receipt(request, receipt_id):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/metasploit-framework/SKILL.md
-
+## Imported Module: Metasploit Framework
 ---
 name: metasploit-framework
 description: "This skill should be used when the user asks to \"use Metasploit for penetration testing\", \"exploit vulnerabilities with msfconsole\", \"create payloads with msfvenom\", \"perform post-exp..."
@@ -7534,8 +7527,7 @@ exploit/multi/http/jenkins_script_console
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/pentest-checklist/SKILL.md
-
+## Imported Module: Pentest Checklist
 ---
 name: pentest-checklist
 description: "This skill should be used when the user asks to \"plan a penetration test\", \"create a security assessment checklist\", \"prepare for penetration testing\", \"define pentest scope\", \"foll..."
@@ -7874,8 +7866,7 @@ tcpdump -i eth0 -w /tmp/pentest_capture.pcap &
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/pentest-commands/SKILL.md
-
+## Imported Module: Pentest Commands
 ---
 name: pentest-commands
 description: "This skill should be used when the user asks to \"run pentest commands\", \"scan with nmap\", \"use metasploit exploits\", \"crack passwords with hydra or john\", \"scan web vulnerabilities ..."
@@ -8318,8 +8309,7 @@ nikto -h http://target && sqlmap -u "http://target/page?id=1" --dbs
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/red-team-tactics/SKILL.md
-
+## Imported Module: Red Team Tactics
 ---
 name: red-team-tactics
 description: "Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting."
@@ -8525,8 +8515,7 @@ For each successful technique:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/red-team-tools/SKILL.md
-
+## Imported Module: Red Team Tools
 ---
 name: red-team-tools
 description: "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate su..."
@@ -8841,8 +8830,7 @@ amass enum -d target.com | httpx | nuclei -t ~/nuclei-templates/
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/sql-injection-testing/SKILL.md
-
+## Imported Module: Sql Injection Testing
 ---
 name: sql-injection-testing
 description: "This skill should be used when the user asks to \"test for SQL injection vulnerabilities\", \"perform SQLi attacks\", \"bypass authentication using SQL injection\", \"extract database inform..."
@@ -9295,8 +9283,7 @@ SELECT * FROM users WHERE username='administrator'--' AND password='anything'
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/sqlmap-database-pentesting/SKILL.md
-
+## Imported Module: Sqlmap Database Pentesting
 ---
 name: sqlmap-database-pentesting
 description: "This skill should be used when the user asks to \"automate SQL injection testing,\" \"enumerate database structure,\" \"extract database credentials using sqlmap,\" \"dump tables and columns..."
@@ -9701,8 +9688,7 @@ sqlmap -u "URL" --dbs --batch --keep-alive
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/vulnerability-scanner/SKILL.md
-
+## Imported Module: Vulnerability Scanner
 ---
 name: vulnerability-scanner
 description: "Advanced vulnerability analysis principles. OWASP 2025, Supply Chain Security, attack surface mapping, risk prioritization."
@@ -9985,8 +9971,7 @@ Each finding should answer:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/web-security-testing/references/legacy/xss-html-injection/SKILL.md
-
+## Imported Module: Xss Html Injection
 ---
 name: xss-html-injection
 description: "This skill should be used when the user asks to \"test for XSS vulnerabilities\", \"perform cross-site scripting attacks\", \"identify HTML injection flaws\", \"exploit client-side injection..."

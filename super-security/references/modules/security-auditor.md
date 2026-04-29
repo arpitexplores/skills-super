@@ -1,5 +1,4 @@
-## Source: references/skills/security-auditor/SKILL.md
-
+## Module: Security Auditor
 ---
 name: security-auditor
 description: Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.
@@ -168,7 +167,7 @@ Expert security auditor with comprehensive knowledge of modern cybersecurity pra
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: accessibility-compliance-accessibility-audit
@@ -218,7 +217,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agentic-actions-auditor
@@ -350,7 +349,7 @@ For each workflow file, examine every job and every step within each job. Check 
 |-----------------|-------------|
 | vendor AI coding action | AI coding action |
 | `google-github-actions/run-gemini-cli` | AI CLI |
-| `google-gemini/gemini-cli-action` | AI CLI (legacy/archived) |
+| `google-gemini/gemini-cli-action` | AI CLI (archived) |
 | vendor code-generation action | code-generation agent |
 | `actions/ai-inference` | GitHub AI Inference |
 
@@ -545,7 +544,7 @@ For complete documentation beyond this methodology overview:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-security-best-practices
@@ -1460,7 +1459,7 @@ app.post('/api/users', async (req, res) => {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: audit-context-building
@@ -1767,7 +1766,7 @@ This is **pure context building** only.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: auth-implementation-patterns
@@ -1814,7 +1813,7 @@ Build secure, scalable authentication and authorization systems using industry-s
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-security-keyvault-keys-dotnet
@@ -2229,7 +2228,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-security-keyvault-keys-java
@@ -2601,7 +2600,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-security-keyvault-secrets-java
@@ -2967,7 +2966,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: backend-security-coder
@@ -3127,7 +3126,7 @@ Expert backend security developer with comprehensive knowledge of secure coding 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: broken-authentication
@@ -3611,7 +3610,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cc-skill-security-review
@@ -4117,8 +4116,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 ---
 
 
-## Source: references/skills/security-auditor/references/legacy/clerk-auth/SKILL.md
-
+## Imported Module: Clerk Auth
 ---
 name: clerk-auth
 description: "Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentication, sign in, sign up."
@@ -4181,8 +4179,7 @@ Key functions:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/codebase-audit-pre-push/SKILL.md
-
+## Imported Module: Codebase Audit Pre Push
 ---
 name: codebase-audit-pre-push
 description: "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness."
@@ -4425,8 +4422,7 @@ Overall: 9/10
 - `@git-pushing` - Push code after audit  
 
 
-## Source: references/skills/security-auditor/references/legacy/codebase-cleanup-deps-audit/SKILL.md
-
+## Imported Module: Codebase Cleanup Deps Audit
 ---
 name: codebase-cleanup-deps-audit
 description: "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues,..."
@@ -4482,8 +4478,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed tooling and templates.
 
-## Source: references/skills/security-auditor/references/legacy/crypto-bd-agent/SKILL.md
-
+## Imported Module: Crypto Bd Agent
 ---
 name: crypto-bd-agent
 description: Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain identity, LLM cascade routing, and...
@@ -4720,8 +4715,7 @@ Buzz BD Agent (SolCex Exchange):
 - Verify: 8004scan.io
 - GitHub: https://github.com/buzzbysolcex/buzz-bd-agent
 
-## Source: references/skills/security-auditor/references/legacy/customs-trade-compliance/SKILL.md
-
+## Imported Module: Customs Trade Compliance
 ---
 name: customs-trade-compliance
 description: Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions.
@@ -4965,8 +4959,7 @@ Use this skill when you are **planning, auditing, or remediating customs and tra
 - Evaluating or optimising duty exposure via FTAs, FTZs, drawback, valuation, or Incoterms changes.
 - Investigating compliance risk, penalty exposure, or restricted‑party screening issues across import/export operations.
 
-## Source: references/skills/security-auditor/references/legacy/dependency-management-deps-audit/SKILL.md
-
+## Imported Module: Dependency Management Deps Audit
 ---
 name: dependency-management-deps-audit
 description: "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues,..."
@@ -5015,8 +5008,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed tooling and templates.
 
-## Source: references/skills/security-auditor/references/legacy/doc-coauthoring/SKILL.md
-
+## Imported Module: Doc Coauthoring
 ---
 name: doc-coauthoring
 description: "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This ..."
@@ -5399,8 +5391,7 @@ Announce document completion. Provide a few final tips:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/emblemai-crypto-wallet/SKILL.md
-
+## Imported Module: Emblemai Crypto Wallet
 ---
 name: emblemai-crypto-wallet
 description: "Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API. Balance checks, token swaps, portfolio analysis, and transaction execution for Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin."
@@ -5475,8 +5466,7 @@ Authentication requires an API key passed as `x-api-key` header.
 - [npm package](https://www.npmjs.com/package/@emblemvault/agentwallet)
 - [EmblemAI](https://agenthustle.ai)
 
-## Source: references/skills/security-auditor/references/legacy/fda-food-safety-auditor/SKILL.md
-
+## Imported Module: Fda Food Safety Auditor
 ---
 name: fda-food-safety-auditor
 description: "Expert AI auditor for FDA Food Safety (FSMA), HACCP, and PCQI compliance. Reviews food facility records and preventive controls."
@@ -5535,8 +5525,7 @@ Required Actions:
 - ❌ **Don't:** Assume SSOPs (Sanitation Standard Operating Procedures) satisfy the same requirements as process preventive controls.
 - ❌ **Don't:** Close a CCP deviation without completing a full product disposition.
 
-## Source: references/skills/security-auditor/references/legacy/fda-medtech-compliance-auditor/SKILL.md
-
+## Imported Module: Fda Medtech Compliance Auditor
 ---
 name: fda-medtech-compliance-auditor
 description: "Expert AI auditor for Medical Device (SaMD) compliance, IEC 62304, and 21 CFR Part 820. Reviews DHFs, technical files, and software validation."
@@ -5598,8 +5587,7 @@ Required Actions:
 - ❌ **Don't:** Forget to link every software defect to a clinical risk item in your ISO 14971 risk file.
 - ❌ **Don't:** Assume "we tested it and it works" satisfies IEC 62304 software verification requirements.
 
-## Source: references/skills/security-auditor/references/legacy/frontend-security-coder/SKILL.md
-
+## Imported Module: Frontend Security Coder
 ---
 name: frontend-security-coder
 description: Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.
@@ -5769,8 +5757,7 @@ Expert frontend security developer with comprehensive knowledge of client-side s
 - "Implement secure authentication token storage and rotation"
 - "Create secure third-party widget integration with iframe sandboxing"
 
-## Source: references/skills/security-auditor/references/legacy/gdpr-data-handling/SKILL.md
-
+## Imported Module: Gdpr Data Handling
 ---
 name: gdpr-data-handling
 description: "Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU personal data, implementing privacy controls, o..."
@@ -5808,8 +5795,7 @@ Practical implementation guide for GDPR-compliant data processing, consent manag
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/gha-security-review/SKILL.md
-
+## Imported Module: Gha Security Review
 ---
 name: gha-security-review
 description: GitHub Actions security review for workflow exploitation vulnerabilities. Use when asked to "review GitHub Actions", "audit workflows", "check CI security", "GHA security", "workflow security review", or review .github/workflows/ for pwn requests, expression injection,...
@@ -5996,8 +5982,7 @@ If any link is broken, mark MEDIUM (needs verification) or drop the finding.
 
 If no findings: "No exploitable vulnerabilities identified. All workflows reviewed and cleared."
 
-## Source: references/skills/security-auditor/references/legacy/golang-security-auditor/SKILL.md
-
+## Imported Module: Golang Security Auditor
 ---
 name: golang-security-auditor
 description: Golang Security Auditor
@@ -6005,8 +5990,7 @@ description: Golang Security Auditor
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/incident-responder/SKILL.md
-
+## Imported Module: Incident Responder
 ---
 name: incident-responder
 description: Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
@@ -6217,8 +6201,7 @@ Expert incident responder with deep knowledge of SRE principles, modern observab
 
 Remember: Excellence in incident response comes from preparation, practice, and continuous improvement of both technical systems and human processes.
 
-## Source: references/skills/security-auditor/references/legacy/incident-response-incident-response/SKILL.md
-
+## Imported Module: Incident Response Incident Response
 ---
 name: incident-response-incident-response
 description: "Use when working with incident response incident response"
@@ -6391,8 +6374,7 @@ Orchestrate multi-agent incident response with modern SRE practices for rapid re
 
 Production incident requiring immediate response: $ARGUMENTS
 
-## Source: references/skills/security-auditor/references/legacy/incident-response-smart-fix/SKILL.md
-
+## Imported Module: Incident Response Smart Fix
 ---
 name: incident-response-smart-fix
 description: "[Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that leverages AI-assisted debugging tools and observability platforms to systematically diagnose and res"
@@ -6426,8 +6408,7 @@ date_added: "2026-02-27"
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/incident-runbook-templates/SKILL.md
-
+## Imported Module: Incident Runbook Templates
 ---
 name: incident-runbook-templates
 description: "Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use when building runbooks, responding to incidents, or establishing incident resp..."
@@ -6827,8 +6808,7 @@ psql -c "VACUUM FULL large_table;"
 - [PagerDuty Incident Response](https://response.pagerduty.com/)
 - [Atlassian Incident Management](https://www.atlassian.com/incident-management)
 
-## Source: references/skills/security-auditor/references/legacy/k8s-security-policies/SKILL.md
-
+## Imported Module: K8S Security Policies
 ---
 name: k8s-security-policies
 description: "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or ..."
@@ -7179,8 +7159,7 @@ kubectl auth can-i '*' '*' --as system:serviceaccount:default:my-sa
 - `k8s-manifest-generator` - For creating secure manifests
 - `gitops-workflow` - For automated policy deployment
 
-## Source: references/skills/security-auditor/references/legacy/laravel-security-audit/SKILL.md
-
+## Imported Module: Laravel Security Audit
 ---
 name: laravel-security-audit
 description: "Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices."
@@ -7406,8 +7385,7 @@ $post = Post::where('user_id', auth()->id())
     ->findOrFail($id);
 ```
 
-## Source: references/skills/security-auditor/references/legacy/local-legal-seo-audit/SKILL.md
-
+## Imported Module: Local Legal Seo Audit
 ---
 name: local-legal-seo-audit
 description: "Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directories, E-E-A-T and practice/location pages."
@@ -7757,8 +7735,7 @@ Same format
 - **ai-seo**: For optimizing legal content for AI search experiences and featured snippets.
 - **page-cro**: For improving conversion rate on practice area pages and contact forms.
 
-## Source: references/skills/security-auditor/references/legacy/malware-analyst/SKILL.md
-
+## Imported Module: Malware Analyst
 ---
 name: malware-analyst
 description: Expert malware analyst specializing in defensive malware research, threat intelligence, and incident response. Masters sandbox analysis, behavioral analysis, and malware family identification.
@@ -8004,8 +7981,7 @@ rule Malware_Generic_Packer
 5. **Extract value**: IOCs, detection rules, understanding
 6. **Document findings**: Clear reporting for stakeholders
 
-## Source: references/skills/security-auditor/references/legacy/memory-forensics/SKILL.md
-
+## Imported Module: Memory Forensics
 ---
 name: memory-forensics
 description: "Master memory forensics techniques including memory acquisition, process analysis, and artifact extraction using Volatility and related tools. Use when analyzing memory dumps, investigating inciden..."
@@ -8501,8 +8477,7 @@ floss pid.1234.dmp
 - **Smear**: Memory may change during acquisition
 - **Encryption**: Some data may be encrypted in memory
 
-## Source: references/skills/security-auditor/references/legacy/microsoft-azure-webjobs-extensions-authentication-events-dotnet/SKILL.md
-
+## Imported Module: Microsoft Azure Webjobs Extensions Authentication Events Dotnet
 ---
 name: microsoft-azure-webjobs-extensions-authentication-events-dotnet
 description: Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
@@ -8949,8 +8924,7 @@ public static WebJobsAuthenticationEventResponse Run(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/mobile-security-coder/SKILL.md
-
+## Imported Module: Mobile Security Coder
 ---
 name: mobile-security-coder
 description: Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.
@@ -9134,8 +9108,7 @@ Expert mobile security developer with comprehensive knowledge of mobile security
 - "Set up secure Xamarin native interop with assembly protection"
 - "Implement secure Cordova plugin communication with sandboxing"
 
-## Source: references/skills/security-auditor/references/legacy/monte-carlo-vulnerability-detection/SKILL.md
-
+## Imported Module: Monte Carlo Vulnerability Detection
 ---
 name: monte-carlo-vulnerability-detection
 description: Monte Carlo Vulnerability Detection
@@ -9143,8 +9116,7 @@ description: Monte Carlo Vulnerability Detection
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/nextjs-supabase-auth/SKILL.md
-
+## Imported Module: Nextjs Supabase Auth
 ---
 name: nextjs-supabase-auth
 description: "Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route."
@@ -9207,8 +9179,7 @@ Works well with: `nextjs-app-router`, `supabase-backend`
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/odoo-l10n-compliance/SKILL.md
-
+## Imported Module: Odoo L10N Compliance
 ---
 name: odoo-l10n-compliance
 description: "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup."
@@ -9311,8 +9282,7 @@ Fiscal Position (created separately):
 - ❌ **Don't:** Manually create a chart of accounts if a localization module exists for your country.
 - ❌ **Don't:** Mix localization tax accounts with custom accounts — it breaks fiscal reports.
 
-## Source: references/skills/security-auditor/references/legacy/odoo-security-rules/SKILL.md
-
+## Imported Module: Odoo Security Rules
 ---
 name: odoo-security-rules
 description: "Expert in Odoo access control: ir.model.access.csv, record rules (ir.rule), groups, and multi-company security patterns."
@@ -9406,8 +9376,7 @@ access_hospital_patient_manager,hospital.patient.manager,model_hospital_patient,
 - Record rules are **bypassed by `sudo()`** — any code running in superuser context ignores all `ir.rule` entries.
 - Does not cover **row-level security via PostgreSQL** (RLS) — Odoo manages all security at the ORM layer.
 
-## Source: references/skills/security-auditor/references/legacy/pci-compliance/SKILL.md
-
+## Imported Module: Pci Compliance
 ---
 name: pci-compliance
 description: "Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI compliance, or implementing payment card ..."
@@ -9890,8 +9859,7 @@ PCI_COMPLIANCE_CHECKLIST = {
 
 By minimizing systems that touch card data, you reduce compliance burden significantly.
 
-## Source: references/skills/security-auditor/references/legacy/production-code-audit/SKILL.md
-
+## Imported Module: Production Code Audit
 ---
 name: production-code-audit
 description: "Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then systematically transform it to production-grade, corporate-level professional quality with optimizations"
@@ -10436,8 +10404,7 @@ Current metrics:
 
 **Pro Tip:** Schedule regular audits (quarterly) to maintain code quality. Prevention is cheaper than fixing production bugs!
 
-## Source: references/skills/security-auditor/references/legacy/proof-of-vulnerability/SKILL.md
-
+## Imported Module: Proof Of Vulnerability
 ---
 name: proof-of-vulnerability
 description: Proof Of Vulnerability
@@ -10445,8 +10412,7 @@ description: Proof Of Vulnerability
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/protocol-reverse-engineering/SKILL.md
-
+## Imported Module: Protocol Reverse Engineering
 ---
 name: protocol-reverse-engineering
 description: "Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network traffic, understanding proprietary protocol..."
@@ -10480,8 +10446,7 @@ Comprehensive techniques for capturing, analyzing, and documenting network proto
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/python-security-auditor/SKILL.md
-
+## Imported Module: Python Security Auditor
 ---
 name: python-security-auditor
 description: Python Security Auditor
@@ -10489,8 +10454,7 @@ description: Python Security Auditor
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/returns-reverse-logistics/SKILL.md
-
+## Imported Module: Returns Reverse Logistics
 ---
 name: returns-reverse-logistics
 description: Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
@@ -10710,8 +10674,7 @@ Use this skill when you need to **design, improve, or troubleshoot returns and r
 - Investigating high return rates, fraud patterns, or margin leakage in refunds and write‑offs.
 - Building SOPs, scorecards, or automation flows for RMAs, inspections, RTV, and warranty workflows in retail or e‑commerce environments.
 
-## Source: references/skills/security-auditor/references/legacy/reverse-engineer/SKILL.md
-
+## Imported Module: Reverse Engineer
 ---
 name: reverse-engineer
 description: Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and modern RE toolchains.
@@ -10882,8 +10845,7 @@ Response: For authorized analysis of the DLL:
    - Note any security considerations
 ```
 
-## Source: references/skills/security-auditor/references/legacy/rust-security-auditor/SKILL.md
-
+## Imported Module: Rust Security Auditor
 ---
 name: rust-security-auditor
 description: Rust Security Auditor
@@ -10891,8 +10853,7 @@ description: Rust Security Auditor
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/sast-configuration/SKILL.md
-
+## Imported Module: Sast Configuration
 ---
 name: sast-configuration
 description: "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or aut..."
@@ -11109,8 +11070,7 @@ semgrep --config p/pci-dss --json -o pci-scan-results.json
 5. Establish security gate policies
 6. Train development team on findings and remediation
 
-## Source: references/skills/security-auditor/references/legacy/security/aws-compliance-checker/SKILL.md
-
+## Imported Module: Aws Compliance Checker
 ---
 name: aws-compliance-checker
 description: "Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks"
@@ -11629,8 +11589,7 @@ kiro-cli chat "Generate PCI-DSS report with aws-compliance-checker"
 - [AWS Security Hub](https://aws.amazon.com/security-hub/)
 - [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
 
-## Source: references/skills/security-auditor/references/legacy/security/aws-iam-best-practices/SKILL.md
-
+## Imported Module: Aws Iam Best Practices
 ---
 name: aws-iam-best-practices
 description: "IAM policy review, hardening, and least privilege implementation"
@@ -12030,8 +11989,7 @@ kiro-cli chat "Create a least privilege policy with aws-iam-best-practices"
 - [IAM Policy Simulator](https://policysim.aws.amazon.com/)
 - [IAM Access Analyzer](https://aws.amazon.com/iam/features/analyze-access/)
 
-## Source: references/skills/security-auditor/references/legacy/security/aws-secrets-rotation/SKILL.md
-
+## Imported Module: Aws Secrets Rotation
 ---
 name: aws-secrets-rotation
 description: "Automate AWS secrets rotation for RDS, API keys, and credentials"
@@ -12499,8 +12457,7 @@ kiro-cli chat "Create a rotation audit report with aws-secrets-rotation"
 - [Rotation Lambda Templates](https://github.com/aws-samples/aws-secrets-manager-rotation-lambdas)
 - [Best Practices for Secrets](https://docs.aws.amazon.com/secretsmanager/latest/userguide/best-practices.html)
 
-## Source: references/skills/security-auditor/references/legacy/security/aws-security-audit/SKILL.md
-
+## Imported Module: Aws Security Audit
 ---
 name: aws-security-audit
 description: "Comprehensive AWS security posture assessment using AWS CLI and security best practices"
@@ -12872,8 +12829,7 @@ kiro-cli chat "Generate a security audit report with aws-security-audit"
 - [CIS AWS Foundations Benchmark](https://www.cisecurity.org/benchmark/amazon_web_services)
 - [AWS Security Hub](https://aws.amazon.com/security-hub/)
 
-## Source: references/skills/security-auditor/references/legacy/security-audit/SKILL.md
-
+## Imported Module: Security Audit
 ---
 name: security-audit
 description: "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening."
@@ -13092,8 +13048,7 @@ Use @security-scanning-security-hardening to harden application security
 - `cloud-devops` - Cloud security
 - `testing-qa` - Security testing
 
-## Source: references/skills/security-auditor/references/legacy/security-bluebook-builder/SKILL.md
-
+## Imported Module: Security Bluebook Builder
 ---
 name: security-bluebook-builder
 description: Create or refine a concise, normative security policy ("Blue Book") for sensitive applications. Use when users need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion expectations, incident response, or security...
@@ -13141,8 +13096,7 @@ Confirm the Blue Book includes:
 ## Resources
 - `references/bluebook_template.md`
 
-## Source: references/skills/security-auditor/references/legacy/security-compliance-compliance-check/SKILL.md
-
+## Imported Module: Security Compliance Compliance Check
 ---
 name: security-compliance-compliance-check
 description: "You are a compliance expert specializing in regulatory requirements for software systems including GDPR, HIPAA, SOC2, PCI-DSS, and other industry standards. Perform compliance audits and provide im..."
@@ -13202,8 +13156,7 @@ Focus on practical implementation that balances compliance requirements with bus
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/security-requirement-extraction/SKILL.md
-
+## Imported Module: Security Requirement Extraction
 ---
 name: security-requirement-extraction
 description: "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases."
@@ -13241,8 +13194,7 @@ Transform threat analysis into actionable security requirements.
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/security-scanning-security-dependencies/SKILL.md
-
+## Imported Module: Security Scanning Security Dependencies
 ---
 name: security-scanning-security-dependencies
 description: "You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and supply chain security. Scan project dependencies across ecosystems to identify vulnerabilities, ass..."
@@ -13290,8 +13242,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/security-scanning-security-hardening/SKILL.md
-
+## Imported Module: Security Scanning Security Hardening
 ---
 name: security-scanning-security-hardening
 description: "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls."
@@ -13443,8 +13394,7 @@ Implement comprehensive security hardening with defense-in-depth strategy throug
 
 Security hardening target: $ARGUMENTS
 
-## Source: references/skills/security-auditor/references/legacy/security-scanning-security-sast/SKILL.md
-
+## Imported Module: Security Scanning Security Sast
 ---
 name: security-scanning-security-sast
 description: 'Static Application Security Testing (SAST) for code vulnerability
@@ -13942,8 +13892,7 @@ sast:
 - **security-api.md** - API security testing
 - **security-scan.md** - Comprehensive security scanning
 
-## Source: references/skills/security-auditor/references/legacy/security-skill-creator/SKILL.md
-
+## Imported Module: Security Skill Creator
 ---
 name: security-skill-creator
 description: Security Skill Creator
@@ -13951,8 +13900,7 @@ description: Security Skill Creator
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/seo-audit/SKILL.md
-
+## Imported Module: Seo Audit
 ---
 name: seo-audit
 description: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
@@ -14441,8 +14389,7 @@ Use these skills **only after the audit is complete** and findings are accepted.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/seo-authority-builder/SKILL.md
-
+## Imported Module: Seo Authority Builder
 ---
 name: seo-authority-builder
 description: 'Analyzes content for E-E-A-T signals and suggests improvements to
@@ -14585,8 +14532,7 @@ Priority Actions:
 
 Focus on demonstrable expertise and clear trust signals. Suggest concrete improvements for authority building.
 
-## Source: references/skills/security-auditor/references/legacy/seo-content-auditor/SKILL.md
-
+## Imported Module: Seo Content Auditor
 ---
 name: seo-content-auditor
 description: Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.
@@ -14670,8 +14616,7 @@ You are an SEO content auditor analyzing provided content for optimization oppor
 
 Focus on actionable improvements based on SEO best practices and content quality standards.
 
-## Source: references/skills/security-auditor/references/legacy/seo-forensic-incident-response/SKILL.md
-
+## Imported Module: Seo Forensic Incident Response
 ---
 name: seo-forensic-incident-response
 description: "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan."
@@ -14935,8 +14880,7 @@ When helping a user, ask:
 - **schema-markup**: For implementing structured data after stability is restored.
 - **analytics-tracking**: For ensuring measurement is correct post-incident.
 
-## Source: references/skills/security-auditor/references/legacy/social-content/SKILL.md
-
+## Imported Module: Social Content
 ---
 name: social-content
 description: "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn..."
@@ -15751,8 +15695,7 @@ If you need more context:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/security-auditor/references/legacy/social-orchestrator/SKILL.md
-
+## Imported Module: Social Orchestrator
 ---
 name: social-orchestrator
 description: Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por...
@@ -16053,8 +15996,7 @@ Estrategia: Publish-or-Skip (nao cancela toda campanha)
 - `telegram` - Complementary skill for enhanced analysis
 - `whatsapp-cloud-api` - Complementary skill for enhanced analysis
 
-## Source: references/skills/security-auditor/references/legacy/solidity-security/SKILL.md
-
+## Imported Module: Solidity Security
 ---
 name: solidity-security
 description: "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementin..."
@@ -16093,8 +16035,7 @@ Master smart contract security best practices, vulnerability prevention, and sec
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/security-auditor/references/legacy/spec-to-code-compliance/SKILL.md
-
+## Imported Module: Spec To Code Compliance
 ---
 name: spec-to-code-compliance
 description: Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.
@@ -16453,8 +16394,7 @@ Invoke directly: "Use the spec-compliance-checker agent to verify this codebase 
 
 # END OF SKILL
 
-## Source: references/skills/security-auditor/references/legacy/vibe-code-auditor/SKILL.md
-
+## Imported Module: Vibe Code Auditor
 ---
 name: vibe-code-auditor
 description: Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.
@@ -16791,8 +16731,7 @@ Before auditing, if not already provided, ask:
 - **test-driven-development**: For adding test coverage to address robustness gaps.
 - **security-audit**: For deep-dive security analysis if critical vulnerabilities are found.
 
-## Source: references/skills/security-auditor/references/legacy/wcag-audit-patterns/SKILL.md
-
+## Imported Module: Wcag Audit Patterns
 ---
 name: wcag-audit-patterns
 description: "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fixing WCAG violations, or implementing ac..."
@@ -16838,8 +16777,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
 
-## Source: references/skills/security-auditor/references/legacy/yara-authoring/SKILL.md
-
+## Imported Module: Yara Authoring
 ---
 name: yara-authoring
 description: Yara Authoring
@@ -16847,8 +16785,7 @@ description: Yara Authoring
 
 404: Not Found
 
-## Source: references/skills/security-auditor/references/legacy/zeroize-audit/SKILL.md
-
+## Imported Module: Zeroize Audit
 ---
 name: zeroize-audit
 description: "Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data."

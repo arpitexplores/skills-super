@@ -1,5 +1,4 @@
-## Source: references/skills/office-productivity/SKILL.md
-
+## Module: Office Productivity
 ---
 name: office-productivity
 description: "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
@@ -221,7 +220,7 @@ Formats: Google Docs, Sheets, Slides
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: docx-official
@@ -428,7 +427,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pdf-official
@@ -732,7 +731,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pptx-official
@@ -1226,7 +1225,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pr-writer
@@ -1414,7 +1413,7 @@ Note: `gh pr edit` is currently broken due to GitHub's Projects (classic) deprec
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: skill-writer
@@ -1529,7 +1528,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: xlsx-official
@@ -1826,8 +1825,7 @@ The script returns JSON with error details:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/office-productivity/references/legacy/docx/SKILL.md
-
+## Imported Module: Docx
 ---
 name: docx-official
 description: "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When the assistant needs to work with professional document..."
@@ -2031,8 +2029,7 @@ Required dependencies (install if not available):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/office-productivity/references/legacy/libreoffice/base/SKILL.md
-
+## Imported Module: Base
 ---
 name: base
 description: "Database management, forms, reports, and data operations with LibreOffice Base."
@@ -2221,8 +2218,7 @@ soffice --headless --accept="socket,host=localhost,port=8100;urp;"
 - draw
 - workflow-automation
 
-## Source: references/skills/office-productivity/references/legacy/libreoffice/calc/SKILL.md
-
+## Imported Module: Calc
 ---
 name: calc
 description: "Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc."
@@ -2424,8 +2420,7 @@ soffice --headless --accept="socket,host=localhost,port=8100;urp;"
 - xlsx-official
 - workflow-automation
 
-## Source: references/skills/office-productivity/references/legacy/libreoffice/draw/SKILL.md
-
+## Imported Module: Draw
 ---
 name: draw
 description: "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw."
@@ -2591,8 +2586,7 @@ soffice --headless --convert-to png:PNG_drawing_Export \
 - base
 - workflow-automation
 
-## Source: references/skills/office-productivity/references/legacy/libreoffice/impress/SKILL.md
-
+## Imported Module: Impress
 ---
 name: impress
 description: "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress."
@@ -2767,8 +2761,7 @@ soffice --headless --accept="socket,host=localhost,port=8100;urp;"
 - pptx-official
 - workflow-automation
 
-## Source: references/skills/office-productivity/references/legacy/libreoffice/writer/SKILL.md
-
+## Imported Module: Writer
 ---
 name: writer
 description: "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer."
@@ -2969,8 +2962,7 @@ soffice --headless --convert-to pdf:writer_pdf_Export document.odt
 - pdf-official
 - workflow-automation
 
-## Source: references/skills/office-productivity/references/legacy/pdf/SKILL.md
-
+## Imported Module: Pdf
 ---
 name: pdf-official
 description: "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When the assistant needs to fill in a PDF form or programmaticall..."
@@ -3271,8 +3263,7 @@ with open("encrypted.pdf", "wb") as output:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/office-productivity/references/legacy/pptx/SKILL.md
-
+## Imported Module: Pptx
 ---
 name: pptx-official
 description: "Presentation creation, editing, and analysis. When the assistant needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layo..."
@@ -3763,8 +3754,7 @@ Required dependencies (should already be installed):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/office-productivity/references/legacy/pr-writer/SKILL.md
-
+## Imported Module: Pr Writer
 ---
 name: pr-writer
 description: ALWAYS use this skill when creating or updating pull requests — never create or edit a PR directly without it. Follows Sentry conventions for PR titles, descriptions, and issue references. Trigger on any create PR, open PR, submit PR, make PR,...
@@ -3949,8 +3939,7 @@ Note: `gh pr edit` is currently broken due to GitHub's Projects (classic) deprec
 - [Sentry Code Review Guidelines](https://develop.sentry.dev/engineering-practices/code-review/)
 - [Sentry Commit Messages](https://develop.sentry.dev/engineering-practices/commit-messages/)
 
-## Source: references/skills/office-productivity/references/legacy/skill-writer/SKILL.md
-
+## Imported Module: Skill Writer
 ---
 name: skill-writer
 description: Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.
@@ -4062,8 +4051,7 @@ Return:
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/office-productivity/references/legacy/xlsx/SKILL.md
-
+## Imported Module: Xlsx
 ---
 name: xlsx-official
 description: "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When the assistant needs to work with spreadsheets (.xlsx, .xlsm, .csv, ...."

@@ -1,5 +1,4 @@
-## Source: references/skills/legal-advisor/SKILL.md
-
+## Module: Legal Advisor
 ---
 name: legal-advisor
 description: Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.
@@ -71,7 +70,7 @@ Focus on comprehensiveness, clarity, and regulatory compliance while maintaining
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: advogado-criminal
@@ -1026,7 +1025,7 @@ python agent-orchestrator/scripts/match_skills.py "caso criminal"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: building-secure-contracts
@@ -1035,8 +1034,7 @@ description: Building Secure Contracts
 
 404: Not Found
 
-## Source: references/skills/legal-advisor/references/legacy/advogado-criminal/SKILL.md
-
+## Imported Module: Advogado Criminal
 ---
 name: advogado-criminal
 description: Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.
@@ -1988,8 +1986,7 @@ python agent-orchestrator/scripts/match_skills.py "caso criminal"
 
 - `advogado-especialista` - Complementary skill for enhanced analysis
 
-## Source: references/skills/legal-advisor/references/legacy/building-secure-contracts/SKILL.md
-
+## Imported Module: Building Secure Contracts
 ---
 name: building-secure-contracts
 description: Building Secure Contracts

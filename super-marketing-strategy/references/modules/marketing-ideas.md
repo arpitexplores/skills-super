@@ -1,5 +1,4 @@
-## Source: references/skills/marketing-ideas/SKILL.md
-
+## Module: Marketing Ideas
 ---
 name: marketing-ideas
 description: Growth strategy, launch planning, psychology-driven tactics, retention/churn reduction, and free tool strategy.
@@ -167,7 +166,7 @@ When recommending ideas, provide for each:
 - **free-tool-strategy**: For engineering as marketing (#15)
 - **referral-program**: For viral growth (#93)
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Marketing Ideas for SaaS (with Feasibility Scoring)
 
@@ -841,7 +840,7 @@ When facing a marketing challenge, consider:
 - **pricing-page optimization**: See page-cro for pricing psychology
 - **ab-test-setup**: Test psychological hypotheses
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Marketing Psychology & Mental Models
 
@@ -1622,7 +1621,7 @@ Rate each factor 1-5:
 - **analytics-tracking**: For measuring tool usage
 - **email-sequence**: For nurturing leads from the tool
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Free Tool Strategy (Engineering as Marketing)
 
@@ -2881,8 +2880,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key tools
 - **marketing-psychology**: For understanding referral motivation
 - **analytics-tracking**: For tracking referral attribution
 
-## Source: references/skills/marketing-ideas/references/legacy/churn-prevention/SKILL.md
-
+## Imported Module: Churn Prevention
 ---
 name: churn-prevention
 description: "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when the user mentions 'churn,' 'cancel flow,' 'offboarding,' 'save offer,' 'dunning,' 'failed payment recovery,' 'win-back,' 'retention,' 'exit survey,' 'pause subscription,' 'involuntary churn,' 'people keep canceling,' 'churn rate is too high,' 'how do I keep users,' or 'customers are leaving.' Use this whenever someone is losing subscribers or wants to build systems to prevent it. For post-cancel win-back email sequences, see email-sequence. For in-app upgrade paywalls, see paywall-upgrade-cro."
@@ -3308,8 +3306,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md).
 - **analytics-tracking**: For setting up churn signal events
 - **ab-test-setup**: For testing cancel flow variations with statistical rigor
 
-## Source: references/skills/marketing-ideas/references/legacy/free-tool-strategy/SKILL.md
-
+## Imported Module: Free Tool Strategy
 ---
 name: free-tool-strategy
 description: When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions "engineering as marketing," "free tool," "marketing tool," "calculator," "generator," "interactive tool," "lead gen tool," "build a tool for leads," "free resource," "ROI calculator," "grader tool," "audit tool," "should I build a free tool," or "tools for lead gen." Use this whenever someone wants to build something useful and give it away to attract leads or earn links. For downloadable content lead magnets (ebooks, checklists, templates), see lead-magnets.
@@ -3489,7 +3486,7 @@ Rate each factor 1-5:
 - **analytics-tracking**: For measuring tool usage
 - **email-sequence**: For nurturing leads from the tool
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Free Tool Strategy (Engineering as Marketing)
 
@@ -4066,8 +4063,7 @@ If you need more context:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/marketing-ideas/references/legacy/launch-strategy/SKILL.md
-
+## Imported Module: Launch Strategy
 ---
 name: launch-strategy
 description: "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'launch checklist,' 'GTM plan,' or 'we're about to ship.' Use this whenever someone is preparing to release something publicly. For ongoing marketing after launch, see marketing-ideas."
@@ -4421,8 +4417,7 @@ Even small changelog updates remind customers your product is evolving. This bui
 - **programmatic-seo**: For comparison pages mentioned in post-launch
 - **sales-enablement**: For launch sales collateral and enablement materials
 
-## Source: references/skills/marketing-ideas/references/legacy/marketing-psychology/SKILL.md
-
+## Imported Module: Marketing Psychology
 ---
 name: marketing-psychology
 description: "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' 'consumer behavior,' 'anchoring,' 'social proof,' 'scarcity,' 'loss aversion,' 'framing,' or 'nudge.' Use this whenever someone wants to understand or leverage how people think and make decisions in a marketing context."
@@ -4878,7 +4873,7 @@ When facing a marketing challenge, consider:
 - **pricing-page optimization**: See page-cro for pricing psychology
 - **ab-test-setup**: Test psychological hypotheses
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Marketing Psychology & Mental Models
 

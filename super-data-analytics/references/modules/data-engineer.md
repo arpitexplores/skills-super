@@ -1,5 +1,4 @@
-## Source: references/skills/data-engineer/SKILL.md
-
+## Module: Data Engineer
 ---
 name: data-engineer
 description: Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.
@@ -225,7 +224,7 @@ Expert data engineer specializing in building robust, scalable data pipelines an
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: airflow-dag-patterns
@@ -274,7 +273,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: bill-gates
@@ -1090,7 +1089,7 @@ Quem acredita que minha agenda e de 'depopulacao' nao entende epidemiologia demo
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: biopython
@@ -1535,7 +1534,7 @@ The modular reference documentation ensures detailed, searchable information for
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-engineering-data-driven-feature
@@ -1725,7 +1724,7 @@ Feature to develop with data-driven approach: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-storytelling
@@ -2198,7 +2197,7 @@ Present ranges:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-visualization
@@ -2209,7 +2208,7 @@ description: Data Visualization
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dbt-transformation-patterns
@@ -2251,7 +2250,7 @@ Production-ready patterns for dbt (data build tool) including model organization
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fixing-metadata
@@ -2367,7 +2366,7 @@ Reference these guidelines when:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fp-data-transforms
@@ -3888,7 +3887,7 @@ const result = items
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hugging-face-dataset-viewer
@@ -4019,7 +4018,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hugging-face-datasets
@@ -4566,7 +4565,7 @@ uv run scripts/dataset_manager.py add_rows \
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: matplotlib
@@ -4929,7 +4928,7 @@ Matplotlib integrates well with:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: mobile-developer
@@ -5137,7 +5136,7 @@ Expert mobile developer specializing in React Native, Flutter, and native iOS/An
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: native-data-fetching
@@ -5649,7 +5648,7 @@ User: "How do I load data for a page in Expo Router?"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: nosql-expert
@@ -5768,7 +5767,7 @@ Before finalizing your NoSQL schema:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: numpy
@@ -5779,7 +5778,7 @@ description: Numpy
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pandas
@@ -5796,7 +5795,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: plotly
@@ -6065,7 +6064,7 @@ app.run_server(debug=True)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: postgresql
@@ -6303,7 +6302,7 @@ CREATE INDEX profiles_attrs_gin ON profiles USING GIN (attrs);
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: postgresql-optimization
@@ -6482,7 +6481,7 @@ Use @grafana-dashboards to create PostgreSQL monitoring
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: robius-event-action
@@ -6846,7 +6845,7 @@ if let ItemAction::Selected(item_id) = action.as_widget_action().cast() {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: robius-matrix-integration
@@ -7279,7 +7278,7 @@ async fn build_client(
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: robius-state-management
@@ -7695,7 +7694,7 @@ pub fn clear_ui_cache(_cx: &mut Cx) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: robius-widget-patterns
@@ -8126,7 +8125,7 @@ impl Widget for ItemsList {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sql-optimization-patterns
@@ -8169,7 +8168,7 @@ Transform slow database queries into lightning-fast operations through systemati
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sql-pro
@@ -8345,7 +8344,7 @@ Expert SQL professional focused on high-performance database systems, advanced q
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: stability-ai
@@ -8568,7 +8567,7 @@ Metadados salvos em `.meta.json` com: prompt original, prompt final, modelo, asp
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: top-web-vulnerabilities
@@ -9119,7 +9118,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: mlops-engineer
@@ -9339,8 +9338,7 @@ Expert MLOps engineer specializing in building scalable ML infrastructure and au
 - "Build monitoring system for detecting data drift and model performance issues"
 - "Create cost-optimized training infrastructure using spot instances and auto-scaling"
 
-## Source: references/skills/data-engineer/references/legacy/airflow-dag-patterns/SKILL.md
-
+## Imported Module: Airflow Dag Patterns
 ---
 name: airflow-dag-patterns
 description: "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs."
@@ -9386,8 +9384,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
 
-## Source: references/skills/data-engineer/references/legacy/bill-gates/SKILL.md
-
+## Imported Module: Bill Gates
 ---
 name: bill-gates
 description: Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados. Use...
@@ -10200,8 +10197,7 @@ Quem acredita que minha agenda e de 'depopulacao' nao entende epidemiologia demo
 - `ilya-sutskever` - Complementary skill for enhanced analysis
 - `sam-altman` - Complementary skill for enhanced analysis
 
-## Source: references/skills/data-engineer/references/legacy/biopython/SKILL.md
-
+## Imported Module: Biopython
 ---
 name: biopython
 description: Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed access (Bio.Entrez). Best for batch processing, custom bioinformatics pipelines, BLAST automation. For quick lookups use gget;...
@@ -10644,8 +10640,7 @@ Biopython provides comprehensive tools for computational molecular biology. When
 The modular reference documentation ensures detailed, searchable information for every major Biopython capability.
 
 
-## Source: references/skills/data-engineer/references/legacy/data-engineering-data-driven-feature/SKILL.md
-
+## Imported Module: Data Engineering Data Driven Feature
 ---
 name: data-engineering-data-driven-feature
 description: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
@@ -10832,8 +10827,7 @@ monitoring:
 
 Feature to develop with data-driven approach: $ARGUMENTS
 
-## Source: references/skills/data-engineer/references/legacy/data-storytelling/SKILL.md
-
+## Imported Module: Data Storytelling
 ---
 name: data-storytelling
 description: "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive present..."
@@ -11303,8 +11297,7 @@ Present ranges:
 - [The Pyramid Principle (Barbara Minto)](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516)
 - [Resonate (Nancy Duarte)](https://www.duarte.com/resonate/)
 
-## Source: references/skills/data-engineer/references/legacy/data-visualization/SKILL.md
-
+## Imported Module: Data Visualization
 ---
 name: data-visualization
 description: Data Visualization
@@ -11312,8 +11305,7 @@ description: Data Visualization
 
 404: Not Found
 
-## Source: references/skills/data-engineer/references/legacy/dbt-transformation-patterns/SKILL.md
-
+## Imported Module: Dbt Transformation Patterns
 ---
 name: dbt-transformation-patterns
 description: "Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or ..."
@@ -11352,8 +11344,7 @@ Production-ready patterns for dbt (data build tool) including model organization
 
 - `resources/implementation-playbook.md` for detailed dbt patterns and examples.
 
-## Source: references/skills/data-engineer/references/legacy/fixing-metadata/SKILL.md
-
+## Imported Module: Fixing Metadata
 ---
 name: fixing-metadata
 description: >
@@ -11466,8 +11457,7 @@ Reference these guidelines when:
 - prefer stable, boring metadata over clever or dynamic
 - keep diffs minimal and scoped to metadata only
 
-## Source: references/skills/data-engineer/references/legacy/fp-data-transforms/SKILL.md
-
+## Imported Module: Fp Data Transforms
 ---
 name: fp-data-transforms
 description: Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
@@ -12985,8 +12975,7 @@ const result = items
 - Performance is critical and you've measured
 - The team is more comfortable with it
 
-## Source: references/skills/data-engineer/references/legacy/hugging-face-dataset-viewer/SKILL.md
-
+## Imported Module: Hugging Face Dataset Viewer
 ---
 name: hugging-face-dataset-viewer
 description: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or statistics.
@@ -13114,8 +13103,7 @@ After upload, call `/parquet` to discover `<config>/<split>/<shard>` values for 
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/data-engineer/references/legacy/hugging-face-datasets/SKILL.md
-
+## Imported Module: Hugging Face Datasets
 ---
 name: hugging-face-datasets
 description: Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.
@@ -13659,8 +13647,7 @@ uv run scripts/dataset_manager.py add_rows \
   --rows_json "$(cat processed_data.json)"
 ```
 
-## Source: references/skills/data-engineer/references/legacy/matplotlib/SKILL.md
-
+## Imported Module: Matplotlib
 ---
 name: matplotlib
 description: Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or integrating with specific scientific workflows. Export to PNG/PDF/SVG for publication. For quick...
@@ -14021,8 +14008,7 @@ Matplotlib integrates well with:
 - Tutorials: https://matplotlib.org/stable/tutorials/index.html
 
 
-## Source: references/skills/data-engineer/references/legacy/mlops-engineer/SKILL.md
-
+## Imported Module: Mlops Engineer
 ---
 name: mlops-engineer
 description: Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.
@@ -14241,8 +14227,7 @@ Expert MLOps engineer specializing in building scalable ML infrastructure and au
 - "Build monitoring system for detecting data drift and model performance issues"
 - "Create cost-optimized training infrastructure using spot instances and auto-scaling"
 
-## Source: references/skills/data-engineer/references/legacy/mobile-developer/SKILL.md
-
+## Imported Module: Mobile Developer
 ---
 name: mobile-developer
 description: Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization.
@@ -14447,8 +14432,7 @@ Expert mobile developer specializing in React Native, Flutter, and native iOS/An
 - "Implement real-time chat with offline message queueing"
 - "Design offline-first data sync with conflict resolution"
 
-## Source: references/skills/data-engineer/references/legacy/native-data-fetching/SKILL.md
-
+## Imported Module: Native Data Fetching
 ---
 name: native-data-fetching
 description: Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData).
@@ -14957,8 +14941,7 @@ User: "Where should I put my API key?"
 User: "How do I load data for a page in Expo Router?"
 -> See references/expo-router-loaders.md for route-level loaders (web, SDK 55+). For native, use React Query or fetch.
 
-## Source: references/skills/data-engineer/references/legacy/nosql-expert/SKILL.md
-
+## Imported Module: Nosql Expert
 ---
 name: nosql-expert
 description: "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems."
@@ -15074,8 +15057,7 @@ Before finalizing your NoSQL schema:
 ❌ **Hot Keys:** Putting all "Monday" data into one partition.
 ❌ **Relational Modeling:** Creating `Author` and `Book` tables and trying to join them in code. (Instead, embed Book summaries in Author, or duplicate Author info in Books).
 
-## Source: references/skills/data-engineer/references/legacy/numpy/SKILL.md
-
+## Imported Module: Numpy
 ---
 name: numpy
 description: Numpy
@@ -15083,8 +15065,7 @@ description: Numpy
 
 404: Not Found
 
-## Source: references/skills/data-engineer/references/legacy/pandas/SKILL.md
-
+## Imported Module: Pandas
 ---
 name: pandas
 description: Pandas
@@ -15098,8 +15079,7 @@ source: community
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/data-engineer/references/legacy/plotly/SKILL.md
-
+## Imported Module: Plotly
 ---
 name: plotly
 description: Interactive visualization library. Use when you need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization.
@@ -15366,8 +15346,7 @@ app.run_server(debug=True)
 - Community forum: https://community.plotly.com/
 
 
-## Source: references/skills/data-engineer/references/legacy/postgresql/SKILL.md
-
+## Imported Module: Postgresql
 ---
 name: postgresql
 description: "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features"
@@ -15602,8 +15581,7 @@ CREATE TABLE profiles (
 CREATE INDEX profiles_attrs_gin ON profiles USING GIN (attrs);
 ```
 
-## Source: references/skills/data-engineer/references/legacy/postgresql-optimization/SKILL.md
-
+## Imported Module: Postgresql Optimization
 ---
 name: postgresql-optimization
 description: "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management."
@@ -15779,8 +15757,7 @@ Use @grafana-dashboards to create PostgreSQL monitoring
 - `cloud-devops` - Infrastructure
 - `performance-optimization` - Performance
 
-## Source: references/skills/data-engineer/references/legacy/robius-event-action/SKILL.md
-
+## Imported Module: Robius Event Action
 ---
 name: robius-event-action
 description: |
@@ -16141,8 +16118,7 @@ if let ItemAction::Selected(item_id) = action.as_widget_action().cast() {
   - Platform-conditional actions (#[cfg])
   - UiRunner event handling
 
-## Source: references/skills/data-engineer/references/legacy/robius-matrix-integration/SKILL.md
-
+## Imported Module: Robius Matrix Integration
 ---
 name: robius-matrix-integration
 description: |
@@ -16572,8 +16548,7 @@ async fn build_client(
   - MolyClient for local server
   - BotContext for multi-provider support
 
-## Source: references/skills/data-engineer/references/legacy/robius-state-management/SKILL.md
-
+## Imported Module: Robius State Management
 ---
 name: robius-state-management
 description: |
@@ -16986,8 +16961,7 @@ pub fn clear_ui_cache(_cx: &mut Cx) {
   - Provider syncing status tracking
   - Store action forwarding to submodules
 
-## Source: references/skills/data-engineer/references/legacy/robius-widget-patterns/SKILL.md
-
+## Imported Module: Robius Widget Patterns
 ---
 name: robius-widget-patterns
 description: |
@@ -17415,8 +17389,7 @@ impl Widget for ItemsList {
   - `CommandTextInput` with action buttons
   - Sidebar navigation with radio buttons
 
-## Source: references/skills/data-engineer/references/legacy/sql-optimization-patterns/SKILL.md
-
+## Imported Module: Sql Optimization Patterns
 ---
 name: sql-optimization-patterns
 description: "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database..."
@@ -17456,8 +17429,7 @@ Transform slow database queries into lightning-fast operations through systemati
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/data-engineer/references/legacy/sql-pro/SKILL.md
-
+## Imported Module: Sql Pro
 ---
 name: sql-pro
 description: Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems.
@@ -17630,8 +17602,7 @@ Expert SQL professional focused on high-performance database systems, advanced q
 - "Create a time-series analysis query for IoT sensor data in TimescaleDB"
 - "Optimize database performance for a high-traffic e-commerce platform"
 
-## Source: references/skills/data-engineer/references/legacy/stability-ai/SKILL.md
-
+## Imported Module: Stability Ai
 ---
 name: stability-ai
 description: Geracao de imagens via Stability AI (SD3.5, Ultra, Core). Text-to-image, img2img, inpainting, upscale, remove-bg, search-replace. 15 estilos artisticos.
@@ -17851,8 +17822,7 @@ Metadados salvos em `.meta.json` com: prompt original, prompt final, modelo, asp
 - `comfyui-gateway` - Complementary skill for enhanced analysis
 - `image-studio` - Complementary skill for enhanced analysis
 
-## Source: references/skills/data-engineer/references/legacy/top-web-vulnerabilities/SKILL.md
-
+## Imported Module: Top Web Vulnerabilities
 ---
 name: top-web-vulnerabilities
 description: "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about inject..."

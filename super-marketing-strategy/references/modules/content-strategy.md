@@ -1,5 +1,4 @@
-## Source: references/skills/content-strategy/SKILL.md
-
+## Module: Content Strategy
 ---
 name: content-strategy
 description: Content planning, customer research, lead magnets, and site architecture for scalable growth.
@@ -1289,8 +1288,7 @@ Mermaid diagram showing page relationships and navigation zones. Use `graph TD` 
 - **schema-markup**: For implementing breadcrumb and site navigation structured data
 - **competitor-alternatives**: For comparison page frameworks and URL patterns
 
-## Source: references/skills/content-strategy/references/legacy/customer-research/SKILL.md
-
+## Imported Module: Customer Research
 ---
 name: customer-research
 description: When the user wants to conduct, analyze, or synthesize customer research. Use when the user mentions "customer research," "ICP research," "talk to customers," "analyze transcripts," "customer interviews," "survey analysis," "support ticket analysis," "voice of customer," "VOC," "build personas," "customer personas," "jobs to be done," "JTBD," "what do customers say," "what are customers struggling with," "Reddit mining," "G2 reviews," "review mining," "digital watering holes," "community research," "forum research," "competitor reviews," "customer sentiment," or "find out why customers churn/convert/buy." Use for both analyzing existing research assets AND gathering new research from online sources. For writing copy informed by research, see copywriting. For acting on research to improve pages, see page-cro.
@@ -1561,8 +1559,7 @@ Don't ask all five at once — lead with #1 and #2, then follow up as needed.
 | Writing cold email using research on pain/trigger | `cold-email` |
 | Planning content based on discovered topics | `content-strategy` |
 
-## Source: references/skills/content-strategy/references/legacy/lead-magnets/SKILL.md
-
+## Imported Module: Lead Magnets
 ---
 name: lead-magnets
 description: When the user wants to create, plan, or optimize a lead magnet for email capture or lead generation. Also use when the user mentions "lead magnet," "gated content," "content upgrade," "downloadable," "ebook," "cheat sheet," "checklist," "template download," "opt-in," "freebie," "PDF download," "resource library," "content offer," "email capture content," "Notion template," "spreadsheet template," or "what should I give away for emails." Use this for planning what to create and how to distribute it. For interactive tools as lead magnets, see free-tool-strategy. For writing the actual content, see copywriting. For the email sequence after capture, see email-sequence.
@@ -1874,8 +1871,7 @@ When creating a lead magnet strategy, provide:
 - **paid-ads**: For paid promotion of lead magnets
 - **social-content**: For social media promotion
 
-## Source: references/skills/content-strategy/references/legacy/site-architecture/SKILL.md
-
+## Imported Module: Site Architecture
 ---
 name: site-architecture
 description: When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking. Also use when the user mentions "sitemap," "site map," "visual sitemap," "site structure," "page hierarchy," "information architecture," "IA," "navigation design," "URL structure," "breadcrumbs," "internal linking strategy," "website planning," "what pages do I need," "how should I organize my site," or "site navigation." Use this whenever someone is planning what pages a website should have and how they connect. NOT for XML sitemaps (that's technical SEO — see seo-audit). For SEO audits, see seo-audit. For structured data, see schema-markup.

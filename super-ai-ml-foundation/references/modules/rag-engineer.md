@@ -1,5 +1,4 @@
-## Source: references/skills/rag-engineer/SKILL.md
-
+## Module: Rag Engineer
 ---
 name: rag-engineer
 description: "Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LLM applications. Use when: building RAG, ..."
@@ -98,7 +97,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: rag-implementation
@@ -299,7 +298,7 @@ User Query -> Embedding -> Vector Search -> Retrieved Docs -> LLM -> Response
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: embedding-strategies
@@ -798,7 +797,7 @@ def compute_embedding_similarity(
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vector-database-engineer
@@ -866,7 +865,7 @@ Expert in vector databases, embedding strategies, and semantic search implementa
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: similarity-search-patterns
@@ -907,7 +906,7 @@ Patterns for implementing efficient similarity search in production systems.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hybrid-search-implementation
@@ -945,8 +944,7 @@ Patterns for combining vector similarity and keyword-based search.
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/rag-engineer/references/legacy/embedding-strategies/SKILL.md
-
+## Imported Module: Embedding Strategies
 ---
 name: embedding-strategies
 description: "Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific dom..."
@@ -1442,8 +1440,7 @@ def compute_embedding_similarity(
 - [Sentence Transformers](https://www.sbert.net/)
 - [MTEB Benchmark](https://huggingface.co/spaces/mteb/leaderboard)
 
-## Source: references/skills/rag-engineer/references/legacy/hybrid-search-implementation/SKILL.md
-
+## Imported Module: Hybrid Search Implementation
 ---
 name: hybrid-search-implementation
 description: "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall."
@@ -1480,8 +1477,7 @@ Patterns for combining vector similarity and keyword-based search.
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/rag-engineer/references/legacy/rag-implementation/SKILL.md
-
+## Imported Module: Rag Implementation
 ---
 name: rag-implementation
 description: "RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization."
@@ -1679,8 +1675,7 @@ User Query -> Embedding -> Vector Search -> Retrieved Docs -> LLM -> Response
 - `ai-agent-development` - AI agents
 - `database` - Vector databases
 
-## Source: references/skills/rag-engineer/references/legacy/similarity-search-patterns/SKILL.md
-
+## Imported Module: Similarity Search Patterns
 ---
 name: similarity-search-patterns
 description: "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance."
@@ -1718,8 +1713,7 @@ Patterns for implementing efficient similarity search in production systems.
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/rag-engineer/references/legacy/vector-database-engineer/SKILL.md
-
+## Imported Module: Vector Database Engineer
 ---
 name: vector-database-engineer
 description: "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar"

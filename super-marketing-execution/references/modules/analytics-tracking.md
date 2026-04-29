@@ -1,5 +1,4 @@
-## Source: references/skills/analytics-tracking/SKILL.md
-
+## Module: Analytics Tracking
 ---
 name: analytics-tracking
 description: Measurement and experimentation setup: analytics tracking, KPI definition, and A/B test planning.
@@ -309,7 +308,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key analy
 - **page-cro**: For conversion optimization (uses this data)
 - **revops**: For pipeline metrics, CRM tracking, and revenue attribution
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Analytics Tracking & Measurement Strategy
 
@@ -971,7 +970,7 @@ Document every test with:
 - **analytics-tracking**: For setting up test measurement
 - **copywriting**: For creating variant copy
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # A/B Test Setup
 
@@ -1204,8 +1203,7 @@ that is the signal to **slow down and re-check the design**.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/analytics-tracking/references/legacy/ab-test-setup/SKILL.md
-
+## Imported Module: Ab Test Setup
 ---
 name: ab-test-setup
 description: When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "should I test this," "which version is better," "test two versions," "statistical significance," or "how long should I run this test." Use this whenever someone is comparing two approaches and wants to measure which performs better. For tracking implementation, see analytics-tracking. For page-level conversion optimization, see page-cro.
@@ -1472,7 +1470,7 @@ Document every test with:
 - **analytics-tracking**: For setting up test measurement
 - **copywriting**: For creating variant copy
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # A/B Test Setup
 

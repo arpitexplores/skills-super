@@ -1,5 +1,4 @@
-## Source: references/skills/videodb/SKILL.md
-
+## Module: Videodb
 ---
 name: videodb
 description: Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.
@@ -375,7 +374,7 @@ https://github.com/video-db/skills
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: audio-transcriber
@@ -935,7 +934,7 @@ This skill is **platform-agnostic** and works in any terminal context where GitH
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fal-audio
@@ -963,7 +962,7 @@ For more information, see the source reference.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: podcast-generation
@@ -1095,7 +1094,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: remotion
@@ -1500,7 +1499,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: remotion-best-practices
@@ -1550,7 +1549,7 @@ Read individual rule files for detailed explanations and code examples:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: videodb-skills
@@ -1672,8 +1671,7 @@ https://github.com/video-db/skills
 **Version:** 1.1.0
 **Maintained By:** [VideoDB](https://github.com/video-db)
 
-## Source: references/skills/videodb/references/legacy/audio-transcriber/SKILL.md
-
+## Imported Module: Audio Transcriber
 ---
 name: audio-transcriber
 description: "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration"
@@ -2230,8 +2228,7 @@ Continue? [Y/n]:
 
 This skill is **platform-agnostic** and works in any terminal context where GitHub Copilot CLI is available. It does not depend on specific project configurations or external APIs, following the zero-configuration philosophy.
 
-## Source: references/skills/videodb/references/legacy/fal-audio/SKILL.md
-
+## Imported Module: Fal Audio
 ---
 name: fal-audio
 description: "Text-to-speech and speech-to-text using fal.ai audio models"
@@ -2256,8 +2253,7 @@ This skill provides guidance and patterns for text-to-speech and speech-to-text 
 
 For more information, see the source reference.
 
-## Source: references/skills/videodb/references/legacy/podcast-generation/SKILL.md
-
+## Imported Module: Podcast Generation
 ---
 name: podcast-generation
 description: "Generate AI-powered podcast-style audio narratives using Azure OpenAI's GPT Realtime Mini model via WebSocket. Use when building text-to-speech features, audio narrative generation, podcast creatio..."
@@ -2386,8 +2382,7 @@ new Audio(audioUrl).play();
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/videodb/references/legacy/remotion/SKILL.md
-
+## Imported Module: Remotion
 ---
 name: remotion
 description: Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays
@@ -2789,8 +2784,7 @@ that shows a walkthrough of the screens.
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/videodb/references/legacy/remotion-best-practices/SKILL.md
-
+## Imported Module: Remotion Best Practices
 ---
 name: remotion-best-practices
 description: "Best practices for Remotion - Video creation in React"
@@ -2837,8 +2831,7 @@ Read individual rule files for detailed explanations and code examples:
 - [rules/trimming.md](rules/trimming.md) - Trimming patterns for Remotion - cut the beginning or end of animations
 - [rules/videos.md](rules/videos.md) - Embedding videos in Remotion - trimming, volume, speed, looping, pitch
 
-## Source: references/skills/videodb/references/legacy/videodb-skills/SKILL.md
-
+## Imported Module: Videodb Skills
 ---
 name: videodb-skills
 description: "Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK."

@@ -1,5 +1,4 @@
-## Source: references/skills/threat-modelling-expert/SKILL.md
-
+## Module: Threat Modelling Expert
 ---
 name: threat-modelling-expert
 description: "Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement extraction. Use for security architecture r..."
@@ -66,7 +65,7 @@ Expert in threat modeling methodologies, security architecture review, and risk 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: risk-manager
@@ -131,7 +130,7 @@ Use monte carlo simulations for stress testing. Track performance in R-multiples
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: risk-metrics-calculation
@@ -172,7 +171,7 @@ Comprehensive risk measurement toolkit for portfolio management, including Value
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: risk-modelling
@@ -183,7 +182,7 @@ description: Risk Modeling
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: supply-chain-risk-auditor
@@ -255,7 +254,7 @@ You achieve your purpose by:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: threat-mitigation-mapping
@@ -380,8 +379,7 @@ Deliver an actionable AppSec-grade threat model that is specific to the reposito
 
 Only load the reference files you need. Keep the final result concise, grounded, and reviewable.
 
-## Source: references/skills/threat-modelling-expert/references/legacy/risk-manager/SKILL.md
-
+## Imported Module: Risk Manager
 ---
 name: risk-manager
 description: Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.
@@ -443,8 +441,7 @@ You are a risk manager specializing in portfolio protection and risk measurement
 
 Use monte carlo simulations for stress testing. Track performance in R-multiples for objective analysis.
 
-## Source: references/skills/threat-modelling-expert/references/legacy/risk-metrics-calculation/SKILL.md
-
+## Imported Module: Risk Metrics Calculation
 ---
 name: risk-metrics-calculation
 description: "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems."
@@ -482,8 +479,7 @@ Comprehensive risk measurement toolkit for portfolio management, including Value
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/threat-modelling-expert/references/legacy/risk-modelling/SKILL.md
-
+## Imported Module: Risk Modelling
 ---
 name: risk-modelling
 description: Risk Modeling
@@ -491,8 +487,7 @@ description: Risk Modeling
 
 404: Not Found
 
-## Source: references/skills/threat-modelling-expert/references/legacy/supply-chain-risk-auditor/SKILL.md
-
+## Imported Module: Supply Chain Risk Auditor
 ---
 name: supply-chain-risk-auditor
 description: "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements."
@@ -561,8 +556,7 @@ You achieve your purpose by:
 
 **NOTE:** Do not add sections beyond those noted in `results-template.md`.
 
-## Source: references/skills/threat-modelling-expert/references/legacy/threat-mitigation-mapping/SKILL.md
-
+## Imported Module: Threat Mitigation Mapping
 ---
 name: threat-mitigation-mapping
 description: "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness."

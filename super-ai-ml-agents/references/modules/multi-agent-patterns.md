@@ -1,5 +1,4 @@
-## Source: references/skills/multi-agent-patterns/SKILL.md
-
+## Module: Multi Agent Patterns
 ---
 name: multi-agent-patterns
 description: This skill should be used when the user asks to "design multi-agent system", "implement supervisor pattern", "create swarm architecture", "coordinate multiple agents", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution.
@@ -258,7 +257,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-orchestration-multi-agent-optimize
@@ -503,8 +502,7 @@ class CostOptimizer:
 
 Target Optimization: $ARGUMENTS
 
-## Source: references/skills/multi-agent-patterns/references/legacy/agent-orchestration-multi-agent-optimize/SKILL.md
-
+## Imported Module: Agent Orchestration Multi Agent Optimize
 ---
 name: agent-orchestration-multi-agent-optimize
 description: "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability."

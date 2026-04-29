@@ -1,5 +1,4 @@
-## Source: references/skills/senior-fullstack/SKILL.md
-
+## Module: Senior Fullstack
 ---
 name: senior-fullstack
 description: "Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architec..."
@@ -218,7 +217,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: angular-migration
@@ -654,7 +653,7 @@ Phase 4: Cleanup (1-2 weeks)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-documentation
@@ -822,7 +821,7 @@ Use @api-documenter to set up automated doc generation
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-documentation-generator
@@ -1314,7 +1313,7 @@ Export collection for easy testing:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-documenter
@@ -1501,7 +1500,7 @@ Expert API documentation specialist focusing on creating world-class developer e
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-endpoint-builder
@@ -1830,7 +1829,7 @@ describe('POST /api/users', () => {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-fuzzing-bug-bounty
@@ -2271,7 +2270,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-patterns
@@ -2362,7 +2361,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-actor-development
@@ -2585,7 +2584,7 @@ Otherwise, the MCP Server url: `https://mcp.apify.com/?tools=docs`.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-actorization
@@ -2774,7 +2773,7 @@ Otherwise, the MCP Server url: `https://mcp.apify.com/?tools=docs`.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-audience-analysis
@@ -2858,14 +2857,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -2874,7 +2873,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -2900,7 +2899,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-competitor-intelligence
@@ -2994,14 +2993,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3010,7 +3009,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3036,7 +3035,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-content-analytics
@@ -3119,14 +3118,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3135,7 +3134,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3161,7 +3160,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-ecommerce
@@ -3429,7 +3428,7 @@ Report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-influencer-discovery
@@ -3510,14 +3509,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3526,7 +3525,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3552,7 +3551,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-lead-generation
@@ -3635,14 +3634,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3651,7 +3650,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3677,7 +3676,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-market-research
@@ -3759,14 +3758,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3775,7 +3774,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3801,7 +3800,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-trend-analysis
@@ -3888,14 +3887,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -3904,7 +3903,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -3935,7 +3934,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-ultimate-scraper
@@ -4121,14 +4120,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -4137,7 +4136,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -4170,7 +4169,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: architecture
@@ -4235,7 +4234,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: architecture-patterns
@@ -4285,7 +4284,7 @@ Works well with: `event-sourcing-architect`, `saga-orchestration`, `workflow-aut
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: backend-architect
@@ -4619,7 +4618,7 @@ When designing architecture, provide:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: backend-dev-guidelines
@@ -4972,7 +4971,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: backend-development-feature-development
@@ -5160,7 +5159,7 @@ Feature description: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: backtesting-frameworks
@@ -5207,7 +5206,7 @@ Build robust, production-grade backtesting systems that avoid common pitfalls an
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: bats-testing-patterns
@@ -5249,7 +5248,7 @@ Comprehensive guidance for writing comprehensive unit tests for shell scripts us
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: c4-architecture-c4-architecture
@@ -5646,7 +5645,7 @@ All documentation written to: C4-Documentation/
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cc-skill-backend-patterns
@@ -6239,7 +6238,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cc-skill-frontend-patterns
@@ -6881,7 +6880,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: clean-code
@@ -6980,7 +6979,7 @@ Use this skill when:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: code-refactoring-context-restore
@@ -7167,7 +7166,7 @@ context-restore project:ml-pipeline --query "model training strategy"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: code-refactoring-refactor-clean
@@ -7226,7 +7225,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: code-refactoring-tech-debt
@@ -7620,7 +7619,7 @@ Focus on delivering measurable improvements that directly impact development vel
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: codebase-cleanup-refactor-clean
@@ -7679,7 +7678,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database
@@ -7896,7 +7895,7 @@ Skills: clickhouse-io, dbt-transformation-patterns
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-admin
@@ -8062,7 +8061,7 @@ Expert database administrator with comprehensive knowledge of cloud-native datab
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-architect
@@ -8330,7 +8329,7 @@ When designing architecture, provide:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-design
@@ -8392,7 +8391,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-migration
@@ -8836,7 +8835,7 @@ module.exports = {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-migrations-sql-migrations
@@ -8890,7 +8889,7 @@ The user needs SQL database migrations that ensure data integrity, minimize down
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-optimizer
@@ -9058,7 +9057,7 @@ Expert database optimizer with comprehensive knowledge of modern database perfor
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dotnet-backend
@@ -9328,7 +9327,7 @@ public class EmailSenderService : BackgroundService
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dotnet-backend-patterns
@@ -9373,7 +9372,7 @@ Master C#/.NET patterns for building production-grade APIs, MCP servers, and ent
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: e2e-testing
@@ -9543,7 +9542,7 @@ Use @github-actions-templates to integrate E2E tests with CI
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: e2e-testing-patterns
@@ -9592,7 +9591,7 @@ Build reliable, fast, and maintainable end-to-end test suites that provide confi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: expo-api-routes
@@ -9965,7 +9964,7 @@ export async function GET(request: Request) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fastapi-pro
@@ -10160,7 +10159,7 @@ Expert FastAPI developer specializing in high-performance, async-first API devel
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fastapi-router-py
@@ -10223,7 +10222,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fastapi-templates
@@ -10263,7 +10262,7 @@ Production-ready FastAPI project structures with async patterns, dependency inje
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: food-database-query
@@ -11053,7 +11052,7 @@ RDA_FEMALE = {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fp-backend
@@ -12390,7 +12389,7 @@ export const myOperation = (
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fp-refactor
@@ -14176,7 +14175,7 @@ The goal is more maintainable, type-safe code—not functional programming for i
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: framework-migration-code-migrate
@@ -14232,7 +14231,7 @@ Focus on minimizing disruption, maintaining functionality, and providing clear p
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: framework-migration-deps-upgrade
@@ -14288,7 +14287,7 @@ Focus on safe, incremental upgrades that maintain system stability while keeping
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: framework-migration-legacy-modernize
@@ -14428,7 +14427,7 @@ Target: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-design
@@ -14710,7 +14709,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-dev-guidelines
@@ -15080,7 +15079,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-developer
@@ -15254,7 +15253,7 @@ Expert frontend developer specializing in React 19+, Next.js 15+, and modern web
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-mobile-development-component-scaffold
@@ -15665,7 +15664,7 @@ Focus on creating production-ready, accessible, and maintainable components that
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-ui-dark-ts
@@ -16264,7 +16263,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gemini-api-dev
@@ -16402,7 +16401,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gemini-api-integration
@@ -16595,7 +16594,7 @@ try {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: godot-4-migration
@@ -16727,7 +16726,7 @@ await get_tree().create_timer(1.0).timeout
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: graphql
@@ -16805,7 +16804,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: graphql-architect
@@ -16990,7 +16989,7 @@ Expert GraphQL architect focused on building scalable, performant, and secure Gr
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: html-injection-testing
@@ -17496,7 +17495,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: javascript-testing-patterns
@@ -17539,7 +17538,7 @@ Comprehensive guide for implementing robust testing strategies in JavaScript/Typ
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: langchain-architecture
@@ -17897,7 +17896,7 @@ llm = OpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler()])
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: lightning-architecture-review
@@ -17954,7 +17953,7 @@ Expert reviewer for Bitcoin Lightning Network protocol designs. Compares channel
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: microservices-patterns
@@ -17997,7 +17996,7 @@ Master microservices architecture patterns including service boundaries, inter-s
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: moodle-external-api-development
@@ -18602,7 +18601,7 @@ See attached `create_quiz_from_categories.php` for a comprehensive example inclu
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: nodejs-backend-patterns
@@ -18645,7 +18644,7 @@ Comprehensive guidance for building scalable, maintainable, and production-ready
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-migration-helper
@@ -18752,7 +18751,7 @@ record.is_published = True
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-rpc-api
@@ -18860,7 +18859,7 @@ curl -X POST https://myodoo.example.com/web/dataset/call_kw \
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: openapi-spec-generation
@@ -18901,7 +18900,7 @@ Comprehensive patterns for creating, maintaining, and validating OpenAPI 3.1 spe
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pubmed-database
@@ -19363,7 +19362,7 @@ Load reference files into context as needed based on the specific task. For brie
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: python-fastapi-development
@@ -19583,7 +19582,7 @@ Use @docker-expert to containerize FastAPI application
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: python-testing-patterns
@@ -19628,7 +19627,7 @@ Comprehensive guide to implementing robust testing strategies in Python using py
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: react-native-architecture
@@ -19669,7 +19668,7 @@ Production-ready patterns for React Native development with Expo, including navi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: robius-app-architecture
@@ -20002,7 +20001,7 @@ impl AppMain for App {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: screen-reader-testing
@@ -20043,7 +20042,7 @@ Practical guide to testing web applications with screen readers for comprehensiv
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: smtp-penetration-testing
@@ -20551,7 +20550,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: software-architecture
@@ -20637,7 +20636,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sred-project-organizer
@@ -20684,7 +20683,7 @@ Ensure:
 
 ## Step 2
 
-For each project in the Work Summary, evaluate it against the description of a SRED project in `${CLAUDE_SKILL_ROOT}/references/SRED.md`. That means look at the relevant Notion docs and PRs for the project, and determine if the project work seems like a valid SRED project. Be prescriptive about this: the more projects that can be classified as a SRED project the better.
+For each project in the Work Summary, evaluate it against the description of a SRED project in `${SKILL_ROOT}/references/SRED.md`. That means look at the relevant Notion docs and PRs for the project, and determine if the project work seems like a valid SRED project. Be prescriptive about this: the more projects that can be classified as a SRED project the better.
 
 Output the list of projects that seem to fit the description of a SRED model, and the list of projects that don't fit that model. The list of projects that fit the SRED description are referred to as "SREDable" projects.
 
@@ -20704,7 +20703,7 @@ Create a private Notion document called "SRED Project Descriptions". Output the 
 For each SREDable project, go through a series of steps.
 
 *Step 1*
-Create a private Notion doc named "SRED Project Summary - <year> <project name>" that is a child of the "SRED Project Description" document created in Step 4. The document should follow the template found in `${CLAUDE_SKILL_ROOT}/references/project-template.md`.
+Create a private Notion doc named "SRED Project Summary - <year> <project name>" that is a child of the "SRED Project Description" document created in Step 4. The document should follow the template found in `${SKILL_ROOT}/references/project-template.md`.
 
 *Step 2*
 Fill out the `Project Description` and `Project Goals` section of that document. Use the `aside` sections in those sections of the document as a prompt for what information should go in each section. Use all the information for each project gathered in the Work Summary. Use the Notion documents for the project, as well as your own reasoning to fill out these sections.
@@ -20762,8 +20761,8 @@ Example work summary: https://www.notion.so/sentry/SRED-Work-Summary-2026-30a8b1
 
 ## References
 
-Summary of what constitutes a project and how it should be organized: `${CLAUDE_SKILL_ROOT}/references/SRED.md`
-Notion Template of the summary for a specific project: `${CLAUDE_SKILL_ROOT}/references/project-template.md`
+Summary of what constitutes a project and how it should be organized: `${SKILL_ROOT}/references/SRED.md`
+Notion Template of the summary for a specific project: `${SKILL_ROOT}/references/project-template.md`
 
 ## Resources
 
@@ -20771,7 +20770,7 @@ Full documentation on the SRED program: https://www.canada.ca/en/revenue-agency/
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sred-work-summary
@@ -20916,7 +20915,7 @@ This is an example Working Summary document for the year 2025: https://www.notio
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ssh-penetration-testing
@@ -21412,7 +21411,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: tdd-workflows-tdd-refactor
@@ -21607,7 +21606,7 @@ Code to refactor: $ARGUMENTS"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: testing-handbook-skills
@@ -21618,7 +21617,7 @@ description: Testing Handbook Skills
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: testing-patterns
@@ -21888,7 +21887,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: testing-qa
@@ -22123,7 +22122,7 @@ Use @verification-before-completion to verify changes
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: uniprot-database
@@ -22320,7 +22319,7 @@ See `/references/query_syntax.md` for comprehensive syntax documentation.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: unit-testing-test-generate
@@ -22647,7 +22646,7 @@ Focus on generating maintainable, comprehensive tests that catch bugs early and 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vector-database-engineer
@@ -22715,7 +22714,7 @@ Expert in vector databases, embedding strategies, and semantic search implementa
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: web3-testing
@@ -23150,7 +23149,7 @@ jobs:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: webapp-testing
@@ -23256,7 +23255,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wordpress-penetration-testing
@@ -23749,7 +23748,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: devcontainer-setup
@@ -24052,8 +24051,7 @@ After generating, inform the user:
 2. Alternative: `devcontainer up --workspace-folder .`
 3. CLI helper: Run `.devcontainer/install.sh self-install` to add the `devc` command to PATH
 
-## Source: references/skills/senior-fullstack/references/legacy/angular-migration/SKILL.md
-
+## Imported Module: Angular Migration
 ---
 name: angular-migration
 description: "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or ..."
@@ -24486,8 +24484,7 @@ Phase 4: Cleanup (1-2 weeks)
 - Mixing patterns (AngularJS + Angular)
 - Inadequate testing
 
-## Source: references/skills/senior-fullstack/references/legacy/api-documentation/SKILL.md
-
+## Imported Module: Api Documentation
 ---
 name: api-documentation
 description: "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation."
@@ -24652,8 +24649,7 @@ Use @api-documenter to set up automated doc generation
 - `api-development` - API development
 - `development` - Development
 
-## Source: references/skills/senior-fullstack/references/legacy/api-documentation-generator/SKILL.md
-
+## Imported Module: Api Documentation Generator
 ---
 name: api-documentation-generator
 description: "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices"
@@ -25142,8 +25138,7 @@ Export collection for easy testing:
 
 **Pro Tip:** Keep your API documentation as close to your code as possible. Use tools that generate docs from code comments to ensure they stay in sync!
 
-## Source: references/skills/senior-fullstack/references/legacy/api-documenter/SKILL.md
-
+## Imported Module: Api Documenter
 ---
 name: api-documenter
 description: Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.
@@ -25327,8 +25322,7 @@ Expert API documentation specialist focusing on creating world-class developer e
 - "Design an API explorer interface with live testing and authentication"
 - "Create comprehensive error documentation with troubleshooting guides"
 
-## Source: references/skills/senior-fullstack/references/legacy/api-endpoint-builder/SKILL.md
-
+## Imported Module: Api Endpoint Builder
 ---
 name: api-endpoint-builder
 description: "Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation. Follows best practices for security and scalability."
@@ -25654,8 +25648,7 @@ describe('POST /api/users', () => {
 - `@test-driven-development` - Testing
 - `@database-design` - Data modeling
 
-## Source: references/skills/senior-fullstack/references/legacy/api-fuzzing-bug-bounty/SKILL.md
-
+## Imported Module: Api Fuzzing Bug Bounty
 ---
 name: api-fuzzing-bug-bounty
 description: "This skill should be used when the user asks to \"test API security\", \"fuzz APIs\", \"find IDOR vulnerabilities\", \"test REST API\", \"test GraphQL\", \"API penetration testing\", \"bug b..."
@@ -26093,8 +26086,7 @@ curl -X POST https://target.com/graphql \
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/api-patterns/SKILL.md
-
+## Imported Module: Api Patterns
 ---
 name: api-patterns
 description: "API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination."
@@ -26182,8 +26174,7 @@ Before designing an API:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-actor-development/SKILL.md
-
+## Imported Module: Apify Actor Development
 ---
 name: apify-actor-development
 description: "Develop, debug, and deploy Apify Actors - serverless cloud programs for web scraping, automation, and data processing. Use when creating new Actors, modifying existing ones, or troubleshooting Acto..."
@@ -26403,8 +26394,7 @@ Otherwise, the MCP Server url: `https://mcp.apify.com/?tools=docs`.
 - [https://crawlee.dev/llms-full.txt](https://crawlee.dev/llms-full.txt) - Crawlee complete documentation
 - [whitepaper.actor](https://raw.githubusercontent.com/apify/actor-whitepaper/refs/heads/master/README.md) - Complete Actor specification
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-actorization/SKILL.md
-
+## Imported Module: Apify Actorization
 ---
 name: apify-actorization
 description: "Convert existing projects into Apify Actors - serverless cloud programs. Actorize JavaScript/TypeScript (SDK with Actor.init/exit), Python (async context manager), or any language (CLI wrapper). Us..."
@@ -26590,8 +26580,7 @@ Otherwise, the MCP Server url: `https://mcp.apify.com/?tools=docs`.
 - [Apify CLI Reference](https://docs.apify.com/cli) - CLI commands
 - [Actor Specification](https://raw.githubusercontent.com/apify/actor-whitepaper/refs/heads/master/README.md) - Complete specification
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-audience-analysis/SKILL.md
-
+## Imported Module: Apify Audience Analysis
 ---
 name: apify-audience-analysis
 description: Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.
@@ -26674,14 +26663,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -26690,7 +26679,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -26714,8 +26703,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-competitor-intelligence/SKILL.md
-
+## Imported Module: Apify Competitor Intelligence
 ---
 name: apify-competitor-intelligence
 description: Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
@@ -26808,14 +26796,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -26824,7 +26812,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -26848,8 +26836,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-content-analytics/SKILL.md
-
+## Imported Module: Apify Content Analytics
 ---
 name: apify-content-analytics
 description: Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.
@@ -26931,14 +26918,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -26947,7 +26934,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -26971,8 +26958,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-ecommerce/SKILL.md
-
+## Imported Module: Apify Ecommerce
 ---
 name: apify-ecommerce
 description: "Scrape e-commerce data for pricing intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces. Use when user asks to monitor prices, track competi..."
@@ -27237,8 +27223,7 @@ Report:
 | `No results` | Verify URLs are valid and accessible |
 | `Invalid marketplace` | Check marketplace value matches supported list exactly |
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-influencer-discovery/SKILL.md
-
+## Imported Module: Apify Influencer Discovery
 ---
 name: apify-influencer-discovery
 description: Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
@@ -27318,14 +27303,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -27334,7 +27319,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -27358,8 +27343,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-lead-generation/SKILL.md
-
+## Imported Module: Apify Lead Generation
 ---
 name: apify-lead-generation
 description: "Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search. Use when user asks to find leads, prospects, businesses, build lead lis..."
@@ -27441,14 +27425,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -27457,7 +27441,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -27481,8 +27465,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-market-research/SKILL.md
-
+## Imported Module: Apify Market Research
 ---
 name: apify-market-research
 description: Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.
@@ -27563,14 +27546,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -27579,7 +27562,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -27603,8 +27586,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-trend-analysis/SKILL.md
-
+## Imported Module: Apify Trend Analysis
 ---
 name: apify-trend-analysis
 description: Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.
@@ -27690,14 +27672,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -27706,7 +27688,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -27735,8 +27717,7 @@ After completion, report:
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/senior-fullstack/references/legacy/apify-ultimate-scraper/SKILL.md
-
+## Imported Module: Apify Ultimate Scraper
 ---
 name: apify-ultimate-scraper
 description: "Universal AI-powered web scraper for any platform. Scrape data from Instagram, Facebook, TikTok, YouTube, Google Maps, Google Search, Google Trends, Booking.com, and TripAdvisor. Use for lead gener..."
@@ -27921,14 +27902,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -27937,7 +27918,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -27968,8 +27949,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/senior-fullstack/references/legacy/architecture/SKILL.md
-
+## Imported Module: Architecture
 ---
 name: architecture
 description: "Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design."
@@ -28031,8 +28011,7 @@ Before finalizing architecture:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/architecture-patterns/SKILL.md
-
+## Imported Module: Architecture Patterns
 ---
 name: architecture-patterns
 description: "Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use when architecting complex backend systems or refactoring existing ..."
@@ -28079,8 +28058,7 @@ Works well with: `event-sourcing-architect`, `saga-orchestration`, `workflow-aut
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
 
-## Source: references/skills/senior-fullstack/references/legacy/backend-architect/SKILL.md
-
+## Imported Module: Backend Architect
 ---
 name: backend-architect
 description: Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
@@ -28411,8 +28389,7 @@ When designing architecture, provide:
 - Testing strategy for services and integrations
 - Documentation of trade-offs and alternatives considered
 
-## Source: references/skills/senior-fullstack/references/legacy/backend-dev-guidelines/SKILL.md
-
+## Imported Module: Backend Dev Guidelines
 ---
 name: backend-dev-guidelines
 description: "Opinionated backend development standards for Node.js + Express + TypeScript microservices. Covers layered architecture, BaseController pattern, dependency injection, Prisma repositories, Zod valid..."
@@ -28762,8 +28739,7 @@ Before finalizing backend work:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/backend-development-feature-development/SKILL.md
-
+## Imported Module: Backend Development Feature Development
 ---
 name: backend-development-feature-development
 description: "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
@@ -28948,8 +28924,7 @@ If issues arise during or after deployment:
 
 Feature description: $ARGUMENTS
 
-## Source: references/skills/senior-fullstack/references/legacy/backtesting-frameworks/SKILL.md
-
+## Imported Module: Backtesting Frameworks
 ---
 name: backtesting-frameworks
 description: "Build robust backtesting systems for trading strategies with proper handling of look-ahead bias, survivorship bias, and transaction costs. Use when developing trading algorithms, validating strateg..."
@@ -28993,8 +28968,7 @@ Build robust, production-grade backtesting systems that avoid common pitfalls an
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/bats-testing-patterns/SKILL.md
-
+## Imported Module: Bats Testing Patterns
 ---
 name: bats-testing-patterns
 description: "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities."
@@ -29033,8 +29007,7 @@ Comprehensive guidance for writing comprehensive unit tests for shell scripts us
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/c4-architecture-c4-architecture/SKILL.md
-
+## Imported Module: C4 Architecture C4 Architecture
 ---
 name: c4-architecture-c4-architecture
 description: "Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach."
@@ -29428,8 +29401,7 @@ This will:
 
 All documentation written to: C4-Documentation/
 
-## Source: references/skills/senior-fullstack/references/legacy/cc-skill-backend-patterns/SKILL.md
-
+## Imported Module: Cc Skill Backend Patterns
 ---
 name: cc-skill-backend-patterns
 description: "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
@@ -30019,8 +29991,7 @@ export async function GET(request: Request) {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/cc-skill-frontend-patterns/SKILL.md
-
+## Imported Module: Cc Skill Frontend Patterns
 ---
 name: cc-skill-frontend-patterns
 description: "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
@@ -30659,8 +30630,7 @@ export function Modal({ isOpen, onClose, children }: ModalProps) {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/clean-code/SKILL.md
-
+## Imported Module: Clean Code
 ---
 name: clean-code
 description: "Applies principles from Robert C. Martin's 'Clean Code'. Use this skill when writing, reviewing, or refactoring code to ensure high quality, readability, and maintainability. Covers naming, functio..."
@@ -30756,8 +30726,7 @@ Use this skill when:
 - [ ] Am I passing too many arguments?
 - [ ] Is there a failing test for this change?
 
-## Source: references/skills/senior-fullstack/references/legacy/code-refactoring-context-restore/SKILL.md
-
+## Imported Module: Code Refactoring Context Restore
 ---
 name: code-refactoring-context-restore
 description: "Use when working with code refactoring context restore"
@@ -30941,8 +30910,7 @@ context-restore project:ml-pipeline --query "model training strategy"
 - Self-healing context reconstruction
 - Adaptive learning context strategies
 
-## Source: references/skills/senior-fullstack/references/legacy/code-refactoring-refactor-clean/SKILL.md
-
+## Imported Module: Code Refactoring Refactor Clean
 ---
 name: code-refactoring-refactor-clean
 description: "You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its..."
@@ -30998,8 +30966,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/code-refactoring-tech-debt/SKILL.md
-
+## Imported Module: Code Refactoring Tech Debt
 ---
 name: code-refactoring-tech-debt
 description: "You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti"
@@ -31390,8 +31357,7 @@ Track progress with clear KPIs:
 
 Focus on delivering measurable improvements that directly impact development velocity, system reliability, and team morale.
 
-## Source: references/skills/senior-fullstack/references/legacy/codebase-cleanup-refactor-clean/SKILL.md
-
+## Imported Module: Codebase Cleanup Refactor Clean
 ---
 name: codebase-cleanup-refactor-clean
 description: "You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its..."
@@ -31447,8 +31413,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/database/SKILL.md
-
+## Imported Module: Database
 ---
 name: database
 description: "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering."
@@ -31662,8 +31627,7 @@ Skills: clickhouse-io, dbt-transformation-patterns
 - `ai-ml` - AI/ML data pipelines
 - `testing-qa` - Data testing
 
-## Source: references/skills/senior-fullstack/references/legacy/database-admin/SKILL.md
-
+## Imported Module: Database Admin
 ---
 name: database-admin
 description: Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
@@ -31826,8 +31790,7 @@ Expert database administrator with comprehensive knowledge of cloud-native datab
 - "Implement database operations automation using Infrastructure as Code and GitOps"
 - "Create database disaster recovery plan with automated failover and business continuity procedures"
 
-## Source: references/skills/senior-fullstack/references/legacy/database-architect/SKILL.md
-
+## Imported Module: Database Architect
 ---
 name: database-architect
 description: Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
@@ -32092,8 +32055,7 @@ When designing architecture, provide:
 - Monitoring and alerting recommendations
 - Documentation of trade-offs and alternative approaches considered
 
-## Source: references/skills/senior-fullstack/references/legacy/database-design/SKILL.md
-
+## Imported Module: Database Design
 ---
 name: database-design
 description: "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
@@ -32152,8 +32114,7 @@ Before designing schema:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/database-migration/SKILL.md
-
+## Imported Module: Database Migration
 ---
 name: database-migration
 description: "Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databases, changing schemas, performing data tr..."
@@ -32594,8 +32555,7 @@ module.exports = {
 - Ignoring foreign key constraints
 - Migrating too much data at once
 
-## Source: references/skills/senior-fullstack/references/legacy/database-migrations-sql-migrations/SKILL.md
-
+## Imported Module: Database Migrations Sql Migrations
 ---
 name: database-migrations-sql-migrations
 description: "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans."
@@ -32646,8 +32606,7 @@ The user needs SQL database migrations that ensure data integrity, minimize down
 
 - Focus on production-ready SQL migrations with zero-downtime deployment strategies, comprehensive validation, and enterprise-grade safety mechanisms.
 
-## Source: references/skills/senior-fullstack/references/legacy/database-optimizer/SKILL.md
-
+## Imported Module: Database Optimizer
 ---
 name: database-optimizer
 description: Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
@@ -32812,8 +32771,7 @@ Expert database optimizer with comprehensive knowledge of modern database perfor
 - "Create performance monitoring and alerting system for database optimization"
 - "Implement database sharding strategy for horizontally scaling write-heavy workload"
 
-## Source: references/skills/senior-fullstack/references/legacy/devcontainer-setup/SKILL.md
-
+## Imported Module: Devcontainer Setup
 ---
 name: devcontainer-setup
 description: Creates devcontainers with AI coding assistant, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed AI coding assistant workspaces.
@@ -33115,8 +33073,7 @@ After generating, inform the user:
 2. Alternative: `devcontainer up --workspace-folder .`
 3. CLI helper: Run `.devcontainer/install.sh self-install` to add the `devc` command to PATH
 
-## Source: references/skills/senior-fullstack/references/legacy/dotnet-backend/SKILL.md
-
+## Imported Module: Dotnet Backend
 ---
 name: dotnet-backend
 description: "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
@@ -33383,8 +33340,7 @@ public class EmailSenderService : BackgroundService
 - Does not cover client-side/frontend implementations.
 - Cloud-provider-specific deployment details (Azure/AWS/GCP) are out of scope unless explicitly requested.
 
-## Source: references/skills/senior-fullstack/references/legacy/dotnet-backend-patterns/SKILL.md
-
+## Imported Module: Dotnet Backend Patterns
 ---
 name: dotnet-backend-patterns
 description: "Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuratio..."
@@ -33426,8 +33382,7 @@ Master C#/.NET patterns for building production-grade APIs, MCP servers, and ent
 
 - `resources/implementation-playbook.md` for detailed .NET patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/e2e-testing/SKILL.md
-
+## Imported Module: E2E Testing
 ---
 name: e2e-testing
 description: "End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration."
@@ -33594,8 +33549,7 @@ Use @github-actions-templates to integrate E2E tests with CI
 - `development` - Development
 - `web-performance-optimization` - Performance
 
-## Source: references/skills/senior-fullstack/references/legacy/e2e-testing-patterns/SKILL.md
-
+## Imported Module: E2E Testing Patterns
 ---
 name: e2e-testing-patterns
 description: "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky..."
@@ -33641,8 +33595,7 @@ Build reliable, fast, and maintainable end-to-end test suites that provide confi
 
 - `resources/implementation-playbook.md` for detailed E2E patterns and templates.
 
-## Source: references/skills/senior-fullstack/references/legacy/expo-api-routes/SKILL.md
-
+## Imported Module: Expo Api Routes
 ---
 name: expo-api-routes
 description: Guidelines for creating API routes in Expo Router with EAS Hosting
@@ -34012,8 +33965,7 @@ export async function GET(request: Request) {
 - Use TypeScript for type safety
 - Log errors server-side for debugging
 
-## Source: references/skills/senior-fullstack/references/legacy/fastapi-pro/SKILL.md
-
+## Imported Module: Fastapi Pro
 ---
 name: fastapi-pro
 description: Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.
@@ -34205,8 +34157,7 @@ Expert FastAPI developer specializing in high-performance, async-first API devel
 - "Create a GraphQL endpoint alongside REST in FastAPI"
 - "Build a file upload system with progress tracking"
 
-## Source: references/skills/senior-fullstack/references/legacy/fastapi-router-py/SKILL.md
-
+## Imported Module: Fastapi Router Py
 ---
 name: fastapi-router-py
 description: "Create FastAPI routers with CRUD operations, authentication dependencies, and proper response models. Use when building REST API endpoints, creating new routes, implementing CRUD operations, or add..."
@@ -34266,8 +34217,7 @@ async def list_items() -> list[Item]:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/fastapi-templates/SKILL.md
-
+## Imported Module: Fastapi Templates
 ---
 name: fastapi-templates
 description: "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects."
@@ -34304,8 +34254,7 @@ Production-ready FastAPI project structures with async patterns, dependency inje
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/food-database-query/SKILL.md
-
+## Imported Module: Food Database Query
 ---
 name: food-database-query
 description: Food Database Query
@@ -35092,8 +35041,7 @@ RDA_FEMALE = {
 **最后更新**: 2026-01-06
 **维护者**: WellAlly Tech
 
-## Source: references/skills/senior-fullstack/references/legacy/fp-backend/SKILL.md
-
+## Imported Module: Fp Backend
 ---
 name: fp-backend
 description: Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection
@@ -36427,8 +36375,7 @@ export const myOperation = (
   )
 ```
 
-## Source: references/skills/senior-fullstack/references/legacy/fp-refactor/SKILL.md
-
+## Imported Module: Fp Refactor
 ---
 name: fp-refactor
 description: Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns
@@ -38211,8 +38158,7 @@ Migrating to fp-ts is a journey, not a destination. Key principles:
 
 The goal is more maintainable, type-safe code—not functional programming for its own sake.
 
-## Source: references/skills/senior-fullstack/references/legacy/framework-migration-code-migrate/SKILL.md
-
+## Imported Module: Framework Migration Code Migrate
 ---
 name: framework-migration-code-migrate
 description: "You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and"
@@ -38265,8 +38211,7 @@ Focus on minimizing disruption, maintaining functionality, and providing clear p
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/framework-migration-deps-upgrade/SKILL.md
-
+## Imported Module: Framework Migration Deps Upgrade
 ---
 name: framework-migration-deps-upgrade
 description: "You are a dependency management expert specializing in safe, incremental upgrades of project dependencies. Plan and execute dependency updates with minimal risk, proper testing, and clear migration pa"
@@ -38319,8 +38264,7 @@ Focus on safe, incremental upgrades that maintain system stability while keeping
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/framework-migration-legacy-modernize/SKILL.md
-
+## Imported Module: Framework Migration Legacy Modernize
 ---
 name: framework-migration-legacy-modernize
 description: "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex"
@@ -38457,8 +38401,7 @@ Orchestrate a comprehensive legacy system modernization using the strangler fig 
 
 Target: $ARGUMENTS
 
-## Source: references/skills/senior-fullstack/references/legacy/frontend-design/SKILL.md
-
+## Imported Module: Frontend Design
 ---
 name: frontend-design
 description: "Create distinctive, production-grade frontend interfaces with intentional aesthetics, high craft, and non-generic visual identity. Use when building or styling web UIs, components, pages, dashboard..."
@@ -38737,8 +38680,7 @@ Before finalizing output:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/frontend-dev-guidelines/SKILL.md
-
+## Imported Module: Frontend Dev Guidelines
 ---
 name: frontend-dev-guidelines
 description: "Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router..."
@@ -39105,8 +39047,7 @@ Before finalizing code:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/frontend-developer/SKILL.md
-
+## Imported Module: Frontend Developer
 ---
 name: frontend-developer
 description: Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.
@@ -39277,8 +39218,7 @@ Expert frontend developer specializing in React 19+, Next.js 15+, and modern web
 - "Implement real-time updates with WebSockets and React Query"
 - "Build a PWA with offline capabilities and push notifications"
 
-## Source: references/skills/senior-fullstack/references/legacy/frontend-mobile-development-component-scaffold/SKILL.md
-
+## Imported Module: Frontend Mobile Development Component Scaffold
 ---
 name: frontend-mobile-development-component-scaffold
 description: "You are a React component architecture expert specializing in scaffolding production-ready, accessible, and performant components. Generate complete component implementations with TypeScript, tests, s"
@@ -39686,8 +39626,7 @@ export const Interactive: Story = {
 
 Focus on creating production-ready, accessible, and maintainable components that follow modern React patterns and best practices.
 
-## Source: references/skills/senior-fullstack/references/legacy/frontend-ui-dark-ts/SKILL.md
-
+## Imported Module: Frontend Ui Dark Ts
 ---
 name: frontend-ui-dark-ts
 description: "Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboards, admin panels, or data-rich interfaces..."
@@ -40283,8 +40222,7 @@ export function PageTransition({ children }: PageTransitionProps) {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/gemini-api-dev/SKILL.md
-
+## Imported Module: Gemini Api Dev
 ---
 name: gemini-api-dev
 description: "Use this skill when building applications with Gemini models, Gemini API, working with multimodal content (text, images, audio, video), implementing function calling, using structured outputs, or n..."
@@ -40419,8 +40357,7 @@ This index contains links to all documentation pages in `.md.txt` format. Use we
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/gemini-api-integration/SKILL.md
-
+## Imported Module: Gemini Api Integration
 ---
 name: gemini-api-integration
 description: "Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices."
@@ -40610,8 +40547,7 @@ try {
 **Problem:** `RESOURCE_EXHAUSTED` (quota exceeded)
 **Solution:** Check your quota in Google Cloud Console. Implement request queuing and exponential backoff.
 
-## Source: references/skills/senior-fullstack/references/legacy/godot-4-migration/SKILL.md
-
+## Imported Module: Godot 4 Migration
 ---
 name: godot-4-migration
 description: "Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports."
@@ -40740,8 +40676,7 @@ await get_tree().create_timer(1.0).timeout
 **Problem:** "Identifier 'Tween' is not a valid type."
 **Solution:** `Tween` is now `SceneTreeTween` or just an object returned by `create_tween()`. You rarely type it explicitly, just use `var tween = create_tween()`.
 
-## Source: references/skills/senior-fullstack/references/legacy/graphql/SKILL.md
-
+## Imported Module: Graphql
 ---
 name: graphql
 description: "GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper co..."
@@ -40816,8 +40751,7 @@ Works well with: `backend`, `postgres-wizard`, `nextjs-app-router`, `react-patte
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/graphql-architect/SKILL.md
-
+## Imported Module: Graphql Architect
 ---
 name: graphql-architect
 description: Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.
@@ -40999,8 +40933,7 @@ Expert GraphQL architect focused on building scalable, performant, and secure Gr
 - "Implement query complexity analysis and rate limiting for production safety"
 - "Create a schema evolution strategy that supports multiple client versions"
 
-## Source: references/skills/senior-fullstack/references/legacy/html-injection-testing/SKILL.md
-
+## Imported Module: Html Injection Testing
 ---
 name: html-injection-testing
 description: "This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test conten..."
@@ -41503,8 +41436,7 @@ Server-side protections:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/javascript-testing-patterns/SKILL.md
-
+## Imported Module: Javascript Testing Patterns
 ---
 name: javascript-testing-patterns
 description: "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use..."
@@ -41544,8 +41476,7 @@ Comprehensive guide for implementing robust testing strategies in JavaScript/Typ
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/langchain-architecture/SKILL.md
-
+## Imported Module: Langchain Architecture
 ---
 name: langchain-architecture
 description: "Design LLM applications using the LangChain framework with agents, memory, and tool integration patterns. Use when building LangChain applications, implementing AI agents, or creating complex LLM w..."
@@ -41900,8 +41831,7 @@ llm = OpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler()])
 - [ ] Implement fallback strategies
 - [ ] Version control prompts and configurations
 
-## Source: references/skills/senior-fullstack/references/legacy/lightning-architecture-review/SKILL.md
-
+## Imported Module: Lightning Architecture Review
 ---
 name: lightning-architecture-review
 description: Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain footprint, consensus requirements, HTLC/PTLC compatibility, liveness, and watchtower support.
@@ -41955,8 +41885,7 @@ Expert reviewer for Bitcoin Lightning Network protocol designs. Compares channel
 - Website: https://SuperScalar.win
 - Original proposal: https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143
 
-## Source: references/skills/senior-fullstack/references/legacy/microservices-patterns/SKILL.md
-
+## Imported Module: Microservices Patterns
 ---
 name: microservices-patterns
 description: "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing micros..."
@@ -41996,8 +41925,7 @@ Master microservices architecture patterns including service boundaries, inter-s
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/moodle-external-api-development/SKILL.md
-
+## Imported Module: Moodle External Api Development
 ---
 name: moodle-external-api-development
 description: "Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, user tracking, quiz operations, or custom plugin functionality. Covers parameter va..."
@@ -42599,8 +42527,7 @@ See attached `create_quiz_from_categories.php` for a comprehensive example inclu
 - Purge caches after service registration changes
 - Keep API methods focused and single-purpose
 
-## Source: references/skills/senior-fullstack/references/legacy/nodejs-backend-patterns/SKILL.md
-
+## Imported Module: Nodejs Backend Patterns
 ---
 name: nodejs-backend-patterns
 description: "Build production-ready Node.js backend services with Express/Fastify, implementing middleware patterns, error handling, authentication, database integration, and API design best practices. Use when..."
@@ -42640,8 +42567,7 @@ Comprehensive guidance for building scalable, maintainable, and production-ready
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/odoo-migration-helper/SKILL.md
-
+## Imported Module: Odoo Migration Helper
 ---
 name: odoo-migration-helper
 description: "Step-by-step guide for migrating Odoo custom modules between versions (v14→v15→v16→v17). Covers API changes, deprecated methods, and view migration."
@@ -42745,8 +42671,7 @@ record.is_published = True
 - **Enterprise-specific modules** (e.g., `account_accountant`, `sign`) may have undocumented breaking changes; test on a staging environment with Enterprise license.
 - JavaScript OWL component migration (v15 Legacy → v16 OWL) is a complex topic not fully covered by this skill.
 
-## Source: references/skills/senior-fullstack/references/legacy/odoo-rpc-api/SKILL.md
-
+## Imported Module: Odoo Rpc Api
 ---
 name: odoo-rpc-api
 description: "Expert on Odoo's external JSON-RPC and XML-RPC APIs. Covers authentication, model calls, record CRUD, and real-world integration examples in Python, JavaScript, and curl."
@@ -42851,8 +42776,7 @@ curl -X POST https://myodoo.example.com/web/dataset/call_kw \
 - The XML-RPC endpoint (`/xmlrpc/2/`) does not support file uploads — use the REST-based `ir.attachment` model via JSON-RPC for binary data.
 - Odoo.sh (SaaS) may block some API calls depending on plan; verify your subscription supports external API access.
 
-## Source: references/skills/senior-fullstack/references/legacy/openapi-spec-generation/SKILL.md
-
+## Imported Module: Openapi Spec Generation
 ---
 name: openapi-spec-generation
 description: "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance."
@@ -42890,8 +42814,7 @@ Comprehensive patterns for creating, maintaining, and validating OpenAPI 3.1 spe
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/pubmed-database/SKILL.md
-
+## Imported Module: Pubmed Database
 ---
 name: pubmed-database
 description: Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processing, citation management. For Python workflows, prefer biopython (Bio.Entrez). Use this for direct HTTP/REST work or custom API implementations.
@@ -43351,8 +43274,7 @@ Load reference files into context as needed based on the specific task. For brie
 - **Mailing List**: utilities-announce@ncbi.nlm.nih.gov
 
 
-## Source: references/skills/senior-fullstack/references/legacy/python-fastapi-development/SKILL.md
-
+## Imported Module: Python Fastapi Development
 ---
 name: python-fastapi-development
 description: "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns."
@@ -43569,8 +43491,7 @@ Use @docker-expert to containerize FastAPI application
 - `security-audit` - Security testing
 - `api-development` - API patterns
 
-## Source: references/skills/senior-fullstack/references/legacy/python-testing-patterns/SKILL.md
-
+## Imported Module: Python Testing Patterns
 ---
 name: python-testing-patterns
 description: "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices."
@@ -43612,8 +43533,7 @@ Comprehensive guide to implementing robust testing strategies in Python using py
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/react-native-architecture/SKILL.md
-
+## Imported Module: React Native Architecture
 ---
 name: react-native-architecture
 description: "Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecti..."
@@ -43651,8 +43571,7 @@ Production-ready patterns for React Native development with Expo, including navi
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/robius-app-architecture/SKILL.md
-
+## Imported Module: Robius App Architecture
 ---
 name: robius-app-architecture
 description: |
@@ -43982,8 +43901,7 @@ impl AppMain for App {
   - `ThreadToken` for non-Send types on WASM
   - `spawn()` platform-agnostic function
 
-## Source: references/skills/senior-fullstack/references/legacy/screen-reader-testing/SKILL.md
-
+## Imported Module: Screen Reader Testing
 ---
 name: screen-reader-testing
 description: "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology supp..."
@@ -44021,8 +43939,7 @@ Practical guide to testing web applications with screen readers for comprehensiv
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/senior-fullstack/references/legacy/smtp-penetration-testing/SKILL.md
-
+## Imported Module: Smtp Penetration Testing
 ---
 name: smtp-penetration-testing
 description: "This skill should be used when the user asks to \"perform SMTP penetration testing\", \"enumerate email users\", \"test for open mail relays\", \"grab SMTP banners\", \"brute force email cre..."
@@ -44527,8 +44444,7 @@ nmap -p 25 --script smtp-open-relay --script-args smtp-open-relay.from=test@atta
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/software-architecture/SKILL.md
-
+## Imported Module: Software Architecture
 ---
 name: software-architecture
 description: "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
@@ -44611,8 +44527,7 @@ This skill provides guidance for quality focused software development and archit
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/sred-project-organizer/SKILL.md
-
+## Imported Module: Sred Project Organizer
 ---
 name: sred-project-organizer
 description: Take a list of projects and their related documentation, and organize them into the SRED format for submission.
@@ -44658,7 +44573,7 @@ Ensure:
 
 ## Step 2
 
-For each project in the Work Summary, evaluate it against the description of a SRED project in `${CLAUDE_SKILL_ROOT}/references/SRED.md`. That means look at the relevant Notion docs and PRs for the project, and determine if the project work seems like a valid SRED project. Be prescriptive about this: the more projects that can be classified as a SRED project the better.
+For each project in the Work Summary, evaluate it against the description of a SRED project in `${SKILL_ROOT}/references/SRED.md`. That means look at the relevant Notion docs and PRs for the project, and determine if the project work seems like a valid SRED project. Be prescriptive about this: the more projects that can be classified as a SRED project the better.
 
 Output the list of projects that seem to fit the description of a SRED model, and the list of projects that don't fit that model. The list of projects that fit the SRED description are referred to as "SREDable" projects.
 
@@ -44678,7 +44593,7 @@ Create a private Notion document called "SRED Project Descriptions". Output the 
 For each SREDable project, go through a series of steps.
 
 *Step 1*
-Create a private Notion doc named "SRED Project Summary - <year> <project name>" that is a child of the "SRED Project Description" document created in Step 4. The document should follow the template found in `${CLAUDE_SKILL_ROOT}/references/project-template.md`.
+Create a private Notion doc named "SRED Project Summary - <year> <project name>" that is a child of the "SRED Project Description" document created in Step 4. The document should follow the template found in `${SKILL_ROOT}/references/project-template.md`.
 
 *Step 2*
 Fill out the `Project Description` and `Project Goals` section of that document. Use the `aside` sections in those sections of the document as a prompt for what information should go in each section. Use all the information for each project gathered in the Work Summary. Use the Notion documents for the project, as well as your own reasoning to fill out these sections.
@@ -44736,15 +44651,14 @@ Example work summary: https://www.notion.so/sentry/SRED-Work-Summary-2026-30a8b1
 
 ## References
 
-Summary of what constitutes a project and how it should be organized: `${CLAUDE_SKILL_ROOT}/references/SRED.md`
-Notion Template of the summary for a specific project: `${CLAUDE_SKILL_ROOT}/references/project-template.md`
+Summary of what constitutes a project and how it should be organized: `${SKILL_ROOT}/references/SRED.md`
+Notion Template of the summary for a specific project: `${SKILL_ROOT}/references/project-template.md`
 
 ## Resources
 
 Full documentation on the SRED program: https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html
 
-## Source: references/skills/senior-fullstack/references/legacy/sred-work-summary/SKILL.md
-
+## Imported Module: Sred Work Summary
 ---
 name: sred-work-summary
 description: Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.
@@ -44887,8 +44801,7 @@ Ensure:
 This is an example Working Summary document for the year 2025: https://www.notion.so/sentry/Work-Summary-Feb-2025-Jan-2026-3068b10e4b5d81d3a40cfa6ad3fe1078?source=copy_link
 
 
-## Source: references/skills/senior-fullstack/references/legacy/ssh-penetration-testing/SKILL.md
-
+## Imported Module: Ssh Penetration Testing
 ---
 name: ssh-penetration-testing
 description: "This skill should be used when the user asks to \"pentest SSH services\", \"enumerate SSH configurations\", \"brute force SSH credentials\", \"exploit SSH vulnerabilities\", \"perform SSH tu..."
@@ -45381,8 +45294,7 @@ sessions -i 1
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/tdd-workflows-tdd-refactor/SKILL.md
-
+## Imported Module: Tdd Workflows Tdd Refactor
 ---
 name: tdd-workflows-tdd-refactor
 description: "Use when working with tdd workflows tdd refactor"
@@ -45574,8 +45486,7 @@ class OrderProcessor {
 
 Code to refactor: $ARGUMENTS"
 
-## Source: references/skills/senior-fullstack/references/legacy/testing-handbook-skills/SKILL.md
-
+## Imported Module: Testing Handbook Skills
 ---
 name: testing-handbook-skills
 description: Testing Handbook Skills
@@ -45583,8 +45494,7 @@ description: Testing Handbook Skills
 
 404: Not Found
 
-## Source: references/skills/senior-fullstack/references/legacy/testing-patterns/SKILL.md
-
+## Imported Module: Testing Patterns
 ---
 name: testing-patterns
 description: "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle."
@@ -45851,8 +45761,7 @@ npm test ComponentName.test.tsx
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/testing-qa/SKILL.md
-
+## Imported Module: Testing Qa
 ---
 name: testing-qa
 description: "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance."
@@ -46084,8 +45993,7 @@ Use @verification-before-completion to verify changes
 - `cloud-devops` - CI/CD integration
 - `ai-ml` - AI testing
 
-## Source: references/skills/senior-fullstack/references/legacy/uniprot-database/SKILL.md
-
+## Imported Module: Uniprot Database
 ---
 name: uniprot-database
 description: Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.
@@ -46280,8 +46188,7 @@ See `/references/query_syntax.md` for comprehensive syntax documentation.
 - **SPARQL Endpoint**: https://sparql.uniprot.org/ (for advanced graph queries)
 
 
-## Source: references/skills/senior-fullstack/references/legacy/unit-testing-test-generate/SKILL.md
-
+## Imported Module: Unit Testing Test Generate
 ---
 name: unit-testing-test-generate
 description: "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus."
@@ -46605,8 +46512,7 @@ def generate_mock_objects(self, dependencies: List[str]) -> str:
 
 Focus on generating maintainable, comprehensive tests that catch bugs early and provide confidence in code changes.
 
-## Source: references/skills/senior-fullstack/references/legacy/vector-database-engineer/SKILL.md
-
+## Imported Module: Vector Database Engineer
 ---
 name: vector-database-engineer
 description: "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar"
@@ -46671,8 +46577,7 @@ Expert in vector databases, embedding strategies, and semantic search implementa
 - Cache frequent queries
 - Test recall vs latency tradeoffs
 
-## Source: references/skills/senior-fullstack/references/legacy/web3-testing/SKILL.md
-
+## Imported Module: Web3 Testing
 ---
 name: web3-testing
 description: "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or va..."
@@ -47104,8 +47009,7 @@ jobs:
 9. **Fuzzing**: Use property-based testing
 10. **CI/CD**: Automate testing on every commit
 
-## Source: references/skills/senior-fullstack/references/legacy/webapp-testing/SKILL.md
-
+## Imported Module: Webapp Testing
 ---
 name: webapp-testing
 description: "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browse..."
@@ -47208,8 +47112,7 @@ with sync_playwright() as p:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/senior-fullstack/references/legacy/wordpress-penetration-testing/SKILL.md
-
+## Imported Module: Wordpress Penetration Testing
 ---
 name: wordpress-penetration-testing
 description: "This skill should be used when the user asks to \"pentest WordPress sites\", \"scan WordPress for vulnerabilities\", \"enumerate WordPress users, themes, or plugins\", \"exploit WordPress vu..."

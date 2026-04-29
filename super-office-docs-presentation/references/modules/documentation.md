@@ -1,5 +1,4 @@
-## Source: references/skills/documentation/SKILL.md
-
+## Module: Documentation
 ---
 name: documentation
 description: "Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing."
@@ -263,7 +262,7 @@ Use @doc-coauthoring to collaborate on docs
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: code-documentation-code-explain
@@ -317,7 +316,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: code-documentation-doc-generate
@@ -373,7 +372,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: documentation-generation-doc-generate
@@ -429,7 +428,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: documentation-templates
@@ -633,7 +632,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: readme
@@ -1481,7 +1480,7 @@ Write the README directly to `README.md` in the project root.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-changelog
@@ -1519,7 +1518,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-page-writer
@@ -1595,7 +1594,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-qa
@@ -1640,7 +1639,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-vitepress
@@ -1797,8 +1796,7 @@ Output goes to `wiki-site/.vitepress/dist/`.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/documentation/references/legacy/code-documentation-code-explain/SKILL.md
-
+## Imported Module: Code Documentation Code Explain
 ---
 name: code-documentation-code-explain
 description: "You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable expl..."
@@ -1849,8 +1847,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed examples and templates.
 
-## Source: references/skills/documentation/references/legacy/code-documentation-doc-generate/SKILL.md
-
+## Imported Module: Code Documentation Doc Generate
 ---
 name: code-documentation-doc-generate
 description: "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI..."
@@ -1903,8 +1900,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed examples and templates.
 
-## Source: references/skills/documentation/references/legacy/documentation-generation-doc-generate/SKILL.md
-
+## Imported Module: Documentation Generation Doc Generate
 ---
 name: documentation-generation-doc-generate
 description: "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI..."
@@ -1957,8 +1953,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed examples and templates.
 
-## Source: references/skills/documentation/references/legacy/documentation-templates/SKILL.md
-
+## Imported Module: Documentation Templates
 ---
 name: documentation-templates
 description: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
@@ -2159,8 +2154,7 @@ For RAG indexing:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/documentation/references/legacy/readme/SKILL.md
-
+## Imported Module: Readme
 ---
 name: readme
 description: "When the user wants to create or update a README.md file for a project. Also use when the user says 'write readme,' 'create readme,' 'document this project,' 'project documentation,' or asks for he..."
@@ -3005,8 +2999,7 @@ Generate a complete README.md file with:
 
 Write the README directly to `README.md` in the project root.
 
-## Source: references/skills/documentation/references/legacy/wiki-changelog/SKILL.md
-
+## Imported Module: Wiki Changelog
 ---
 name: wiki-changelog
 description: "Analyzes git commit history and generates structured changelogs categorized by change type. Use when the user asks about recent changes, wants a changelog, or needs to understand what changed in th..."
@@ -3041,8 +3034,7 @@ Generate structured changelogs from git history.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/documentation/references/legacy/wiki-page-writer/SKILL.md
-
+## Imported Module: Wiki Page Writer
 ---
 name: wiki-page-writer
 description: "Generates rich technical documentation pages with dark-mode Mermaid diagrams, source code citations, and first-principles depth. Use when writing documentation, generating wiki pages, creating tech..."
@@ -3115,8 +3107,7 @@ description: "One-line description"
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/documentation/references/legacy/wiki-qa/SKILL.md
-
+## Imported Module: Wiki Qa
 ---
 name: wiki-qa
 description: "Answers questions about a code repository using source file analysis. Use when the user asks a question about how something works, wants to understand a component, or needs help navigating the code..."
@@ -3158,8 +3149,7 @@ Answer repository questions grounded entirely in source code evidence.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/documentation/references/legacy/wiki-vitepress/SKILL.md
-
+## Imported Module: Wiki Vitepress
 ---
 name: wiki-vitepress
 description: "Packages generated wiki Markdown into a VitePress static site with dark theme, dark-mode Mermaid diagrams with click-to-zoom, and production build output. Use when the user wants to create a browsa..."

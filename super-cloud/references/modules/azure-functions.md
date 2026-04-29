@@ -1,5 +1,4 @@
-## Source: references/skills/azure-functions/SKILL.md
-
+## Module: Azure Functions
 ---
 name: azure-functions
 description: "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js ..."
@@ -50,7 +49,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azd-deployment
@@ -357,7 +356,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-agents-persistent-dotnet
@@ -715,7 +714,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-agents-persistent-java
@@ -860,7 +859,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-anomalydetector-java
@@ -1126,7 +1125,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-contentsafety-java
@@ -1418,7 +1417,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-contentsafety-py
@@ -1640,7 +1639,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-contentsafety-ts
@@ -1950,7 +1949,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-contentunderstanding-py
@@ -2231,7 +2230,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-document-intelligence-dotnet
@@ -2577,7 +2576,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-document-intelligence-ts
@@ -2910,7 +2909,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-formrecognizer-java
@@ -3261,7 +3260,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-ml-py
@@ -3540,7 +3539,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-openai-dotnet
@@ -4004,7 +4003,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-projects-dotnet
@@ -4361,7 +4360,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-projects-java
@@ -4521,7 +4520,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-projects-py
@@ -4826,7 +4825,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-projects-ts
@@ -5125,7 +5124,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-textanalytics-py
@@ -5360,7 +5359,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-transcription-py
@@ -5437,7 +5436,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-translation-document-py
@@ -5694,7 +5693,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-translation-text-py
@@ -5976,7 +5975,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-translation-ts
@@ -6272,7 +6271,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-vision-imageanalysis-java
@@ -6571,7 +6570,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-vision-imageanalysis-py
@@ -6839,7 +6838,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-voicelive-dotnet
@@ -7113,7 +7112,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-voicelive-java
@@ -7346,7 +7345,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-voicelive-py
@@ -7665,7 +7664,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-ai-voicelive-ts
@@ -8139,7 +8138,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-appconfiguration-java
@@ -8617,7 +8616,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-appconfiguration-py
@@ -8874,7 +8873,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-appconfiguration-ts
@@ -9233,7 +9232,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-communication-callingserver-java
@@ -9334,7 +9333,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-communication-chat-java
@@ -9654,7 +9653,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-communication-common-java
@@ -9968,7 +9967,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-communication-sms-java
@@ -10252,7 +10251,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-compute-batch-java
@@ -10640,7 +10639,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-containerregistry-py
@@ -10900,7 +10899,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-cosmos-db-py
@@ -11149,7 +11148,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-cosmos-java
@@ -11415,7 +11414,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-cosmos-py
@@ -11703,7 +11702,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-cosmos-rust
@@ -11846,7 +11845,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-cosmos-ts
@@ -12326,7 +12325,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-data-tables-java
@@ -12670,7 +12669,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-data-tables-py
@@ -12921,7 +12920,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventgrid-dotnet
@@ -13418,7 +13417,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventgrid-java
@@ -13733,7 +13732,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventgrid-py
@@ -13909,7 +13908,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventhub-dotnet
@@ -14280,7 +14279,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventhub-java
@@ -14646,7 +14645,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventhub-py
@@ -14894,7 +14893,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventhub-rust
@@ -15029,7 +15028,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-eventhub-ts
@@ -15307,7 +15306,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-identity-dotnet
@@ -15655,7 +15654,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-identity-java
@@ -16031,7 +16030,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-identity-py
@@ -16231,7 +16230,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-identity-rust
@@ -16354,7 +16353,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-identity-ts
@@ -16667,7 +16666,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-certificates-rust
@@ -16852,7 +16851,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-keys-rust
@@ -17027,7 +17026,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-keys-ts
@@ -17306,7 +17305,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-py
@@ -17561,7 +17560,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-secrets-rust
@@ -17711,7 +17710,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-keyvault-secrets-ts
@@ -17990,7 +17989,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-maps-search-dotnet
@@ -18493,7 +18492,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-messaging-webpubsub-java
@@ -18805,7 +18804,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-messaging-webpubsubservice-py
@@ -19058,7 +19057,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-apicenter-dotnet
@@ -19478,7 +19477,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-apicenter-py
@@ -19728,7 +19727,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-apimanagement-dotnet
@@ -20047,7 +20046,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-apimanagement-py
@@ -20333,7 +20332,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-applicationinsights-dotnet
@@ -20828,7 +20827,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-arizeaiobservabilityeval-dotnet
@@ -21065,7 +21064,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-botservice-dotnet
@@ -21408,7 +21407,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-botservice-py
@@ -21737,7 +21736,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-fabric-dotnet
@@ -22084,7 +22083,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-fabric-py
@@ -22351,7 +22350,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-mongodbatlas-dotnet
@@ -22715,7 +22714,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-mgmt-weightsandbiases-dotnet
@@ -23052,7 +23051,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-microsoft-playwright-testing-ts
@@ -23364,7 +23363,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-ingestion-java
@@ -23602,7 +23601,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-ingestion-py
@@ -23814,7 +23813,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-opentelemetry-exporter-java
@@ -24105,7 +24104,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-opentelemetry-exporter-py
@@ -24317,7 +24316,7 @@ exporter = AzureMonitorTraceExporter(
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-opentelemetry-py
@@ -24549,7 +24548,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-opentelemetry-ts
@@ -24878,7 +24877,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-query-java
@@ -25302,7 +25301,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-monitor-query-py
@@ -25562,7 +25561,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-postgres-ts
@@ -26048,7 +26047,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-cosmosdb-dotnet
@@ -26307,7 +26306,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-durabletask-dotnet
@@ -26693,7 +26692,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-mysql-dotnet
@@ -27094,7 +27093,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-playwright-dotnet
@@ -27400,7 +27399,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-postgresql-dotnet
@@ -27841,7 +27840,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-redis-dotnet
@@ -28206,7 +28205,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-resource-manager-sql-dotnet
@@ -28534,7 +28533,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-search-documents-dotnet
@@ -28882,7 +28881,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-search-documents-py
@@ -29418,7 +29417,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-search-documents-ts
@@ -29694,7 +29693,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-servicebus-dotnet
@@ -30036,7 +30035,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-servicebus-py
@@ -30311,7 +30310,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-servicebus-ts
@@ -30554,7 +30553,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-speech-to-text-rest-py
@@ -30934,7 +30933,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-blob-java
@@ -31332,7 +31331,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-blob-py
@@ -31559,7 +31558,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-blob-rust
@@ -31699,7 +31698,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-blob-ts
@@ -32190,7 +32189,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-file-datalake-py
@@ -32409,7 +32408,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-file-share-py
@@ -32656,7 +32655,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-file-share-ts
@@ -33158,7 +33157,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-queue-py
@@ -33379,7 +33378,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-storage-queue-ts
@@ -33912,7 +33911,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-web-pubsub-ts
@@ -34230,8 +34229,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azd-deployment/SKILL.md
-
+## Imported Module: Azd Deployment
 ---
 name: azd-deployment
 description: "Deploy containerized applications to Azure Container Apps using Azure Developer CLI (azd). Use when setting up azd projects, writing azure.yaml configuration, creating Bicep infrastructure for Cont..."
@@ -34535,8 +34533,7 @@ az containerapp logs show -n <app> -g <rg> --follow  # Stream logs
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-agents-persistent-dotnet/SKILL.md
-
+## Imported Module: Azure Ai Agents Persistent Dotnet
 ---
 name: azure-ai-agents-persistent-dotnet
 description: Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
@@ -34891,8 +34888,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-agents-persistent-java/SKILL.md
-
+## Imported Module: Azure Ai Agents Persistent Java
 ---
 name: azure-ai-agents-persistent-java
 description: Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
@@ -35034,8 +35030,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-anomalydetector-java/SKILL.md
-
+## Imported Module: Azure Ai Anomalydetector Java
 ---
 name: azure-ai-anomalydetector-java
 description: "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring."
@@ -35298,8 +35293,7 @@ AZURE_ANOMALY_DETECTOR_API_KEY=<your-api-key>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-contentsafety-java/SKILL.md
-
+## Imported Module: Azure Ai Contentsafety Java
 ---
 name: azure-ai-contentsafety-java
 description: "Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analysis, blocklist management, or harm detection for hate, violence, sexual conten..."
@@ -35588,8 +35582,7 @@ CONTENT_SAFETY_KEY=<your-api-key>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-contentsafety-py/SKILL.md
-
+## Imported Module: Azure Ai Contentsafety Py
 ---
 name: azure-ai-contentsafety-py
 description: Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.
@@ -35808,8 +35801,7 @@ request = AnalyzeTextOptions(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-contentsafety-ts/SKILL.md
-
+## Imported Module: Azure Ai Contentsafety Ts
 ---
 name: azure-ai-contentsafety-ts
 description: "Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detecting hate speech, violence, sexual conten..."
@@ -36116,8 +36108,7 @@ import ContentSafetyClient, {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-contentunderstanding-py/SKILL.md
-
+## Imported Module: Azure Ai Contentunderstanding Py
 ---
 name: azure-ai-contentunderstanding-py
 description: Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.
@@ -36395,8 +36386,7 @@ from azure.ai.contentunderstanding.models import (
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-document-intelligence-dotnet/SKILL.md
-
+## Imported Module: Azure Ai Document Intelligence Dotnet
 ---
 name: azure-ai-document-intelligence-dotnet
 description: Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
@@ -36739,8 +36729,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-document-intelligence-ts/SKILL.md
-
+## Imported Module: Azure Ai Document Intelligence Ts
 ---
 name: azure-ai-document-intelligence-ts
 description: "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building cu..."
@@ -37070,8 +37059,7 @@ import DocumentIntelligence, {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-formrecognizer-java/SKILL.md
-
+## Imported Module: Azure Ai Formrecognizer Java
 ---
 name: azure-ai-formrecognizer-java
 description: "Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables, key-value pairs from documents, receipts, invoices, or buildi..."
@@ -37419,8 +37407,7 @@ FORM_RECOGNIZER_KEY=<your-api-key>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-ml-py/SKILL.md
-
+## Imported Module: Azure Ai Ml Py
 ---
 name: azure-ai-ml-py
 description: Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
@@ -37696,8 +37683,7 @@ print(f"Default: {default_ds.name}")
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-openai-dotnet/SKILL.md
-
+## Imported Module: Azure Ai Openai Dotnet
 ---
 name: azure-ai-openai-dotnet
 description: Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.
@@ -38158,8 +38144,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-projects-dotnet/SKILL.md
-
+## Imported Module: Azure Ai Projects Dotnet
 ---
 name: azure-ai-projects-dotnet
 description: Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.
@@ -38513,8 +38498,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-projects-java/SKILL.md
-
+## Imported Module: Azure Ai Projects Java
 ---
 name: azure-ai-projects-java
 description: Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.
@@ -38671,8 +38655,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-projects-py/SKILL.md
-
+## Imported Module: Azure Ai Projects Py
 ---
 name: azure-ai-projects-py
 description: "Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents with PromptAgentDefinition, running evalua..."
@@ -38974,8 +38957,7 @@ agent = client.agents.create_agent(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-projects-ts/SKILL.md
-
+## Imported Module: Azure Ai Projects Ts
 ---
 name: azure-ai-projects-ts
 description: "Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry project clients, agents, connections, deployments, datasets, indexes, evaluation..."
@@ -39271,8 +39253,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-textanalytics-py/SKILL.md
-
+## Imported Module: Azure Ai Textanalytics Py
 ---
 name: azure-ai-textanalytics-py
 description: Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.
@@ -39504,8 +39485,7 @@ async def analyze():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-transcription-py/SKILL.md
-
+## Imported Module: Azure Ai Transcription Py
 ---
 name: azure-ai-transcription-py
 description: Azure AI Transcription SDK for Python. Use for real-time and batch speech-to-text transcription with timestamps and diarization.
@@ -39579,8 +39559,7 @@ for event in stream:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-translation-document-py/SKILL.md
-
+## Imported Module: Azure Ai Translation Document Py
 ---
 name: azure-ai-translation-document-py
 description: Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other document formats at scale.
@@ -39834,8 +39813,7 @@ async def translate_documents():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-translation-text-py/SKILL.md
-
+## Imported Module: Azure Ai Translation Text Py
 ---
 name: azure-ai-translation-text-py
 description: Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.
@@ -40114,8 +40092,7 @@ async def translate_text():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-translation-ts/SKILL.md
-
+## Imported Module: Azure Ai Translation Ts
 ---
 name: azure-ai-translation-ts
 description: "Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when implementing text translation, transliter..."
@@ -40408,8 +40385,7 @@ import type {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-vision-imageanalysis-java/SKILL.md
-
+## Imported Module: Azure Ai Vision Imageanalysis Java
 ---
 name: azure-ai-vision-imageanalysis-java
 description: "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping."
@@ -40705,8 +40681,7 @@ Caption and Dense Captions require GPU-supported regions. Check [supported regio
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-vision-imageanalysis-py/SKILL.md
-
+## Imported Module: Azure Ai Vision Imageanalysis Py
 ---
 name: azure-ai-vision-imageanalysis-py
 description: Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.
@@ -40971,8 +40946,7 @@ except HttpResponseError as e:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-voicelive-dotnet/SKILL.md
-
+## Imported Module: Azure Ai Voicelive Dotnet
 ---
 name: azure-ai-voicelive-dotnet
 description: Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication.
@@ -41243,8 +41217,7 @@ if (serverEvent is SessionUpdateError error)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-voicelive-java/SKILL.md
-
+## Imported Module: Azure Ai Voicelive Java
 ---
 name: azure-ai-voicelive-java
 description: Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.
@@ -41474,8 +41447,7 @@ session.receiveEvents()
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-voicelive-py/SKILL.md
-
+## Imported Module: Azure Ai Voicelive Py
 ---
 name: azure-ai-voicelive-py
 description: "Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive). Use this skill when creating Python applications that need real-time bidirectional audio communication with..."
@@ -41791,8 +41763,7 @@ except ConnectionError as e:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-ai-voicelive-ts/SKILL.md
-
+## Imported Module: Azure Ai Voicelive Ts
 ---
 name: azure-ai-voicelive-ts
 description: Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication.
@@ -42263,8 +42234,7 @@ const audioContext = new AudioContext({ sampleRate: 24000 });
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-appconfiguration-java/SKILL.md
-
+## Imported Module: Azure Appconfiguration Java
 ---
 name: azure-appconfiguration-java
 description: Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.
@@ -42739,8 +42709,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-appconfiguration-py/SKILL.md
-
+## Imported Module: Azure Appconfiguration Py
 ---
 name: azure-appconfiguration-py
 description: Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.
@@ -42994,8 +42963,7 @@ async def main():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-appconfiguration-ts/SKILL.md
-
+## Imported Module: Azure Appconfiguration Ts
 ---
 name: azure-appconfiguration-ts
 description: "Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with configuration settings, feature flags, Key Vault references, dynamic refresh, o..."
@@ -43351,8 +43319,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-communication-callingserver-java/SKILL.md
-
+## Imported Module: Azure Communication Callingserver Java
 ---
 name: azure-communication-callingserver-java
 description: "Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects. Only use this skill when maintaining le..."
@@ -43450,8 +43417,7 @@ See the `azure-communication-callautomation-java` skill for:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-communication-chat-java/SKILL.md
-
+## Imported Module: Azure Communication Chat Java
 ---
 name: azure-communication-chat-java
 description: "Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time cha..."
@@ -43768,8 +43734,7 @@ AZURE_COMMUNICATION_USER_TOKEN=<user-access-token>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-communication-common-java/SKILL.md
-
+## Imported Module: Azure Communication Common Java
 ---
 name: azure-communication-common-java
 description: "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services."
@@ -44080,8 +44045,7 @@ private String refreshToken() {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-communication-sms-java/SKILL.md
-
+## Imported Module: Azure Communication Sms Java
 ---
 name: azure-communication-sms-java
 description: "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports."
@@ -44362,8 +44326,7 @@ SMS_FROM_NUMBER=+14255550100
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-compute-batch-java/SKILL.md
-
+## Imported Module: Azure Compute Batch Java
 ---
 name: azure-compute-batch-java
 description: Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.
@@ -44748,8 +44711,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-containerregistry-py/SKILL.md
-
+## Imported Module: Azure Containerregistry Py
 ---
 name: azure-containerregistry-py
 description: Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.
@@ -45006,8 +44968,7 @@ for manifest in client.list_manifest_properties("my-image"):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-cosmos-db-py/SKILL.md
-
+## Imported Module: Azure Cosmos Db Py
 ---
 name: azure-cosmos-db-py
 description: "Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns. Use when implementing database client setup with dual auth (DefaultAzureCredential + emulator), service..."
@@ -45253,8 +45214,7 @@ async def test_get_project_by_id_returns_project(mock_cosmos_container):
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-cosmos-java/SKILL.md
-
+## Imported Module: Azure Cosmos Java
 ---
 name: azure-cosmos-java
 description: Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.
@@ -45517,8 +45477,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-cosmos-py/SKILL.md
-
+## Imported Module: Azure Cosmos Py
 ---
 name: azure-cosmos-py
 description: Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
@@ -45803,8 +45762,7 @@ except CosmosHttpResponseError as e:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-cosmos-rust/SKILL.md
-
+## Imported Module: Azure Cosmos Rust
 ---
 name: azure-cosmos-rust
 description: Azure Cosmos DB SDK for Rust (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
@@ -45944,8 +45902,7 @@ cargo add azure_data_cosmos --features key_auth
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-cosmos-ts/SKILL.md
-
+## Imported Module: Azure Cosmos Ts
 ---
 name: azure-cosmos-ts
 description: Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations. Use for CRUD operations on documents, queries, bulk operations, and container management.
@@ -46422,8 +46379,7 @@ export class ProductService {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-data-tables-java/SKILL.md
-
+## Imported Module: Azure Data Tables Java
 ---
 name: azure-data-tables-java
 description: "Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB Table API for NoSQL key-value data, schemaless storage, or structured data at..."
@@ -46764,8 +46720,7 @@ COSMOS_TABLE_ENDPOINT=https://<account>.table.cosmosdb.azure.com
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-data-tables-py/SKILL.md
-
+## Imported Module: Azure Data Tables Py
 ---
 name: azure-data-tables-py
 description: Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.
@@ -47013,8 +46968,7 @@ asyncio.run(table_operations())
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventgrid-dotnet/SKILL.md
-
+## Imported Module: Azure Eventgrid Dotnet
 ---
 name: azure-eventgrid-dotnet
 description: Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messaging, CloudEvents, and EventGridEvents.
@@ -47508,8 +47462,7 @@ catch (RequestFailedException)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventgrid-java/SKILL.md
-
+## Imported Module: Azure Eventgrid Java
 ---
 name: azure-eventgrid-java
 description: "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events."
@@ -47821,8 +47774,7 @@ EVENT_GRID_ACCESS_KEY=<your-access-key>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventgrid-py/SKILL.md
-
+## Imported Module: Azure Eventgrid Py
 ---
 name: azure-eventgrid-py
 description: Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.
@@ -47995,8 +47947,7 @@ async with EventGridPublisherClient(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventhub-dotnet/SKILL.md
-
+## Imported Module: Azure Eventhub Dotnet
 ---
 name: azure-eventhub-dotnet
 description: Azure Event Hubs SDK for .NET.
@@ -48364,8 +48315,7 @@ processor.ProcessEventAsync += async args =>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventhub-java/SKILL.md
-
+## Imported Module: Azure Eventhub Java
 ---
 name: azure-eventhub-java
 description: "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures."
@@ -48728,8 +48678,7 @@ STORAGE_CONNECTION_STRING=<for-checkpointing>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventhub-py/SKILL.md
-
+## Imported Module: Azure Eventhub Py
 ---
 name: azure-eventhub-py
 description: Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.
@@ -48974,8 +48923,7 @@ with producer:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventhub-rust/SKILL.md
-
+## Imported Module: Azure Eventhub Rust
 ---
 name: azure-eventhub-rust
 description: Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
@@ -49107,8 +49055,7 @@ cargo add azure_messaging_eventhubs_checkpointstore_blob
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-eventhub-ts/SKILL.md
-
+## Imported Module: Azure Eventhub Ts
 ---
 name: azure-eventhub-ts
 description: "Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs). Use when implementing high-throughput event ingestion, real-time analytics, IoT telemetry, or event..."
@@ -49383,8 +49330,7 @@ consumer.subscribe({
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-identity-dotnet/SKILL.md
-
+## Imported Module: Azure Identity Dotnet
 ---
 name: azure-identity-dotnet
 description: Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.
@@ -49729,8 +49675,7 @@ All credential implementations are thread-safe. A single credential instance can
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-identity-java/SKILL.md
-
+## Imported Module: Azure Identity Java
 ---
 name: azure-identity-java
 description: "Azure Identity Java SDK for authentication with Azure services. Use when implementing DefaultAzureCredential, managed identity, service principal, or any Azure authentication pattern in Java applic..."
@@ -50103,8 +50048,7 @@ AZURE_AUTHORITY_HOST=https://login.microsoftonline.com/
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-identity-py/SKILL.md
-
+## Imported Module: Azure Identity Py
 ---
 name: azure-identity-py
 description: Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
@@ -50301,8 +50245,7 @@ async def main():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-identity-rust/SKILL.md
-
+## Imported Module: Azure Identity Rust
 ---
 name: azure-identity-rust
 description: Azure Identity SDK for Rust authentication. Use for DeveloperToolsCredential, ManagedIdentityCredential, ClientSecretCredential, and token-based authentication.
@@ -50422,8 +50365,7 @@ let credential = ClientSecretCredential::new(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-identity-ts/SKILL.md
-
+## Imported Module: Azure Identity Ts
 ---
 name: azure-identity-ts
 description: "Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or i..."
@@ -50733,8 +50675,7 @@ AzureLogger.log = (...args) => {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-certificates-rust/SKILL.md
-
+## Imported Module: Azure Keyvault Certificates Rust
 ---
 name: azure-keyvault-certificates-rust
 description: Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.
@@ -50916,8 +50857,7 @@ Assign these Key Vault roles:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-keys-rust/SKILL.md
-
+## Imported Module: Azure Keyvault Keys Rust
 ---
 name: azure-keyvault-keys-rust
 description: 'Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys. Triggers: "keyvault keys rust", "KeyClient rust", "create key rust", "encrypt rust", "sign rust".'
@@ -51089,8 +51029,7 @@ Assign these Key Vault roles:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-keys-ts/SKILL.md
-
+## Imported Module: Azure Keyvault Keys Ts
 ---
 name: azure-keyvault-keys-ts
 description: "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys."
@@ -51366,8 +51305,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-py/SKILL.md
-
+## Imported Module: Azure Keyvault Py
 ---
 name: azure-keyvault-py
 description: Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.
@@ -51619,8 +51557,7 @@ except HttpResponseError as e:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-secrets-rust/SKILL.md
-
+## Imported Module: Azure Keyvault Secrets Rust
 ---
 name: azure-keyvault-secrets-rust
 description: 'Azure Key Vault Secrets SDK for Rust. Use for storing and retrieving secrets, passwords, and API keys. Triggers: "keyvault secrets rust", "SecretClient rust", "get secret rust", "set secret rust".'
@@ -51767,8 +51704,7 @@ Assign these Key Vault roles:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-keyvault-secrets-ts/SKILL.md
-
+## Imported Module: Azure Keyvault Secrets Ts
 ---
 name: azure-keyvault-secrets-ts
 description: "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values."
@@ -52044,8 +51980,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-maps-search-dotnet/SKILL.md
-
+## Imported Module: Azure Maps Search Dotnet
 ---
 name: azure-maps-search-dotnet
 description: Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map tiles, IP geolocation, and weather data.
@@ -52545,8 +52480,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-messaging-webpubsub-java/SKILL.md
-
+## Imported Module: Azure Messaging Webpubsub Java
 ---
 name: azure-messaging-webpubsub-java
 description: "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications."
@@ -52855,8 +52789,7 @@ WEB_PUBSUB_ACCESS_KEY=<your-access-key>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-messaging-webpubsubservice-py/SKILL.md
-
+## Imported Module: Azure Messaging Webpubsubservice Py
 ---
 name: azure-messaging-webpubsubservice-py
 description: Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.
@@ -53106,8 +53039,7 @@ async def broadcast():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-apicenter-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Apicenter Dotnet
 ---
 name: azure-mgmt-apicenter-dotnet
 description: Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.
@@ -53524,8 +53456,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-apicenter-py/SKILL.md
-
+## Imported Module: Azure Mgmt Apicenter Py
 ---
 name: azure-mgmt-apicenter-py
 description: Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.
@@ -53772,8 +53703,7 @@ metadata = client.metadata_schemas.create_or_update(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-apimanagement-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Apimanagement Dotnet
 ---
 name: azure-mgmt-apimanagement-dotnet
 description: Azure Resource Manager SDK for API Management in .NET.
@@ -54089,8 +54019,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-apimanagement-py/SKILL.md
-
+## Imported Module: Azure Mgmt Apimanagement Py
 ---
 name: azure-mgmt-apimanagement-py
 description: Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.
@@ -54373,8 +54302,7 @@ user = client.user.create_or_update(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-applicationinsights-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Applicationinsights Dotnet
 ---
 name: azure-mgmt-applicationinsights-dotnet
 description: Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.
@@ -54866,8 +54794,7 @@ builder.Services.AddApplicationInsightsTelemetry(options =>
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-arizeaiobservabilityeval-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Arizeaiobservabilityeval Dotnet
 ---
 name: azure-mgmt-arizeaiobservabilityeval-dotnet
 description: Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
@@ -55101,8 +55028,7 @@ var data = await org.GetAsync();
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-botservice-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Botservice Dotnet
 ---
 name: azure-mgmt-botservice-dotnet
 description: Azure Resource Manager SDK for Bot Service in .NET. Management plane operations for creating and managing Azure Bot resources, channels (Teams, DirectLine, Slack), and connection settings.
@@ -55442,8 +55368,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-botservice-py/SKILL.md
-
+## Imported Module: Azure Mgmt Botservice Py
 ---
 name: azure-mgmt-botservice-py
 description: Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.
@@ -55769,8 +55694,7 @@ for conn in connections:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-fabric-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Fabric Dotnet
 ---
 name: azure-mgmt-fabric-dotnet
 description: Azure Resource Manager SDK for Fabric in .NET.
@@ -56114,8 +56038,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-fabric-py/SKILL.md
-
+## Imported Module: Azure Mgmt Fabric Py
 ---
 name: azure-mgmt-fabric-py
 description: Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.
@@ -56379,8 +56302,7 @@ capacity = poller.result()
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-mongodbatlas-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Mongodbatlas Dotnet
 ---
 name: azure-mgmt-mongodbatlas-dotnet
 description: "Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK. Use when creating, updating, listing, or deleting MongoDB Atlas organizations through Azure M..."
@@ -56741,8 +56663,7 @@ var response = await orgResource.GetAsync();
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-mgmt-weightsandbiases-dotnet/SKILL.md
-
+## Imported Module: Azure Mgmt Weightsandbiases Dotnet
 ---
 name: azure-mgmt-weightsandbiases-dotnet
 description: Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.
@@ -57076,8 +56997,7 @@ run.finish()
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-microsoft-playwright-testing-ts/SKILL.md
-
+## Imported Module: Azure Microsoft Playwright Testing Ts
 ---
 name: azure-microsoft-playwright-testing-ts
 description: "Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright Testing). Use when scaling browser tests across cloud-hosted browsers, integrating with CI/CD pipeline..."
@@ -57386,8 +57306,7 @@ export default defineConfig(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-ingestion-java/SKILL.md
-
+## Imported Module: Azure Monitor Ingestion Java
 ---
 name: azure-monitor-ingestion-java
 description: Azure Monitor Ingestion SDK for Java. Send custom logs to Azure Monitor via Data Collection Rules (DCR) and Data Collection Endpoints (DCE).
@@ -57622,8 +57541,7 @@ String query = "MyTable_CL | where TimeGenerated > ago(1h) | limit 10";
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-ingestion-py/SKILL.md
-
+## Imported Module: Azure Monitor Ingestion Py
 ---
 name: azure-monitor-ingestion-py
 description: Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.
@@ -57832,8 +57750,7 @@ Stream names follow patterns:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-opentelemetry-exporter-java/SKILL.md
-
+## Imported Module: Azure Monitor Opentelemetry Exporter Java
 ---
 name: azure-monitor-opentelemetry-exporter-java
 description: Azure Monitor OpenTelemetry Exporter for Java. Export OpenTelemetry traces, metrics, and logs to Azure Monitor/Application Insights.
@@ -58121,8 +58038,7 @@ The `azure-monitor-opentelemetry-autoconfigure` package provides:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-opentelemetry-exporter-py/SKILL.md
-
+## Imported Module: Azure Monitor Opentelemetry Exporter Py
 ---
 name: azure-monitor-opentelemetry-exporter-py
 description: Azure Monitor OpenTelemetry Exporter for Python. Use for low-level OpenTelemetry export to Application Insights.
@@ -58331,8 +58247,7 @@ exporter = AzureMonitorTraceExporter(
 5. **Set export intervals** appropriate for your workload
 6. **Use the distro** (`azure-monitor-opentelemetry`) unless you need custom pipelines
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-opentelemetry-py/SKILL.md
-
+## Imported Module: Azure Monitor Opentelemetry Py
 ---
 name: azure-monitor-opentelemetry-py
 description: Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.
@@ -58561,8 +58476,7 @@ configure_azure_monitor(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-opentelemetry-ts/SKILL.md
-
+## Imported Module: Azure Monitor Opentelemetry Ts
 ---
 name: azure-monitor-opentelemetry-ts
 description: "Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and logs to Node.js applications with Appli..."
@@ -58888,8 +58802,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-query-java/SKILL.md
-
+## Imported Module: Azure Monitor Query Java
 ---
 name: azure-monitor-query-java
 description: Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.
@@ -59310,8 +59223,7 @@ try {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-monitor-query-py/SKILL.md
-
+## Imported Module: Azure Monitor Query Py
 ---
 name: azure-monitor-query-py
 description: Azure Monitor Query SDK for Python. Use for querying Log Analytics workspaces and Azure Monitor metrics.
@@ -59568,8 +59480,7 @@ AppExceptions
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-postgres-ts/SKILL.md
-
+## Imported Module: Azure Postgres Ts
 ---
 name: azure-postgres-ts
 description: Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.
@@ -60052,8 +59963,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-cosmosdb-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Cosmosdb Dotnet
 ---
 name: azure-resource-manager-cosmosdb-dotnet
 description: Azure Resource Manager SDK for Cosmos DB in .NET.
@@ -60309,8 +60219,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-durabletask-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Durabletask Dotnet
 ---
 name: azure-resource-manager-durabletask-dotnet
 description: Azure Resource Manager SDK for Durable Task Scheduler in .NET.
@@ -60693,8 +60602,7 @@ await scheduler.DeleteAsync(WaitUntil.Completed);
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-mysql-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Mysql Dotnet
 ---
 name: azure-resource-manager-mysql-dotnet
 description: Azure MySQL Flexible Server SDK for .NET. Database management for MySQL Flexible Server deployments.
@@ -61092,8 +61000,7 @@ string connectionString = $"Server={server.Data.FullyQualifiedDomainName};" +
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-playwright-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Playwright Dotnet
 ---
 name: azure-resource-manager-playwright-dotnet
 description: Azure Resource Manager SDK for Microsoft Playwright Testing in .NET.
@@ -61396,8 +61303,7 @@ Environment.SetEnvironmentVariable("PLAYWRIGHT_SERVICE_URL", serviceUrl.ToString
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-postgresql-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Postgresql Dotnet
 ---
 name: azure-resource-manager-postgresql-dotnet
 description: Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.
@@ -61835,8 +61741,7 @@ string connectionString = $"Host={server.Data.FullyQualifiedDomainName};" +
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-redis-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Redis Dotnet
 ---
 name: azure-resource-manager-redis-dotnet
 description: Azure Resource Manager SDK for Redis in .NET.
@@ -62198,8 +62103,7 @@ var value = await db.StringGetAsync("key");
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-resource-manager-sql-dotnet/SKILL.md
-
+## Imported Module: Azure Resource Manager Sql Dotnet
 ---
 name: azure-resource-manager-sql-dotnet
 description: Azure Resource Manager SDK for Azure SQL in .NET.
@@ -62524,8 +62428,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-search-documents-dotnet/SKILL.md
-
+## Imported Module: Azure Search Documents Dotnet
 ---
 name: azure-search-documents-dotnet
 description: Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.
@@ -62870,8 +62773,7 @@ catch (RequestFailedException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-search-documents-py/SKILL.md
-
+## Imported Module: Azure Search Documents Py
 ---
 name: azure-search-documents-py
 description: Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.
@@ -63404,8 +63306,7 @@ except HttpResponseError as e:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-search-documents-ts/SKILL.md
-
+## Imported Module: Azure Search Documents Ts
 ---
 name: azure-search-documents-ts
 description: "Build search applications using Azure AI Search SDK for JavaScript (@azure/search-documents). Use when creating/managing indexes, implementing vector/hybrid search, semantic ranking, or building ag..."
@@ -63678,8 +63579,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-servicebus-dotnet/SKILL.md
-
+## Imported Module: Azure Servicebus Dotnet
 ---
 name: azure-servicebus-dotnet
 description: Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
@@ -64018,8 +63918,7 @@ catch (ServiceBusException ex)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-servicebus-py/SKILL.md
-
+## Imported Module: Azure Servicebus Py
 ---
 name: azure-servicebus-py
 description: Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.
@@ -64291,8 +64190,7 @@ with ServiceBusClient(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-servicebus-ts/SKILL.md
-
+## Imported Module: Azure Servicebus Ts
 ---
 name: azure-servicebus-ts
 description: "Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus). Use when implementing queues, topics/subscriptions, message sessions, dead-letter handling, or enterpri..."
@@ -64532,8 +64430,7 @@ For detailed patterns, see:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-speech-to-text-rest-py/SKILL.md
-
+## Imported Module: Azure Speech To Text Rest Py
 ---
 name: azure-speech-to-text-rest-py
 description: Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.
@@ -64910,8 +64807,7 @@ Use the Speech SDK or Batch Transcription API instead when you need:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-blob-java/SKILL.md
-
+## Imported Module: Azure Storage Blob Java
 ---
 name: azure-storage-blob-java
 description: "Build blob storage applications with Azure Storage Blob SDK for Java. Use when uploading, downloading, or managing files in Azure Blob Storage, working with containers, or implementing streaming da..."
@@ -65306,8 +65202,7 @@ AZURE_STORAGE_ACCOUNT_URL=https://<account>.blob.core.windows.net
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-blob-py/SKILL.md
-
+## Imported Module: Azure Storage Blob Py
 ---
 name: azure-storage-blob-py
 description: Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.
@@ -65531,8 +65426,7 @@ async def download_async():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-blob-rust/SKILL.md
-
+## Imported Module: Azure Storage Blob Rust
 ---
 name: azure-storage-blob-rust
 description: Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.
@@ -65669,8 +65563,7 @@ For Entra ID auth, assign one of these roles:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-blob-ts/SKILL.md
-
+## Imported Module: Azure Storage Blob Ts
 ---
 name: azure-storage-blob-ts
 description: Azure Blob Storage JavaScript/TypeScript SDK (@azure/storage-blob) for blob operations. Use for uploading, downloading, listing, and managing blobs and containers.
@@ -66158,8 +66051,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-file-datalake-py/SKILL.md
-
+## Imported Module: Azure Storage File Datalake Py
 ---
 name: azure-storage-file-datalake-py
 description: Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.
@@ -66375,8 +66267,7 @@ asyncio.run(datalake_operations())
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-file-share-py/SKILL.md
-
+## Imported Module: Azure Storage File Share Py
 ---
 name: azure-storage-file-share-py
 description: Azure Storage File Share SDK for Python. Use for SMB file shares, directories, and file operations in the cloud.
@@ -66620,8 +66511,7 @@ async def upload_file():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-file-share-ts/SKILL.md
-
+## Imported Module: Azure Storage File Share Ts
 ---
 name: azure-storage-file-share-ts
 description: Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.
@@ -67120,8 +67010,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-queue-py/SKILL.md
-
+## Imported Module: Azure Storage Queue Py
 ---
 name: azure-storage-queue-py
 description: Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.
@@ -67339,8 +67228,7 @@ queue_client.send_message(b"Binary content")
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-storage-queue-ts/SKILL.md
-
+## Imported Module: Azure Storage Queue Ts
 ---
 name: azure-storage-queue-ts
 description: Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.
@@ -67870,8 +67758,7 @@ import {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/azure-functions/references/legacy/azure-web-pubsub-ts/SKILL.md
-
+## Imported Module: Azure Web Pubsub Ts
 ---
 name: azure-web-pubsub-ts
 description: "Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when implementing WebSocket-based real-time features, pub/sub me..."

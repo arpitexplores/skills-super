@@ -1,5 +1,4 @@
-## Source: references/skills/seo-programmatic/SKILL.md
-
+## Module: Seo Programmatic
 ---
 name: seo-programmatic
 description: Programmatic SEO strategy and execution for pages at scale and template-driven growth.
@@ -520,7 +519,7 @@ If triggered, **halt indexing or roll back**:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Programmatic SEO
 
@@ -921,8 +920,7 @@ Measure against all other pages in the programmatic set. Shared headers, footers
 - URL pattern adjustments
 - Quality gate compliance actions
 
-## Source: references/skills/seo-programmatic/references/legacy/programmatic-seo/SKILL.md
-
+## Imported Module: Programmatic Seo
 ---
 name: programmatic-seo
 description: Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
@@ -1274,7 +1272,7 @@ If triggered, **halt indexing or roll back**:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Programmatic SEO
 

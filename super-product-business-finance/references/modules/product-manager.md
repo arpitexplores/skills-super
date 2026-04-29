@@ -1,5 +1,4 @@
-## Source: references/skills/product-manager/SKILL.md
-
+## Module: Product Manager
 ---
 name: product-manager
 description: "Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts."
@@ -45,7 +44,7 @@ GitHub: https://github.com/Digidai/product-manager-skills
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ai-product
@@ -109,7 +108,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ai-wrapper-product
@@ -392,7 +391,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: product-inventor
@@ -725,7 +724,7 @@ ESPACAMENTO
 INTERATIVIDADE
 [ ] Todos os estados: idle, hover, focus, active, disabled, loading
 [ ] Focus ring visivel e elegante (nao outline feio padrao)
-[ ] Cursor correto (pointer em clicavel, text em texto, grab em arrastaveis)
+[ ] Pointer correct (pointer em clicavel, text em texto, grab em arrastaveis)
 [ ] Haptico equivalente digital: feedback imediato em toda acao
 
 ANIMACOES
@@ -1058,7 +1057,7 @@ Radius: 6-10px (contido, profissional)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: product-manager-toolkit
@@ -1418,8 +1417,7 @@ python scripts/customer_interview_analyzer.py interview.txt json
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/product-manager/references/legacy/ai-product/SKILL.md
-
+## Imported Module: Ai Product
 ---
 name: ai-product
 description: Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production. This skill covers LLM integration patterns, RAG architecture, prompt ...
@@ -1480,8 +1478,7 @@ Version prompts in code and test with regression suite
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/product-manager/references/legacy/ai-wrapper-product/SKILL.md
-
+## Imported Module: Ai Wrapper Product
 ---
 name: ai-wrapper-product
 description: "Expert in building products that wrap AI APIs (OpenAI, Anthropic, etc.) into focused tools people will pay for. Not just 'ChatGPT but different' - products that solve specific problems with AI. Cov..."
@@ -1761,8 +1758,7 @@ Works well with: `llm-architect`, `micro-saas-launcher`, `frontend`, `backend`
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/product-manager/references/legacy/product-inventor/SKILL.md
-
+## Imported Module: Product Inventor
 ---
 name: product-inventor
 description: Product Inventor e Design Alchemist de nivel maximo — combina Product Thinking, Design Systems, UI Engineering, Psicologia Cognitiva, Storytelling e execucao impecavel nivel Jobs/Apple. Use
@@ -2094,7 +2090,7 @@ ESPACAMENTO
 INTERATIVIDADE
 [ ] Todos os estados: idle, hover, focus, active, disabled, loading
 [ ] Focus ring visivel e elegante (nao outline feio padrao)
-[ ] Cursor correto (pointer em clicavel, text em texto, grab em arrastaveis)
+[ ] Pointer correct (pointer em clicavel, text em texto, grab em arrastaveis)
 [ ] Haptico equivalente digital: feedback imediato em toda acao
 
 ANIMACOES
@@ -2425,8 +2421,7 @@ Radius: 6-10px (contido, profissional)
 - `monetization` - Complementary skill for enhanced analysis
 - `product-design` - Complementary skill for enhanced analysis
 
-## Source: references/skills/product-manager/references/legacy/product-manager-toolkit/SKILL.md
-
+## Imported Module: Product Manager Toolkit
 ---
 name: product-manager-toolkit
 description: "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritizati..."

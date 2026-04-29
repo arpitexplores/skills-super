@@ -1,5 +1,4 @@
-## Source: references/skills/ai-agents-architect/SKILL.md
-
+## Module: Ai Agents Architect
 ---
 name: ai-agents-architect
 description: "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool ..."
@@ -99,7 +98,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ai-agent-development
@@ -277,7 +276,7 @@ User Input -> Planner -> Agent -> Tools -> Memory -> Response
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: autonomous-agents
@@ -355,7 +354,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: autonomous-agent-patterns
@@ -1124,7 +1123,7 @@ class MCPAgent:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-orchestrator
@@ -1445,7 +1444,7 @@ python agent-orchestrator/scripts/scan_registry.py --status
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-orchestration-improve-agent
@@ -1802,7 +1801,7 @@ Remember: Agent optimization is an iterative process. Each cycle builds upon pre
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-manager-skill
@@ -1850,7 +1849,7 @@ EOF
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: tool-design
@@ -2174,7 +2173,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-tool-builder
@@ -2237,7 +2236,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: computer-use-agents
@@ -2562,7 +2561,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hosted-agents
@@ -2853,7 +2852,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hosted-agents-v2-py
@@ -3184,7 +3183,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agents-md
@@ -3305,8 +3304,7 @@ Co-Authored-By: (the agent model's name and attribution byline)
 | `pnpm cli sync` | Sync data |
 ```
 
-## Source: references/skills/ai-agents-architect/references/legacy/agent-manager-skill/SKILL.md
-
+## Imported Module: Agent Manager Skill
 ---
 name: agent-manager-skill
 description: "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
@@ -3351,8 +3349,7 @@ EOF
 - Requires `tmux` and `python3`.
 - Agents are configured under an `agents/` directory (see the repo for examples).
 
-## Source: references/skills/ai-agents-architect/references/legacy/agent-orchestration-improve-agent/SKILL.md
-
+## Imported Module: Agent Orchestration Improve Agent
 ---
 name: agent-orchestration-improve-agent
 description: "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration."
@@ -3706,8 +3703,7 @@ Establish regular improvement cadence:
 
 Remember: Agent optimization is an iterative process. Each cycle builds upon previous learnings, gradually improving performance while maintaining stability and safety.
 
-## Source: references/skills/ai-agents-architect/references/legacy/agent-orchestrator/SKILL.md
-
+## Imported Module: Agent Orchestrator
 ---
 name: agent-orchestrator
 description: Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.
@@ -4025,8 +4021,7 @@ python agent-orchestrator/scripts/scan_registry.py --status
 - `multi-advisor` - Complementary skill for enhanced analysis
 - `task-intelligence` - Complementary skill for enhanced analysis
 
-## Source: references/skills/ai-agents-architect/references/legacy/agent-tool-builder/SKILL.md
-
+## Imported Module: Agent Tool Builder
 ---
 name: agent-tool-builder
 description: "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessar..."
@@ -4086,8 +4081,7 @@ Works well with: `multi-agent-orchestration`, `api-designer`, `llm-architect`, `
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ai-agents-architect/references/legacy/agents-md/SKILL.md
-
+## Imported Module: Agents Md
 ---
 name: agents-md
 description: This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up AGENT_CONTEXT.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.
@@ -4207,8 +4201,7 @@ Co-Authored-By: (the agent model's name and attribution byline)
 | `pnpm cli sync` | Sync data |
 ```
 
-## Source: references/skills/ai-agents-architect/references/legacy/ai-agent-development/SKILL.md
-
+## Imported Module: Ai Agent Development
 ---
 name: ai-agent-development
 description: "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents."
@@ -4383,8 +4376,7 @@ User Input -> Planner -> Agent -> Tools -> Memory -> Response
 - `rag-implementation` - RAG systems
 - `workflow-automation` - Workflow patterns
 
-## Source: references/skills/ai-agents-architect/references/legacy/autonomous-agent-patterns/SKILL.md
-
+## Imported Module: Autonomous Agent Patterns
 ---
 name: autonomous-agent-patterns
 description: "Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use when building AI agents, designing tool ..."
@@ -5150,8 +5142,7 @@ class MCPAgent:
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - provider tool-use documentation
 
-## Source: references/skills/ai-agents-architect/references/legacy/autonomous-agents/SKILL.md
-
+## Imported Module: Autonomous Agents
 ---
 name: autonomous-agents
 description: "Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it'..."
@@ -5226,8 +5217,7 @@ Works well with: `agent-tool-builder`, `agent-memory-systems`, `multi-agent-orch
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ai-agents-architect/references/legacy/computer-use-agents/SKILL.md
-
+## Imported Module: Computer Use Agents
 ---
 name: computer-use-agents
 description: "Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer Use, OpenAI's Operator/CUA, and open-so..."
@@ -5549,8 +5539,7 @@ class AnthropicComputerUse:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ai-agents-architect/references/legacy/hosted-agents/SKILL.md
-
+## Imported Module: Hosted Agents
 ---
 name: hosted-agents
 description: Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.
@@ -5838,8 +5827,7 @@ External resources:
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/ai-agents-architect/references/legacy/hosted-agents-v2-py/SKILL.md
-
+## Imported Module: Hosted Agents V2 Py
 ---
 name: hosted-agents-v2-py
 description: "Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry."
@@ -6167,8 +6155,7 @@ async def create_hosted_agent_async():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ai-agents-architect/references/legacy/tool-design/SKILL.md
-
+## Imported Module: Tool Design
 ---
 name: tool-design
 description: "Build tools that agents can use effectively, including architectural reduction patterns"

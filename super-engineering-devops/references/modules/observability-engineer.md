@@ -1,5 +1,4 @@
-## Source: references/skills/observability-engineer/SKILL.md
-
+## Module: Observability Engineer
 ---
 name: observability-engineer
 description: Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.
@@ -238,7 +237,7 @@ Expert observability engineer specializing in comprehensive monitoring strategie
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: api-testing-observability-api-mock
@@ -292,7 +291,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: apify-brand-reputation-monitoring
@@ -376,14 +375,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -392,7 +391,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -418,7 +417,7 @@ After completion, report:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: application-performance-performance-optimization
@@ -580,7 +579,7 @@ Performance optimization target: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: ai-assistant-monitor
@@ -657,7 +656,7 @@ O script analisa em ~3 segundos:
 
 O script retorna um JSON com `diagnosis` contendo:
 
-- `bottleneck`: "cpu" | "ram" | "browsers" | "disk" | "network" | "claude_api" | "ok"
+- `bottleneck`: "cpu" | "ram" | "browsers" | "disk" | "network" | "model_api" | "ok"
 - `severity`: "critical" | "warning" | "ok"
 - `suggestions`: Lista de ações recomendadas
 - `summary`: Resumo em português para mostrar ao usuário
@@ -763,7 +762,7 @@ Quando apresentar o diagnóstico, inclua estas dicas contextuais:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-migrations-migration-observability
@@ -1188,7 +1187,7 @@ This plugin integrates with:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: distributed-tracing
@@ -1646,7 +1645,7 @@ def process_request():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: fixing-motion-performance
@@ -1802,7 +1801,7 @@ requestAnimationFrame(() => { el.style.transition = 'transform 0.3s'; el.style.t
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: frontend-slides
@@ -2026,7 +2025,7 @@ When converting PowerPoint files:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: observability-monitoring-monitor-setup
@@ -2082,7 +2081,7 @@ Focus on creating a monitoring system that provides actionable insights, reduces
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: observability-monitoring-slo-implement
@@ -2133,7 +2132,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-performance-tuner
@@ -2243,7 +2242,7 @@ What to look for:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: on-call-handoff-patterns
@@ -2704,7 +2703,7 @@ I'll be available on Slack until 17:00 today.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: performance-engineer
@@ -2885,7 +2884,7 @@ Expert performance engineer with comprehensive knowledge of modern observability
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: performance-optimizer
@@ -3279,7 +3278,7 @@ Easy optimizations with big impact:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: performance-profiling
@@ -3432,7 +3431,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: performance-testing-review-ai-review
@@ -3890,7 +3889,7 @@ Use this tool to transform code review from manual process to automated AI-assis
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: performance-testing-review-multi-agent-review
@@ -4114,7 +4113,7 @@ Target for review: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: python-performance-optimization
@@ -4158,7 +4157,7 @@ Comprehensive guide to profiling, analyzing, and optimizing Python code for bett
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: web-performance-optimization
@@ -4810,8 +4809,7 @@ export async function getStaticProps() {
 
 **Pro Tip:** Focus on Core Web Vitals (LCP, FID, CLS) first - they have the biggest impact on user experience and SEO rankings!
 
-## Source: references/skills/observability-engineer/references/legacy/api-testing-observability-api-mock/SKILL.md
-
+## Imported Module: Api Testing Observability Api Mock
 ---
 name: api-testing-observability-api-mock
 description: "You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development."
@@ -4862,8 +4860,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for code samples, checklists, and templates.
 
-## Source: references/skills/observability-engineer/references/legacy/apify-brand-reputation-monitoring/SKILL.md
-
+## Imported Module: Apify Brand Reputation Monitoring
 ---
 name: apify-brand-reputation-monitoring
 description: "Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user asks to monitor brand reputation, analyze..."
@@ -4946,14 +4943,14 @@ Before running, ask:
 
 **Quick answer (display in chat, no file):**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT'
 ```
 
 **CSV:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.csv \
@@ -4962,7 +4959,7 @@ node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
 
 **JSON:**
 ```bash
-node --env-file=.env ${CLAUDE_PLUGIN_ROOT}/reference/scripts/run_actor.js \
+node --env-file=.env ${SKILL_ROOT}/reference/scripts/run_actor.js \
   --actor "ACTOR_ID" \
   --input 'JSON_INPUT' \
   --output YYYY-MM-DD_OUTPUT_FILE.json \
@@ -4986,8 +4983,7 @@ After completion, report:
 `Run FAILED` - Ask user to check Apify console link in error output
 `Timeout` - Reduce input size or increase `--timeout`
 
-## Source: references/skills/observability-engineer/references/legacy/application-performance-performance-optimization/SKILL.md
-
+## Imported Module: Application Performance Performance Optimization
 ---
 name: application-performance-performance-optimization
 description: "Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack."
@@ -5147,8 +5143,7 @@ Optimize application performance end-to-end using specialized performance and op
 Performance optimization target: $ARGUMENTS
 
 
-## Source: references/skills/observability-engineer/references/legacy/database-migrations-migration-observability/SKILL.md
-
+## Imported Module: Database Migrations Migration Observability
 ---
 name: database-migrations-migration-observability
 description: "Migration monitoring, CDC, and observability infrastructure"
@@ -5570,8 +5565,7 @@ This plugin integrates with:
 - **nosql-migrations**: Monitors NoSQL transformations
 - **migration-integration**: Coordinates monitoring across workflows
 
-## Source: references/skills/observability-engineer/references/legacy/distributed-tracing/SKILL.md
-
+## Imported Module: Distributed Tracing
 ---
 name: distributed-tracing
 description: "Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implem..."
@@ -6026,8 +6020,7 @@ def process_request():
 - `grafana-dashboards` - For visualization
 - `slo-implementation` - For latency SLOs
 
-## Source: references/skills/observability-engineer/references/legacy/fixing-motion-performance/SKILL.md
-
+## Imported Module: Fixing Motion Performance
 ---
 name: fixing-motion-performance
 description: Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.
@@ -6180,8 +6173,7 @@ requestAnimationFrame(() => { el.style.transition = 'transform 0.3s'; el.style.t
 - for any non-default choice, state the constraint that justifies it (surface size, duration, or interaction requirement)
 - when reviewing, prefer actionable notes and concrete alternatives over theory
 
-## Source: references/skills/observability-engineer/references/legacy/frontend-slides/SKILL.md
-
+## Imported Module: Frontend Slides
 ---
 name: frontend-slides
 description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual...
@@ -6402,8 +6394,7 @@ When converting PowerPoint files:
 | animation-patterns.md | CSS/JS animation snippets and effect-to-feeling guide | Phase 3 (generation) |
 | scripts/extract-pptx.py | Python script for PPT content extraction | Phase 4 (conversion) |
 
-## Source: references/skills/observability-engineer/references/legacy/observability-monitoring-monitor-setup/SKILL.md
-
+## Imported Module: Observability Monitoring Monitor Setup
 ---
 name: observability-monitoring-monitor-setup
 description: "You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da"
@@ -6456,8 +6447,7 @@ Focus on creating a monitoring system that provides actionable insights, reduces
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/observability-engineer/references/legacy/observability-monitoring-slo-implement/SKILL.md
-
+## Imported Module: Observability Monitoring Slo Implement
 ---
 name: observability-monitoring-slo-implement
 description: "You are an SLO (Service Level Objective) expert specializing in implementing reliability standards and error budget-based practices. Design SLO frameworks, define SLIs, and build monitoring that ba..."
@@ -6505,8 +6495,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/observability-engineer/references/legacy/odoo-performance-tuner/SKILL.md
-
+## Imported Module: Odoo Performance Tuner
 ---
 name: odoo-performance-tuner
 description: "Expert guide for diagnosing and fixing Odoo performance issues: slow queries, worker configuration, memory limits, PostgreSQL tuning, and profiling tools."
@@ -6613,8 +6602,7 @@ What to look for:
 - **Odoo.sh** managed hosting restricts direct PostgreSQL and `odoo.conf` access — some tuning options are unavailable.
 - Does not cover **Redis-based session store** or **Celery task queue** optimizations, which are advanced patterns for very high-traffic instances.
 
-## Source: references/skills/observability-engineer/references/legacy/on-call-handoff-patterns/SKILL.md
-
+## Imported Module: On Call Handoff Patterns
 ---
 name: on-call-handoff-patterns
 description: "Master on-call shift handoffs with context transfer, escalation procedures, and documentation. Use when transitioning on-call responsibilities, documenting shift summaries, or improving on-call pro..."
@@ -7072,8 +7060,7 @@ I'll be available on Slack until 17:00 today.
 - [PagerDuty On-Call Guide](https://www.pagerduty.com/resources/learn/on-call-management/)
 - [Increment On-Call Issue](https://increment.com/on-call/)
 
-## Source: references/skills/observability-engineer/references/legacy/performance-engineer/SKILL.md
-
+## Imported Module: Performance Engineer
 ---
 name: performance-engineer
 description: "Expert performance engineer specializing in modern observability,"
@@ -7251,8 +7238,7 @@ Expert performance engineer with comprehensive knowledge of modern observability
 - "Create performance monitoring dashboard with SLI/SLO tracking and automated alerting"
 - "Implement chaos engineering practices for distributed system resilience and performance validation"
 
-## Source: references/skills/observability-engineer/references/legacy/performance-optimizer/SKILL.md
-
+## Imported Module: Performance Optimizer
 ---
 name: performance-optimizer
 description: "Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements."
@@ -7643,8 +7629,7 @@ Easy optimizations with big impact:
 - `@codebase-audit-pre-push` - Code review
 - `@bug-hunter` - Debugging
 
-## Source: references/skills/observability-engineer/references/legacy/performance-profiling/SKILL.md
-
+## Imported Module: Performance Profiling
 ---
 name: performance-profiling
 description: "Performance profiling principles. Measurement, analysis, and optimization techniques."
@@ -7794,8 +7779,7 @@ date_added: "2026-02-27"
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/observability-engineer/references/legacy/performance-testing-review-ai-review/SKILL.md
-
+## Imported Module: Performance Testing Review Ai Review
 ---
 name: performance-testing-review-ai-review
 description: "You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C"
@@ -8250,8 +8234,7 @@ Comprehensive AI code review combining:
 
 Use this tool to transform code review from manual process to automated AI-assisted quality assurance catching issues early with instant feedback.
 
-## Source: references/skills/observability-engineer/references/legacy/performance-testing-review-multi-agent-review/SKILL.md
-
+## Imported Module: Performance Testing Review Multi Agent Review
 ---
 name: performance-testing-review-multi-agent-review
 description: "Use when working with performance testing review multi agent review"
@@ -8472,8 +8455,7 @@ The tool is designed with a plugin-based architecture, allowing easy addition of
 
 Target for review: $ARGUMENTS
 
-## Source: references/skills/observability-engineer/references/legacy/python-performance-optimization/SKILL.md
-
+## Imported Module: Python Performance Optimization
 ---
 name: python-performance-optimization
 description: "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance."
@@ -8514,8 +8496,7 @@ Comprehensive guide to profiling, analyzing, and optimizing Python code for bett
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/observability-engineer/references/legacy/web-performance-optimization/SKILL.md
-
+## Imported Module: Web Performance Optimization
 ---
 name: web-performance-optimization
 description: "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"

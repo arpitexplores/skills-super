@@ -1,5 +1,4 @@
-## Source: references/skills/product-marketing-context/SKILL.md
-
+## Module: Product Marketing Context
 ---
 name: product-marketing-context
 description: Positioning, pricing, competitive strategy, sales enablement, and RevOps alignment.
@@ -468,7 +467,7 @@ Identifies which features customers value most:
 - **revops**: For deal desk processes and pipeline pricing
 - **sales-enablement**: For proposal templates and pricing presentations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Pricing Strategy
 
@@ -1077,7 +1076,7 @@ Recommended pages to create with priority order based on search volume.
 - **schema-markup**: For FAQ and comparison schema
 - **sales-enablement**: For internal sales collateral, decks, and objection docs
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Competitor & Alternative Pages
 
@@ -2524,8 +2523,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key RevOp
 - **launch-strategy**: For go-to-market launch planning
 - **sales-enablement**: For sales collateral, decks, and objection handling
 
-## Source: references/skills/product-marketing-context/references/legacy/competitor-alternatives/SKILL.md
-
+## Imported Module: Competitor Alternatives
 ---
 name: competitor-alternatives
 description: "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'battle card,' or 'competitor teardown.' Use this for any content that positions your product against competitors. Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. For sales-specific competitor docs, see sales-enablement."
@@ -2782,7 +2780,7 @@ Recommended pages to create with priority order based on search volume.
 - **schema-markup**: For FAQ and comparison schema
 - **sales-enablement**: For internal sales collateral, decks, and objection docs
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Competitor & Alternative Pages
 
@@ -3533,8 +3531,7 @@ If you need more context:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/product-marketing-context/references/legacy/pricing-strategy/SKILL.md
-
+## Imported Module: Pricing Strategy
 ---
 name: pricing-strategy
 description: "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' or 'should I offer a free plan.' Use this whenever someone is figuring out what to charge or how to structure their plans. For in-app upgrade screens, see paywall-upgrade-cro."
@@ -3766,7 +3763,7 @@ Identifies which features customers value most:
 - **revops**: For deal desk processes and pipeline pricing
 - **sales-enablement**: For proposal templates and pricing presentations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Pricing Strategy
 
@@ -4123,8 +4120,7 @@ marketing-psychology – Behavioral pricing effects
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/product-marketing-context/references/legacy/revops/SKILL.md
-
+## Imported Module: Revops
 ---
 name: revops
 description: "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes. Also use when the user mentions 'RevOps,' 'revenue operations,' 'lead scoring,' 'lead routing,' 'MQL,' 'SQL,' 'pipeline stages,' 'deal desk,' 'CRM automation,' 'marketing-to-sales handoff,' 'data hygiene,' 'leads aren't getting to sales,' 'pipeline management,' 'lead qualification,' or 'when should marketing hand off to sales.' Use this for anything involving the systems and processes that connect marketing to revenue. For cold outreach emails, see cold-email. For email drip campaigns, see email-sequence. For pricing decisions, see pricing-strategy."
@@ -4471,8 +4467,7 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key RevOp
 - **launch-strategy**: For go-to-market launch planning
 - **sales-enablement**: For sales collateral, decks, and objection handling
 
-## Source: references/skills/product-marketing-context/references/legacy/sales-enablement/SKILL.md
-
+## Imported Module: Sales Enablement
 ---
 name: sales-enablement
 description: "When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts. Also use when the user mentions 'sales deck,' 'pitch deck,' 'one-pager,' 'leave-behind,' 'objection handling,' 'deal-specific ROI analysis,' 'demo script,' 'talk track,' 'sales playbook,' 'proposal template,' 'buyer persona card,' 'help my sales team,' 'sales materials,' or 'what should I give my sales reps.' Use this for any document or asset that helps a sales team close deals. For competitor comparison pages and battle cards, see competitor-alternatives. For marketing website copy, see copywriting. For cold outreach emails, see cold-email."

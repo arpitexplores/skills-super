@@ -1,5 +1,4 @@
-## Source: references/skills/copywriting/SKILL.md
-
+## Module: Copywriting
 ---
 name: copywriting
 description: Write or edit marketing copy for pages, ads, CTAs, and brand voice guidance. Use for copywriting, copy editing, and ad creative.
@@ -252,7 +251,7 @@ For headlines and CTAs, provide 2-3 options:
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Copywriting
 
@@ -1464,8 +1463,7 @@ Avoid these common mistakes:
 - [Sentry Voice Guidelines](https://develop.sentry.dev/frontend/sentry-voice/)
 - [Sentry Frontend Handbook](https://develop.sentry.dev/frontend/)
 
-## Source: references/skills/copywriting/references/legacy/ad-creative/SKILL.md
-
+## Imported Module: Ad Creative
 ---
 name: ad-creative
 description: "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn ad text,' or 'I need more ad variations.' Use this whenever someone needs to produce ad copy at scale or iterate on existing ads. For campaign strategy and targeting, see paid-ads. For landing page copy, see copywriting."
@@ -1829,8 +1827,7 @@ node tools/clis/google-ads.js reports get --type ad_performance --date-range las
 - **marketing-psychology**: For psychological principles behind high-performing creative
 - **copy-editing**: For polishing ad copy before launch
 
-## Source: references/skills/copywriting/references/legacy/brand-guidelines/SKILL.md
-
+## Imported Module: Brand Guidelines
 ---
 name: brand-guidelines
 description: Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.
@@ -2000,8 +1997,7 @@ Avoid these common mistakes:
 - [Sentry Voice Guidelines](https://develop.sentry.dev/frontend/sentry-voice/)
 - [Sentry Frontend Handbook](https://develop.sentry.dev/frontend/)
 
-## Source: references/skills/copywriting/references/legacy/copy-editing/SKILL.md
-
+## Imported Module: Copy Editing
 ---
 name: copy-editing
 description: "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' 'copy sweep,' 'tighten this up,' 'this reads awkwardly,' 'clean up this text,' 'too wordy,' or 'sharpen the messaging.' Use this when the user already has copy and wants it improved rather than rewritten from scratch. For writing new copy, see copywriting."

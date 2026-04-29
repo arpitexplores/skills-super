@@ -1,5 +1,4 @@
-## Source: references/skills/agent-memory-systems/SKILL.md
-
+## Module: Agent Memory Systems
 ---
 name: agent-memory-systems
 description: "Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers the architecture of agent memory: short-term (context window), long-term (vector s..."
@@ -75,7 +74,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-memory-mcp
@@ -167,7 +166,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: memory-systems
@@ -401,7 +400,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: conversation-memory
@@ -472,7 +471,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hierarchical-agent-memory
@@ -610,7 +609,7 @@ Agent:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-fundamentals
@@ -800,7 +799,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-optimization
@@ -984,7 +983,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-management-context-save
@@ -1169,7 +1168,7 @@ def compress_context(context, compression_level='standard'):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-management-context-restore
@@ -1356,7 +1355,7 @@ context-restore project:ml-pipeline --query "model training strategy"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-window-management
@@ -1419,7 +1418,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-degradation
@@ -1655,7 +1654,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-compression
@@ -1924,7 +1923,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context-guardian
@@ -2249,7 +2248,7 @@ Proximo AI assistant continua com precisao total, zero re-trabalho.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: filesystem-context
@@ -2562,7 +2561,7 @@ Related skills in this collection:
 
 External resources:
 - LangChain Deep Agents: How agents can use filesystems for context engineering
-- Cursor: Dynamic context discovery patterns
+- AI coding editor: dynamic context discovery patterns
 - Anthropic: Agent Skills specification
 
 ---
@@ -2576,7 +2575,7 @@ External resources:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-structure-protocol
@@ -2778,8 +2777,7 @@ This skill connects naturally to:
 - **CLI source + reference docs**: [skills/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol/tree/main/skills/data-structure-protocol)
 - **Introduction article**: [article.md](https://github.com/k-kolomeitsev/data-structure-protocol/blob/main/article.md)
 
-## Source: references/skills/agent-memory-systems/references/legacy/agent-memory-mcp/SKILL.md
-
+## Imported Module: Agent Memory Mcp
 ---
 name: agent-memory-mcp
 description: "A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions)."
@@ -2868,8 +2866,7 @@ Access at: `http://localhost:3333`
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-compression/SKILL.md
-
+## Imported Module: Context Compression
 ---
 name: context-compression
 description: This skill should be used when the user asks to "compress context", "summarize conversation history", "implement compaction", "reduce token usage", or mentions context compression, structured summarization, tokens-per-task optimization, or long-running agent sessions...
@@ -3136,8 +3133,7 @@ External resources:
 **Version**: 1.1.0
 
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-degradation/SKILL.md
-
+## Imported Module: Context Degradation
 ---
 name: context-degradation
 description: This skill should be used when the user asks to "diagnose context problems", "fix lost-in-middle issues", "debug agent failures", "understand context poisoning", or mentions context degradation, attention patterns, context clash, context confusion, or agent performance...
@@ -3370,8 +3366,7 @@ External resources:
 **Author**: Agent Skills for Context Engineering Contributors
 **Version**: 1.0.0
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-fundamentals/SKILL.md
-
+## Imported Module: Context Fundamentals
 ---
 name: context-fundamentals
 description: This skill should be used when the user asks to "understand context", "explain context windows", "design agent architecture", "debug context issues", "optimize context usage", or discusses context components, attention mechanics, progressive disclosure, or context budgeting....
@@ -3558,8 +3553,7 @@ External resources:
 **Author**: Agent Skills for Context Engineering Contributors
 **Version**: 1.0.0
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-guardian/SKILL.md
-
+## Imported Module: Context Guardian
 ---
 name: context-guardian
 description: Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.
@@ -3881,8 +3875,7 @@ Proximo AI assistant continua com precisao total, zero re-trabalho.
 
 - `context-agent` - Complementary skill for enhanced analysis
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-management-context-restore/SKILL.md
-
+## Imported Module: Context Management Context Restore
 ---
 name: context-management-context-restore
 description: "Use when working with context management context restore"
@@ -4066,8 +4059,7 @@ context-restore project:ml-pipeline --query "model training strategy"
 - Self-healing context reconstruction
 - Adaptive learning context strategies
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-management-context-save/SKILL.md
-
+## Imported Module: Context Management Context Save
 ---
 name: context-management-context-save
 description: "Use when working with context management context save"
@@ -4249,8 +4241,7 @@ def compress_context(context, compression_level='standard'):
 - Real-time collaborative context editing
 - Predictive context recommendation systems
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-optimization/SKILL.md
-
+## Imported Module: Context Optimization
 ---
 name: context-optimization
 description: This skill should be used when the user asks to "optimize context", "reduce token costs", "improve context efficiency", "implement KV-cache optimization", "partition context", or mentions context limits, observation masking, context budgeting, or extending effective context...
@@ -4431,8 +4422,7 @@ External resources:
 **Author**: Agent Skills for Context Engineering Contributors
 **Version**: 1.0.0
 
-## Source: references/skills/agent-memory-systems/references/legacy/context-window-management/SKILL.md
-
+## Imported Module: Context Window Management
 ---
 name: context-window-management
 description: "Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot Use when: context window, token limit, context management, context engineering, long..."
@@ -4492,8 +4482,7 @@ Works well with: `rag-implementation`, `conversation-memory`, `prompt-caching`, 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/agent-memory-systems/references/legacy/conversation-memory/SKILL.md
-
+## Imported Module: Conversation Memory
 ---
 name: conversation-memory
 description: "Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory Use when: conversation memory, remember, memory persistence, long-term memory, chat history."
@@ -4561,8 +4550,7 @@ Works well with: `context-window-management`, `rag-implementation`, `prompt-cach
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/agent-memory-systems/references/legacy/data-structure-protocol/SKILL.md
-
+## Imported Module: Data Structure Protocol
 ---
 name: data-structure-protocol
 description: "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
@@ -4763,8 +4751,7 @@ This skill connects naturally to:
 - **CLI source + reference docs**: [skills/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol/tree/main/skills/data-structure-protocol)
 - **Introduction article**: [article.md](https://github.com/k-kolomeitsev/data-structure-protocol/blob/main/article.md)
 
-## Source: references/skills/agent-memory-systems/references/legacy/filesystem-context/SKILL.md
-
+## Imported Module: Filesystem Context
 ---
 name: filesystem-context
 description: Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.
@@ -5076,7 +5063,7 @@ Related skills in this collection:
 
 External resources:
 - LangChain Deep Agents: How agents can use filesystems for context engineering
-- Cursor: Dynamic context discovery patterns
+- AI coding editor: dynamic context discovery patterns
 - Anthropic: Agent Skills specification
 
 ---
@@ -5089,8 +5076,7 @@ External resources:
 **Version**: 1.0.0
 
 
-## Source: references/skills/agent-memory-systems/references/legacy/hierarchical-agent-memory/SKILL.md
-
+## Imported Module: Hierarchical Agent Memory
 ---
 name: hierarchical-agent-memory
 description: "Scoped AGENT_CONTEXT.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context."
@@ -5225,8 +5211,7 @@ Agent:
 - `agent-memory-systems` — general agent memory architecture patterns
 - `agent-memory-mcp` — MCP-based memory integration
 
-## Source: references/skills/agent-memory-systems/references/legacy/memory-systems/SKILL.md
-
+## Imported Module: Memory Systems
 ---
 name: memory-systems
 description: "Design short-term, long-term, and graph-based memory architectures"

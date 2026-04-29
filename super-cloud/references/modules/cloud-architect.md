@@ -1,5 +1,4 @@
-## Source: references/skills/cloud-architect/SKILL.md
-
+## Module: Cloud Architect
 ---
 name: cloud-architect
 description: Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns.
@@ -134,7 +133,7 @@ Expert cloud architect with deep knowledge of AWS, Azure, GCP, and emerging clou
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-framework-azure-ai-py
@@ -477,7 +476,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cloud-devops
@@ -717,7 +716,7 @@ Services: Cloud Run, GKE, Cloud Functions, BigQuery
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cloud-penetration-testing
@@ -1226,7 +1225,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cloudflare-workers-expert
@@ -1320,7 +1319,7 @@ export default {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: database-cloud-optimization-cost-optimize
@@ -1372,7 +1371,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gcp-cloud-run
@@ -1670,7 +1669,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: helm-chart-scaffolding
@@ -1712,7 +1711,7 @@ Use this skill when you need to:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hybrid-cloud-architect
@@ -1881,7 +1880,7 @@ Expert hybrid cloud architect with deep expertise in designing, implementing, an
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hybrid-cloud-networking
@@ -2127,7 +2126,7 @@ az network vpn-connection show-device-config-script
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: istio-traffic-management
@@ -2472,7 +2471,7 @@ istioctl proxy-config log deploy/my-app --level debug
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: k8s-manifest-generator
@@ -2515,7 +2514,7 @@ Use this skill when you need to:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: kubernetes-architect
@@ -2685,7 +2684,7 @@ Expert Kubernetes architect with comprehensive knowledge of container orchestrat
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: kubernetes-deployment
@@ -2856,7 +2855,7 @@ Use @gitops-workflow to implement GitOps deployment
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: linkerd-patterns
@@ -3185,7 +3184,7 @@ linkerd viz tap deploy/my-app --to deploy/my-backend
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: multi-cloud-architecture
@@ -3382,7 +3381,7 @@ AWS / Azure / GCP
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: service-mesh-expert
@@ -3448,7 +3447,7 @@ Expert service mesh architect specializing in Istio, Linkerd, and cloud-native n
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: service-mesh-observability
@@ -3851,7 +3850,7 @@ spec:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: terraform-infrastructure
@@ -4019,7 +4018,7 @@ Use @secrets-management to secure Terraform secrets
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: terraform-module-library
@@ -4288,7 +4287,7 @@ func TestVPCModule(t *testing.T) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: terraform-skill
@@ -4807,7 +4806,7 @@ This skill is licensed under the **Apache License 2.0**. See the LICENSE file fo
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: terraform-specialist
@@ -4974,7 +4973,7 @@ Expert Infrastructure as Code specialist with comprehensive knowledge of Terrafo
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: whatsapp-cloud-api
@@ -5465,8 +5464,7 @@ python scripts/validate_config.py
 - `social-orchestrator` - Complementary skill for enhanced analysis
 - `telegram` - Complementary skill for enhanced analysis
 
-## Source: references/skills/cloud-architect/references/legacy/agent-framework-azure-ai-py/SKILL.md
-
+## Imported Module: Agent Framework Azure Ai Py
 ---
 name: agent-framework-azure-ai-py
 description: "Build Azure AI Foundry agents using the Microsoft Agent Framework Python SDK (agent-framework-azure-ai). Use when creating persistent agents with AzureAIAgentsProvider, using hosted tools (code int..."
@@ -5806,8 +5804,7 @@ if __name__ == "__main__":
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/cloud-architect/references/legacy/cloud-devops/SKILL.md
-
+## Imported Module: Cloud Devops
 ---
 name: cloud-devops
 description: "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development."
@@ -6044,8 +6041,7 @@ Services: Cloud Run, GKE, Cloud Functions, BigQuery
 - `database` - Database operations
 - `testing-qa` - Testing workflows
 
-## Source: references/skills/cloud-architect/references/legacy/cloud-penetration-testing/SKILL.md
-
+## Imported Module: Cloud Penetration Testing
 ---
 name: cloud-penetration-testing
 description: "This skill should be used when the user asks to \"perform cloud penetration testing\", \"assess Azure or AWS or GCP security\", \"enumerate cloud resources\", \"exploit cloud misconfiguratio..."
@@ -6551,8 +6547,7 @@ gcloud beta compute ssh instance-name --zone us-central1-a --project target-proj
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/cloud-architect/references/legacy/cloudflare-workers-expert/SKILL.md
-
+## Imported Module: Cloudflare Workers Expert
 ---
 name: cloudflare-workers-expert
 description: "Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage."
@@ -6643,8 +6638,7 @@ export default {
 **Problem:** Request exceeded CPU time limit.
 **Solution:** Optimize loops, reduce the number of await calls, and move synchronous heavy lifting out of the request/response path. Use `ctx.waitUntil()` for tasks that don't block the response.
 
-## Source: references/skills/cloud-architect/references/legacy/database-cloud-optimization-cost-optimize/SKILL.md
-
+## Imported Module: Database Cloud Optimization Cost Optimize
 ---
 name: database-cloud-optimization-cost-optimize
 description: "You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and ..."
@@ -6693,8 +6687,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed cost analysis and tooling.
 
-## Source: references/skills/cloud-architect/references/legacy/gcp-cloud-run/SKILL.md
-
+## Imported Module: Gcp Cloud Run
 ---
 name: gcp-cloud-run
 description: "Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containerized), Cloud Run Functions (event-driven), cold start optimization, and event-dri..."
@@ -6989,8 +6982,7 @@ requests. Background tasks will be extremely slow or stall.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/cloud-architect/references/legacy/helm-chart-scaffolding/SKILL.md
-
+## Imported Module: Helm Chart Scaffolding
 ---
 name: helm-chart-scaffolding
 description: "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or impl..."
@@ -7029,8 +7021,7 @@ Use this skill when you need to:
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/cloud-architect/references/legacy/hybrid-cloud-architect/SKILL.md
-
+## Imported Module: Hybrid Cloud Architect
 ---
 name: hybrid-cloud-architect
 description: Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
@@ -7196,8 +7187,7 @@ Expert hybrid cloud architect with deep expertise in designing, implementing, an
 - "Implement unified monitoring and observability across hybrid infrastructure"
 - "Create FinOps strategy for multi-cloud cost optimization and governance"
 
-## Source: references/skills/cloud-architect/references/legacy/hybrid-cloud-networking/SKILL.md
-
+## Imported Module: Hybrid Cloud Networking
 ---
 name: hybrid-cloud-networking
 description: "Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting ..."
@@ -7440,8 +7430,7 @@ az network vpn-connection show-device-config-script
 - `multi-cloud-architecture` - For architecture decisions
 - `terraform-module-library` - For IaC implementation
 
-## Source: references/skills/cloud-architect/references/legacy/istio-traffic-management/SKILL.md
-
+## Imported Module: Istio Traffic Management
 ---
 name: istio-traffic-management
 description: "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilie..."
@@ -7783,8 +7772,7 @@ istioctl proxy-config log deploy/my-app --level debug
 - [Virtual Service Reference](https://istio.io/latest/docs/reference/config/networking/virtual-service/)
 - [Destination Rule Reference](https://istio.io/latest/docs/reference/config/networking/destination-rule/)
 
-## Source: references/skills/cloud-architect/references/legacy/k8s-manifest-generator/SKILL.md
-
+## Imported Module: K8S Manifest Generator
 ---
 name: k8s-manifest-generator
 description: "Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creat..."
@@ -7824,8 +7812,7 @@ Use this skill when you need to:
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/cloud-architect/references/legacy/kubernetes-architect/SKILL.md
-
+## Imported Module: Kubernetes Architect
 ---
 name: kubernetes-architect
 description: Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
@@ -7992,8 +7979,7 @@ Expert Kubernetes architect with comprehensive knowledge of container orchestrat
 - "Create CI/CD pipeline with GitOps for container applications with security scanning"
 - "Design Kubernetes operator for custom application lifecycle management"
 
-## Source: references/skills/cloud-architect/references/legacy/kubernetes-deployment/SKILL.md
-
+## Imported Module: Kubernetes Deployment
 ---
 name: kubernetes-deployment
 description: "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations."
@@ -8161,8 +8147,7 @@ Use @gitops-workflow to implement GitOps deployment
 - `terraform-infrastructure` - Infrastructure
 - `docker-containerization` - Containers
 
-## Source: references/skills/cloud-architect/references/legacy/linkerd-patterns/SKILL.md
-
+## Imported Module: Linkerd Patterns
 ---
 name: linkerd-patterns
 description: "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking ..."
@@ -8488,8 +8473,7 @@ linkerd viz tap deploy/my-app --to deploy/my-backend
 - [Service Profiles](https://linkerd.io/2.14/features/service-profiles/)
 - [Authorization Policy](https://linkerd.io/2.14/features/server-policy/)
 
-## Source: references/skills/cloud-architect/references/legacy/multi-cloud-architecture/SKILL.md
-
+## Imported Module: Multi Cloud Architecture
 ---
 name: multi-cloud-architecture
 description: "Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, and GCP. Use when building multi-cloud systems, avoiding vendor lock-in, or leveragin..."
@@ -8683,8 +8667,7 @@ AWS / Azure / GCP
 - `cost-optimization` - For cost management
 - `hybrid-cloud-networking` - For connectivity
 
-## Source: references/skills/cloud-architect/references/legacy/service-mesh-expert/SKILL.md
-
+## Imported Module: Service Mesh Expert
 ---
 name: service-mesh-expert
 description: "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con"
@@ -8747,8 +8730,7 @@ Expert service mesh architect specializing in Istio, Linkerd, and cloud-native n
 - Keep sidecar resources appropriately sized
 - Use destination rules for consistent load balancing
 
-## Source: references/skills/cloud-architect/references/legacy/service-mesh-observability/SKILL.md
-
+## Imported Module: Service Mesh Observability
 ---
 name: service-mesh-observability
 description: "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SL..."
@@ -9148,8 +9130,7 @@ spec:
 - [OpenTelemetry](https://opentelemetry.io/)
 - [Kiali](https://kiali.io/)
 
-## Source: references/skills/cloud-architect/references/legacy/terraform-infrastructure/SKILL.md
-
+## Imported Module: Terraform Infrastructure
 ---
 name: terraform-infrastructure
 description: "Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale."
@@ -9314,8 +9295,7 @@ Use @secrets-management to secure Terraform secrets
 - `kubernetes-deployment` - Kubernetes
 - `aws-infrastructure` - AWS specific
 
-## Source: references/skills/cloud-architect/references/legacy/terraform-module-library/SKILL.md
-
+## Imported Module: Terraform Module Library
 ---
 name: terraform-module-library
 description: "Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, ..."
@@ -9581,8 +9561,7 @@ func TestVPCModule(t *testing.T) {
 - `multi-cloud-architecture` - For architectural decisions
 - `cost-optimization` - For cost-effective designs
 
-## Source: references/skills/cloud-architect/references/legacy/terraform-skill/SKILL.md
-
+## Imported Module: Terraform Skill
 ---
 name: terraform-skill
 description: "Terraform infrastructure as code best practices"
@@ -10098,8 +10077,7 @@ This skill is licensed under the **Apache License 2.0**. See the LICENSE file fo
 
 **Copyright © 2026 Anton Babenko**
 
-## Source: references/skills/cloud-architect/references/legacy/terraform-specialist/SKILL.md
-
+## Imported Module: Terraform Specialist
 ---
 name: terraform-specialist
 description: Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
@@ -10263,8 +10241,7 @@ Expert Infrastructure as Code specialist with comprehensive knowledge of Terrafo
 - "Troubleshoot state corruption and implement recovery procedures"
 - "Create enterprise service catalog with approved infrastructure modules"
 
-## Source: references/skills/cloud-architect/references/legacy/whatsapp-cloud-api/SKILL.md
-
+## Imported Module: Whatsapp Cloud Api
 ---
 name: whatsapp-cloud-api
 description: Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python.

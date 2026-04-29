@@ -1,5 +1,4 @@
-## Source: references/skills/pricing-strategy/SKILL.md
-
+## Module: Pricing Strategy
 ---
 name: pricing-strategy
 description: "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
@@ -365,7 +364,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: monetization
@@ -776,8 +775,7 @@ async def check_usage_and_upsell(user_id: str, usage: dict):
 - `product-design` - Complementary skill for enhanced analysis
 - `product-inventor` - Complementary skill for enhanced analysis
 
-## Source: references/skills/pricing-strategy/references/legacy/monetization/SKILL.md
-
+## Imported Module: Monetization
 ---
 name: monetization
 description: Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio...

@@ -1,5 +1,4 @@
-## Source: references/skills/seo-content/SKILL.md
-
+## Module: Seo Content
 ---
 name: seo-content
 description: Content-focused SEO: planning, optimization, keywords, meta, snippets, structure, cannibalization, and competitor pages.
@@ -2154,8 +2153,7 @@ Appears when users search your brand directly. Requires:
 [Ordered by impact]
 ```
 
-## Source: references/skills/seo-content/references/legacy/seo-authority-builder/SKILL.md
-
+## Imported Module: Seo Authority Builder
 ---
 name: seo-authority-builder
 description: 'Analyzes content for E-E-A-T signals and suggests improvements to
@@ -2298,8 +2296,7 @@ Priority Actions:
 
 Focus on demonstrable expertise and clear trust signals. Suggest concrete improvements for authority building.
 
-## Source: references/skills/seo-content/references/legacy/seo-cannibalization-detector/SKILL.md
-
+## Imported Module: Seo Cannibalization Detector
 ---
 name: seo-cannibalization-detector
 description: Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.
@@ -2423,8 +2420,7 @@ Resolution Strategy:
 
 Focus on clear differentiation. Each page should serve a unique purpose with distinct targeting.
 
-## Source: references/skills/seo-content/references/legacy/seo-competitor-pages/SKILL.md
-
+## Imported Module: Seo Competitor Pages
 ---
 name: seo-competitor-pages
 description: >
@@ -2647,8 +2643,7 @@ competitive intent keywords with accurate, structured content.
 | Insufficient competitor data (pricing, features unavailable) | Flag missing data points clearly. Use "Not publicly available" in comparison tables rather than guessing. |
 | No product/service overlap found | Report that the products serve different markets. Suggest alternative competitors that share feature overlap, or pivot to a category roundup format. |
 
-## Source: references/skills/seo-content/references/legacy/seo-content-auditor/SKILL.md
-
+## Imported Module: Seo Content Auditor
 ---
 name: seo-content-auditor
 description: Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.
@@ -2732,8 +2727,7 @@ You are an SEO content auditor analyzing provided content for optimization oppor
 
 Focus on actionable improvements based on SEO best practices and content quality standards.
 
-## Source: references/skills/seo-content/references/legacy/seo-content-planner/SKILL.md
-
+## Imported Module: Seo Content Planner
 ---
 name: seo-content-planner
 description: 'Creates comprehensive content outlines and topic clusters for SEO.
@@ -2848,8 +2842,7 @@ III. Main Section 2
 
 Focus on comprehensive coverage and logical content progression. Plan for topical authority.
 
-## Source: references/skills/seo-content/references/legacy/seo-content-refresher/SKILL.md
-
+## Imported Module: Seo Content Refresher
 ---
 name: seo-content-refresher
 description: Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.
@@ -2968,8 +2961,7 @@ Refresh Actions:
 
 Focus on meaningful updates that add value. Identify specific elements that need refreshing.
 
-## Source: references/skills/seo-content/references/legacy/seo-content-writer/SKILL.md
-
+## Imported Module: Seo Content Writer
 ---
 name: seo-content-writer
 description: Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.
@@ -3066,8 +3058,7 @@ You are an SEO content writer creating comprehensive, engaging content optimized
 
 Focus on value-first content. Write for humans while optimizing for search engines.
 
-## Source: references/skills/seo-content/references/legacy/seo-keyword-strategist/SKILL.md
-
+## Imported Module: Seo Keyword Strategist
 ---
 name: seo-keyword-strategist
 description: Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.
@@ -3163,8 +3154,7 @@ Entities: [related concepts to include]
 
 Focus on natural keyword integration and semantic relevance. Build topical depth through related concepts.
 
-## Source: references/skills/seo-content/references/legacy/seo-meta-optimizer/SKILL.md
-
+## Imported Module: Seo Meta Optimizer
 ---
 name: seo-meta-optimizer
 description: Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.
@@ -3257,8 +3247,7 @@ Description: Action verb + benefit. Include keyword naturally. Clear CTA here âœ
 
 Focus on psychological triggers and user benefits. Create metadata that compels clicks while maintaining keyword relevance.
 
-## Source: references/skills/seo-content/references/legacy/seo-snippet-hunter/SKILL.md
-
+## Imported Module: Seo Snippet Hunter
 ---
 name: seo-snippet-hunter
 description: Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.
@@ -3373,8 +3362,7 @@ You are a featured snippet optimization specialist formatting content for positi
 
 Focus on clear, direct answers. Format content to maximize featured snippet eligibility.
 
-## Source: references/skills/seo-content/references/legacy/seo-structure-architect/SKILL.md
-
+## Imported Module: Seo Structure Architect
 ---
 name: seo-structure-architect
 description: Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.

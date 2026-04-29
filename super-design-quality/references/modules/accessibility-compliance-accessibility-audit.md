@@ -1,5 +1,4 @@
-## Source: references/skills/accessibility-compliance-accessibility-audit/SKILL.md
-
+## Module: Accessibility Compliance Accessibility Audit
 ---
 name: accessibility-compliance-accessibility-audit
 description: Accessibility audits and remediation, including WCAG and screen reader testing.
@@ -285,8 +284,7 @@ If no files specified, ask the user which files to review.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/accessibility-compliance-accessibility-audit/references/legacy/fixing-accessibility/SKILL.md
-
+## Imported Module: Fixing Accessibility
 ---
 name: fixing-accessibility
 description: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
@@ -424,8 +422,7 @@ Reference these guidelines when:
 - quote the exact snippet, state the failure, propose a small fix
 - for complex widgets (menu, dialog, combobox), prefer established accessible primitives over custom behavior
 
-## Source: references/skills/accessibility-compliance-accessibility-audit/references/legacy/screen-reader-testing/SKILL.md
-
+## Imported Module: Screen Reader Testing
 ---
 name: screen-reader-testing
 description: "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology supp..."
@@ -463,8 +460,7 @@ Practical guide to testing web applications with screen readers for comprehensiv
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/accessibility-compliance-accessibility-audit/references/legacy/wcag-audit-patterns/SKILL.md
-
+## Imported Module: Wcag Audit Patterns
 ---
 name: wcag-audit-patterns
 description: "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fixing WCAG violations, or implementing ac..."
@@ -510,8 +506,7 @@ Refer to `resources/implementation-playbook.md` for detailed patterns, checklist
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
 
-## Source: references/skills/accessibility-compliance-accessibility-audit/references/legacy/web-design-guidelines/SKILL.md
-
+## Imported Module: Web Design Guidelines
 ---
 name: web-design-guidelines
 description: "Review UI code for Web Interface Guidelines compliance. Use when asked to \\\"review my UI\\\", \\\"check accessibility\\\", \\\"audit design\\\", \\\"review UX\\\", or \\\"check my site aga..."

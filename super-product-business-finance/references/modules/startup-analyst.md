@@ -1,5 +1,4 @@
-## Source: references/skills/startup-analyst/SKILL.md
-
+## Module: Startup Analyst
 ---
 name: startup-analyst
 description: Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
@@ -327,7 +326,7 @@ Your goal is to provide startup founders with the analytical rigor of a top-tier
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: business-analyst
@@ -512,7 +511,7 @@ Expert business analyst focused on transforming complex business data into actio
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: growth-engine
@@ -761,7 +760,7 @@ Dia 0 -- Boas-vindas (imediato apos cadastro)
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: notion-template-business
@@ -987,7 +986,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: quant-analyst
@@ -1043,7 +1042,7 @@ Use pandas, numpy, and scipy. Include realistic assumptions about market microst
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: quantitative-analysis
@@ -1052,8 +1051,7 @@ description: Quantitative Analysis
 
 404: Not Found
 
-## Source: references/skills/startup-analyst/references/legacy/business-analyst/SKILL.md
-
+## Imported Module: Business Analyst
 ---
 name: business-analyst
 description: Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.
@@ -1235,8 +1233,7 @@ Expert business analyst focused on transforming complex business data into actio
 - "Analyze our sales funnel performance and identify optimization opportunities"
 - "Create a competitive intelligence framework with automated data collection"
 
-## Source: references/skills/startup-analyst/references/legacy/growth-engine/SKILL.md
-
+## Imported Module: Growth Engine
 ---
 name: growth-engine
 description: 'Motor de crescimento para produtos digitais -- growth hacking, SEO, ASO, viral loops, email marketing, CRM, referral programs e aquisicao organica. Ativar para: criar estrategia de growth,
@@ -1482,8 +1479,7 @@ Dia 0 -- Boas-vindas (imediato apos cadastro)
 - `product-design` - Complementary skill for enhanced analysis
 - `product-inventor` - Complementary skill for enhanced analysis
 
-## Source: references/skills/startup-analyst/references/legacy/notion-template-business/SKILL.md
-
+## Imported Module: Notion Template Business
 ---
 name: notion-template-business
 description: "Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers template design, pricing, marketplaces, market..."
@@ -1706,8 +1702,7 @@ Works well with: `micro-saas-launcher`, `copywriting`, `landing-page-design`, `s
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/startup-analyst/references/legacy/quant-analyst/SKILL.md
-
+## Imported Module: Quant Analyst
 ---
 name: quant-analyst
 description: Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.
@@ -1760,8 +1755,7 @@ You are a quantitative analyst specializing in algorithmic trading and financial
 
 Use pandas, numpy, and scipy. Include realistic assumptions about market microstructure.
 
-## Source: references/skills/startup-analyst/references/legacy/quantitative-analysis/SKILL.md
-
+## Imported Module: Quantitative Analysis
 ---
 name: quantitative-analysis
 description: Quantitative Analysis

@@ -1,5 +1,4 @@
-## Source: references/skills/page-cro/SKILL.md
-
+## Module: Page Cro
 ---
 name: page-cro
 description: Optimize conversion performance across pages, signup, onboarding, paywalls, popups, and forms. Use for CRO audits and experiments.
@@ -182,7 +181,7 @@ When recommending experiments, consider tests for:
 - **copywriting**: If the page needs a complete copy rewrite
 - **ab-test-setup**: To properly test recommended changes
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Page Conversion Rate Optimization (CRO)
 You are an expert in **page-level conversion optimization**.
@@ -1092,7 +1091,7 @@ When recommending experiments, consider tests for:
 - **paywall-upgrade-cro**: For converting to paid during/after onboarding
 - **ab-test-setup**: For testing onboarding changes
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Onboarding CRO
 
@@ -1749,7 +1748,7 @@ What you've accomplished:
 - **onboarding-cro**: For driving to aha moment before upgrade
 - **ab-test-setup**: For testing paywall variations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Paywall and Upgrade Screen CRO
 
@@ -2770,7 +2769,7 @@ Ideas to A/B test with expected outcomes
 - **email-sequence**: For what happens after popup conversion
 - **ab-test-setup**: For testing popup variations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Popup CRO
 
@@ -3543,7 +3542,7 @@ Ideas to A/B test with expected outcomes
 - **page-cro**: For the page containing the form
 - **ab-test-setup**: For testing form changes
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Form Conversion Rate Optimization (Form CRO)
 
@@ -3981,8 +3980,7 @@ Do **not** test:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/page-cro/references/legacy/form-cro/SKILL.md
-
+## Imported Module: Form Cro
 ---
 name: form-cro
 description: When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions "form optimization," "lead form conversions," "form friction," "form fields," "form completion rate," "contact form," "nobody fills out our form," "form abandonment," "too many fields," "demo request form," or "lead form isn't converting." Use this for any non-signup form that captures information. For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro.
@@ -4412,7 +4410,7 @@ Ideas to A/B test with expected outcomes
 - **page-cro**: For the page containing the form
 - **ab-test-setup**: For testing form changes
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Form Conversion Rate Optimization (Form CRO)
 
@@ -4850,8 +4848,7 @@ Do **not** test:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/page-cro/references/legacy/onboarding-cro/SKILL.md
-
+## Imported Module: Onboarding Cro
 ---
 name: onboarding-cro
 description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty states," "onboarding checklist," "aha moment," "new user experience," "users aren't activating," "nobody completes setup," "low activation rate," "users sign up but don't use the product," "time to value," or "first session experience." Use this whenever users are signing up but not sticking around. For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.
@@ -5072,7 +5069,7 @@ When recommending experiments, consider tests for:
 - **paywall-upgrade-cro**: For converting to paid during/after onboarding
 - **ab-test-setup**: For testing onboarding changes
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Onboarding CRO
 
@@ -5506,8 +5503,7 @@ If you need more context:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/page-cro/references/legacy/paywall-upgrade-cro/SKILL.md
-
+## Imported Module: Paywall Upgrade Cro
 ---
 name: paywall-upgrade-cro
 description: When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions "paywall," "upgrade screen," "upgrade modal," "upsell," "feature gate," "convert free to paid," "freemium conversion," "trial expiration screen," "limit reached screen," "plan upgrade prompt," "in-app pricing," "free users won't upgrade," "trial to paid conversion," or "how do I get users to pay." Use this for any in-product moment where you're asking users to upgrade. Distinct from public pricing pages (see page-cro) — this focuses on in-product upgrade moments where the user has already experienced value. For pricing decisions, see pricing-strategy.
@@ -5735,7 +5731,7 @@ What you've accomplished:
 - **onboarding-cro**: For driving to aha moment before upgrade
 - **ab-test-setup**: For testing paywall variations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Paywall and Upgrade Screen CRO
 
@@ -6306,8 +6302,7 @@ If you need more context:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/page-cro/references/legacy/popup-cro/SKILL.md
-
+## Imported Module: Popup Cro
 ---
 name: popup-cro
 description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," "overlay," "collect emails with a popup," "exit popup," "scroll trigger," "sticky bar," or "notification bar." Use this for any overlay or interrupt-style conversion element. For forms outside of popups, see form-cro. For general page conversion optimization, see page-cro.
@@ -6762,7 +6757,7 @@ Ideas to A/B test with expected outcomes
 - **email-sequence**: For what happens after popup conversion
 - **ab-test-setup**: For testing popup variations
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Popup CRO
 
@@ -7110,8 +7105,7 @@ Multiple CTAs or mixed goals destroy performance.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/page-cro/references/legacy/signup-flow-cro/SKILL.md
-
+## Imported Module: Signup Flow Cro
 ---
 name: signup-flow-cro
 description: When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce signup dropoff," "account creation flow," "people aren't signing up," "signup abandonment," "trial conversion rate," "nobody completes registration," "too many steps to sign up," or "simplify our signup." Use this whenever the user has a signup or registration flow that isn't performing. For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro.

@@ -1,5 +1,4 @@
-## Source: references/skills/game-development/SKILL.md
-
+## Module: Game Development
 ---
 name: game-development
 description: "Game development orchestrator. Routes to platform-specific skills based on project needs."
@@ -172,7 +171,7 @@ Abstract input into ACTIONS, not raw keys:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: algolia-search
@@ -248,7 +247,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: algorithmic-art
@@ -663,7 +662,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: andrej-karpathy
@@ -1832,7 +1831,7 @@ educacionais. Para opiniões atuais, consultar Twitter/X e YouTube originais.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: angular
@@ -2655,7 +2654,7 @@ describe("UserCardComponent", () => {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: angular-best-practices
@@ -3223,7 +3222,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: angular-state-management
@@ -3863,7 +3862,7 @@ export class DataService {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 --- 
 name: animejs-animation
@@ -3920,7 +3919,7 @@ Trigger this skill when:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: architect-review
@@ -4097,7 +4096,7 @@ Elite software architect focused on ensuring architectural integrity, scalabilit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: arm-cortex-expert
@@ -4404,7 +4403,7 @@ __set_BASEPRI(basepri);
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: binary-analysis-patterns
@@ -4862,7 +4861,7 @@ def auto_rename():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: brand-guidelines-community
@@ -4945,7 +4944,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: carrier-relationship-management
@@ -5141,7 +5140,7 @@ Use this skill when you are **designing or tuning your carrier portfolio, routin
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cc-skill-coding-standards
@@ -5672,7 +5671,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cc-skill-continuous-learning
@@ -5691,7 +5690,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 # agentskills.io compliant frontmatter
@@ -6408,7 +6407,7 @@ Reply "confirmed" or flag any I misread.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: content-marketer
@@ -6580,7 +6579,7 @@ Master content marketer focused on creating high-converting, SEO-optimized conte
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: context7-auto-research
@@ -6624,7 +6623,7 @@ See the GitHub repository for troubleshooting guides.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: csharp-pro
@@ -6686,7 +6685,7 @@ Follow .NET coding standards and include comprehensive XML documentation.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: debugging-toolkit-smart-debug
@@ -6891,7 +6890,7 @@ Issue to debug: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: deep-research
@@ -7011,7 +7010,7 @@ python3 scripts/research.py --list
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: discord-bot-architect
@@ -7298,7 +7297,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dispatching-parallel-agents
@@ -7486,7 +7485,7 @@ From debugging session (2025-10-03):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: docs-architect
@@ -7587,7 +7586,7 @@ Remember: Your goal is to create documentation that serves as the definitive tec
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dotnet-architect
@@ -7786,7 +7785,7 @@ var status = order.State switch
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dwarf-expert
@@ -7884,7 +7883,7 @@ This skill supports writing, modifying, and reviewing code that interacts with D
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: earllm-build
@@ -8080,7 +8079,7 @@ powershell -Command "Remove-Item 'EarLLM_One_v1.0.zip' -Force -ErrorAction Silen
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: error-diagnostics-smart-debug
@@ -8285,7 +8284,7 @@ Issue to debug: $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: exa-search
@@ -8329,7 +8328,7 @@ See the GitHub repository for troubleshooting guides.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: firmware-analyst
@@ -8651,7 +8650,7 @@ sudo chroot squashfs-root /usr/bin/qemu-arm-static /bin/httpd
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: git-pr-workflows-onboard
@@ -9075,7 +9074,7 @@ Remember: Great onboarding reduces time-to-productivity from months to weeks whi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: godot-gdscript-patterns
@@ -9116,7 +9115,7 @@ Production patterns for Godot 4.x game development with GDScript, covering archi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: grafana-dashboards
@@ -9505,7 +9504,7 @@ resource "grafana_folder" "monitoring" {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hig-components-search
@@ -9575,7 +9574,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: internal-comms-community
@@ -9614,7 +9613,7 @@ If the communication type doesn't match any existing guideline, ask for clarific
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: kpi-dashboard-design
@@ -10062,7 +10061,7 @@ for alert in alerts:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: laravel-expert
@@ -10253,7 +10252,7 @@ When refactoring:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: linear-agent-skill
@@ -10800,7 +10799,7 @@ npx tsx scripts/linear-ops.ts project-status "My Project" completed
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: market-sizing-analysis
@@ -11228,7 +11227,7 @@ For detailed step-by-step guidance on each methodology, reference the files in `
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: monorepo-architect
@@ -11297,7 +11296,7 @@ Expert in monorepo architecture, build systems, and dependency management at sca
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: monte-carlo-treasury
@@ -11308,7 +11307,7 @@ description: Monte Carlo Treasury
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: nft-standards
@@ -11711,7 +11710,7 @@ contract OptimizedNFT is ERC721A {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: parallel-agents
@@ -11893,7 +11892,7 @@ After all agents complete, synthesize:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: polars
@@ -12282,7 +12281,7 @@ Load these references as needed when users require detailed information about sp
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: publish-and-summary
@@ -12293,7 +12292,7 @@ description: Publish And Summary
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: react-flow-architect
@@ -12917,7 +12916,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: research-engineer
@@ -12928,7 +12927,7 @@ description: Research Engineer
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: semgrep-rule-variant-creator
@@ -13132,7 +13131,7 @@ See workflow.md for detailed workflow and troubleshooting.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: senior-architect
@@ -13352,7 +13351,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sharp-edges
@@ -13650,7 +13649,7 @@ Before concluding analysis:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: spark-optimization
@@ -14085,7 +14084,7 @@ spark_configs = {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-analyst
@@ -14414,7 +14413,7 @@ Your goal is to provide startup founders with the analytical rigor of a top-tier
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-business-analyst-business-case
@@ -14911,7 +14910,7 @@ What materials do you have?
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-business-analyst-market-opportunity
@@ -15161,7 +15160,7 @@ This command pairs well with:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: startup-metrics-framework
@@ -15198,7 +15197,7 @@ Comprehensive guide to tracking, calculating, and optimizing key performance met
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: unity-developer
@@ -15430,7 +15429,7 @@ Focus on performance-optimized, maintainable solutions using Unity 6 LTS feature
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: unity-ecs-patterns
@@ -15471,7 +15470,7 @@ Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: unreal-engine-cpp-pro
@@ -15591,7 +15590,7 @@ void AMyCharacter::Equip() {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: variant-analysis
@@ -15738,7 +15737,7 @@ Ready-to-use templates in `resources/`:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: varlock
@@ -16177,7 +16176,7 @@ Add these to your package.json:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: varlock-agent-skill
@@ -16205,7 +16204,7 @@ For more information, see the [source repository](https://github.com/wrsmith108/
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: warren-buffett
@@ -16821,7 +16820,7 @@ Se nao for especificado, use a versao integrada de todos os periodos.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-architect
@@ -16892,7 +16891,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-onboarding
@@ -16980,7 +16979,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wiki-researcher
@@ -17056,7 +17055,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wireshark-analysis
@@ -17561,7 +17560,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: x-article-publisher-skill
@@ -17589,7 +17588,7 @@ For more information, see the [source repository](https://github.com/wshuyi/x-ar
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: youtube-summarizer
@@ -18000,8 +17999,7 @@ Welcome to this comprehensive tutorial on machine learning fundamentals. In toda
 **Last Updated:** 2026-02-02
 **Maintained By:** Eric Andrade
 
-## Source: references/skills/game-development/references/legacy/algolia-search/SKILL.md
-
+## Imported Module: Algolia Search
 ---
 name: algolia-search
 description: "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality."
@@ -18074,8 +18072,7 @@ Best practices:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/algorithmic-art/SKILL.md
-
+## Imported Module: Algorithmic Art
 ---
 name: algorithmic-art
 description: "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields,..."
@@ -18487,8 +18484,7 @@ This skill includes helpful templates and documentation:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/andrej-karpathy/SKILL.md
-
+## Imported Module: Andrej Karpathy
 ---
 name: andrej-karpathy
 description: 'Agente que simula Andrej Karpathy — ex-Director of AI da Tesla, co-fundador da OpenAI, fundador da Eureka Labs, e o maior educador de deep learning do mundo. Use quando quiser: aprender deep...'
@@ -19654,8 +19650,7 @@ educacionais. Para opiniões atuais, consultar Twitter/X e YouTube originais.
 - `ilya-sutskever` - Complementary skill for enhanced analysis
 - `sam-altman` - Complementary skill for enhanced analysis
 
-## Source: references/skills/game-development/references/legacy/angular/SKILL.md
-
+## Imported Module: Angular
 ---
 name: angular
 description: Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.
@@ -20475,8 +20470,7 @@ describe("UserCardComponent", () => {
 | Zoneless not detecting changes | Trigger via signal updates, not mutations           |
 | SSR fetch fails                | Use `TransferState` or `withFetch()`                |
 
-## Source: references/skills/game-development/references/legacy/angular-best-practices/SKILL.md
-
+## Imported Module: Angular Best Practices
 ---
 name: angular-best-practices
 description: "Angular performance optimization and best practices guide. Use when writing, reviewing, or refactoring Angular code for optimal performance, bundle size, and rendering efficiency."
@@ -21041,8 +21035,7 @@ export class Component implements OnInit, OnDestroy {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/angular-state-management/SKILL.md
-
+## Imported Module: Angular State Management
 ---
 name: angular-state-management
 description: "Master modern Angular state management with Signals, NgRx, and RxJS. Use when setting up global state, managing component stores, choosing between state solutions, or migrating from legacy patterns."
@@ -21679,8 +21672,7 @@ export class DataService {
 - [NgRx SignalStore](https://ngrx.io/guide/signals)
 - [RxAngular](https://www.rx-angular.io/)
 
-## Source: references/skills/game-development/references/legacy/animejs-animation/SKILL.md
-
+## Imported Module: Animejs Animation
 --- 
 name: animejs-animation
 description: Advanced JavaScript animation library skill for creating complex, high-performance web animations.
@@ -21734,8 +21726,7 @@ Trigger this skill when:
 - **Staggering**: Leverage `anime.stagger()` extensively to add organic rhythm to multiple elements.
 - **Performance**: Monitor main thread usage; use `will-change: transform, opacity` where appropriate for GPU acceleration.
 
-## Source: references/skills/game-development/references/legacy/architect-review/SKILL.md
-
+## Imported Module: Architect Review
 ---
 name: architect-review
 description: "Master software architect specializing in modern architecture"
@@ -21909,8 +21900,7 @@ Elite software architect focused on ensuring architectural integrity, scalabilit
 - "Review this event-driven system design for proper decoupling"
 - "Evaluate our CI/CD pipeline architecture for scalability and security"
 
-## Source: references/skills/game-development/references/legacy/arm-cortex-expert/SKILL.md
-
+## Imported Module: Arm Cortex Expert
 ---
 name: arm-cortex-expert
 description: Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M microcontrollers (Teensy, STM32, nRF52, SAMD).
@@ -22214,8 +22204,7 @@ __set_BASEPRI(basepri);
 - **nRF52**: `nrfx_spi_xfer()` or `nrf_drv_spi_transfer()`
 - **SAMD**: Configure SERCOM in SPI master mode with `SERCOM_SPI_MODE_MASTER`
 
-## Source: references/skills/game-development/references/legacy/binary-analysis-patterns/SKILL.md
-
+## Imported Module: Binary Analysis Patterns
 ---
 name: binary-analysis-patterns
 description: "Master binary analysis patterns including disassembly, decompilation, control flow analysis, and code pattern recognition. Use when analyzing executables, understanding compiled code, or performing..."
@@ -22670,8 +22659,7 @@ def auto_rename():
 - **Dead code**: Unreachable code from optimization
 - **Position-independent code**: RIP-relative addressing
 
-## Source: references/skills/game-development/references/legacy/brand-guidelines-community/SKILL.md
-
+## Imported Module: Brand Guidelines Community
 ---
 name: brand-guidelines-community
 description: "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatt..."
@@ -22751,8 +22739,7 @@ To access Anthropic's official brand identity and style resources, use this skil
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/carrier-relationship-management/SKILL.md
-
+## Imported Module: Carrier Relationship Management
 ---
 name: carrier-relationship-management
 description: Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.
@@ -22945,8 +22932,7 @@ Use this skill when you are **designing or tuning your carrier portfolio, routin
 - Building carrier scorecards, exit criteria, and escalation protocols to manage performance and risk.
 - Deciding how to allocate lanes across asset carriers, brokers, and regional specialists to protect service while controlling logistics spend.
 
-## Source: references/skills/game-development/references/legacy/cc-skill-coding-standards/SKILL.md
-
+## Imported Module: Cc Skill Coding Standards
 ---
 name: cc-skill-coding-standards
 description: "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development."
@@ -23474,8 +23460,7 @@ setTimeout(callback, DEBOUNCE_DELAY_MS)
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/cc-skill-continuous-learning/SKILL.md
-
+## Imported Module: Cc Skill Continuous Learning
 ---
 name: cc-skill-continuous-learning
 description: "Development skill from everything-ai-agent"
@@ -23491,8 +23476,7 @@ Development skill skill.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/clarity-gate/SKILL.md
-
+## Imported Module: Clarity Gate
 ---
 # agentskills.io compliant frontmatter
 name: clarity-gate
@@ -24206,8 +24190,7 @@ Reply "confirmed" or flag any I misread.
 **Author:** Francesco Marinoni Moretto
 **License:** CC-BY-4.0
 
-## Source: references/skills/game-development/references/legacy/content-marketer/SKILL.md
-
+## Imported Module: Content Marketer
 ---
 name: content-marketer
 description: Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing.
@@ -24376,8 +24359,7 @@ Master content marketer focused on creating high-converting, SEO-optimized conte
 - "Develop a user-generated content campaign with influencer partnerships"
 - "Create a content calendar for Black Friday and holiday marketing"
 
-## Source: references/skills/game-development/references/legacy/context7-auto-research/SKILL.md
-
+## Imported Module: Context7 Auto Research
 ---
 name: context7-auto-research
 description: "Automatically fetch latest library/framework documentation for AI coding assistant via Context7 API"
@@ -24418,8 +24400,7 @@ See the GitHub repository for troubleshooting guides.
 ## Related Skills
 - tavily-web, exa-search, firecrawl-scraper, code-review
 
-## Source: references/skills/game-development/references/legacy/csharp-pro/SKILL.md
-
+## Imported Module: Csharp Pro
 ---
 name: csharp-pro
 description: Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing.
@@ -24478,8 +24459,7 @@ You are a C# expert specializing in modern .NET development and enterprise-grade
 
 Follow .NET coding standards and include comprehensive XML documentation.
 
-## Source: references/skills/game-development/references/legacy/debugging-toolkit-smart-debug/SKILL.md
-
+## Imported Module: Debugging Toolkit Smart Debug
 ---
 name: debugging-toolkit-smart-debug
 description: "Use when working with debugging toolkit smart debug"
@@ -24681,8 +24661,7 @@ Focus on actionable insights. Use AI assistance throughout for pattern recogniti
 
 Issue to debug: $ARGUMENTS
 
-## Source: references/skills/game-development/references/legacy/deep-research/SKILL.md
-
+## Imported Module: Deep Research
 ---
 name: deep-research
 description: "Execute autonomous multi-step research using Google Gemini Deep Research Agent. Use for: market analysis, competitive landscaping, literature reviews, technical research, due diligence. Takes 2-10 ..."
@@ -24799,8 +24778,7 @@ python3 scripts/research.py --list
 - **1**: Error (API error, config issue, timeout)
 - **130**: Cancelled by user (Ctrl+C)
 
-## Source: references/skills/game-development/references/legacy/discord-bot-architect/SKILL.md
-
+## Imported Module: Discord Bot Architect
 ---
 name: discord-bot-architect
 description: "Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding."
@@ -25084,8 +25062,7 @@ cause missed heartbeats and disconnections.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/dispatching-parallel-agents/SKILL.md
-
+## Imported Module: Dispatching Parallel Agents
 ---
 name: dispatching-parallel-agents
 description: "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
@@ -25270,8 +25247,7 @@ From debugging session (2025-10-03):
 - All fixes integrated successfully
 - Zero conflicts between agent changes
 
-## Source: references/skills/game-development/references/legacy/docs-architect/SKILL.md
-
+## Imported Module: Docs Architect
 ---
 name: docs-architect
 description: Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks.
@@ -25369,8 +25345,7 @@ Generate documentation in Markdown format with:
 
 Remember: Your goal is to create documentation that serves as the definitive technical reference for the system, suitable for onboarding new team members, architectural reviews, and long-term maintenance.
 
-## Source: references/skills/game-development/references/legacy/dotnet-architect/SKILL.md
-
+## Imported Module: Dotnet Architect
 ---
 name: dotnet-architect
 description: Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.
@@ -25566,8 +25541,7 @@ var status = order.State switch
 };
 ```
 
-## Source: references/skills/game-development/references/legacy/dwarf-expert/SKILL.md
-
+## Imported Module: Dwarf Expert
 ---
 name: dwarf-expert
 description: Provides expertise for analyzing DWARF debug files and understanding the DWARF debug format/standard (v3-v5). Triggers when understanding DWARF information, interacting with DWARF files, answering DWARF-related questions, or working with code that parses DWARF data.
@@ -25662,8 +25636,7 @@ This skill supports writing, modifying, and reviewing code that interacts with D
     └─ Refer to the coding reference ({baseDir}/reference/coding.md)
 ```
 
-## Source: references/skills/game-development/references/legacy/earllm-build/SKILL.md
-
+## Imported Module: Earllm Build
 ---
 name: earllm-build
 description: Build, maintain, and extend the EarLLM One Android project — a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline. Use this skill whenever working on the earbudllm...
@@ -25856,8 +25829,7 @@ powershell -Command "Remove-Item 'EarLLM_One_v1.0.zip' -Force -ErrorAction Silen
 - Applying recommendations without understanding your specific context
 - Not providing enough project context for accurate analysis
 
-## Source: references/skills/game-development/references/legacy/error-diagnostics-smart-debug/SKILL.md
-
+## Imported Module: Error Diagnostics Smart Debug
 ---
 name: error-diagnostics-smart-debug
 description: "Use when working with error diagnostics smart debug"
@@ -26059,8 +26031,7 @@ Focus on actionable insights. Use AI assistance throughout for pattern recogniti
 
 Issue to debug: $ARGUMENTS
 
-## Source: references/skills/game-development/references/legacy/exa-search/SKILL.md
-
+## Imported Module: Exa Search
 ---
 name: exa-search
 description: "Semantic search, similar content discovery, and structured research using Exa API"
@@ -26101,8 +26072,7 @@ See the GitHub repository for troubleshooting guides.
 ## Related Skills
 - context7-auto-research, tavily-web, firecrawl-scraper, code-review
 
-## Source: references/skills/game-development/references/legacy/firmware-analyst/SKILL.md
-
+## Imported Module: Firmware Analyst
 ---
 name: firmware-analyst
 description: Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.
@@ -26421,8 +26391,7 @@ sudo chroot squashfs-root /usr/bin/qemu-arm-static /bin/httpd
 5. **Identify issues**: Security vulnerabilities and misconfigurations
 6. **Document findings**: Clear reporting with remediation guidance
 
-## Source: references/skills/game-development/references/legacy/git-pr-workflows-onboard/SKILL.md
-
+## Imported Module: Git Pr Workflows Onboard
 ---
 name: git-pr-workflows-onboard
 description: "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You"
@@ -26843,8 +26812,7 @@ Ensuring onboarding effectiveness and iteration:
 
 Remember: Great onboarding reduces time-to-productivity from months to weeks while building lasting engagement and retention.
 
-## Source: references/skills/game-development/references/legacy/godot-gdscript-patterns/SKILL.md
-
+## Imported Module: Godot Gdscript Patterns
 ---
 name: godot-gdscript-patterns
 description: "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices."
@@ -26882,8 +26850,7 @@ Production patterns for Godot 4.x game development with GDScript, covering archi
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/game-development/references/legacy/grafana-dashboards/SKILL.md
-
+## Imported Module: Grafana Dashboards
 ---
 name: grafana-dashboards
 description: "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational ..."
@@ -27269,8 +27236,7 @@ resource "grafana_folder" "monitoring" {
 - `prometheus-configuration` - For metric collection
 - `slo-implementation` - For SLO dashboards
 
-## Source: references/skills/game-development/references/legacy/hig-components-search/SKILL.md
-
+## Imported Module: Hig Components Search
 ---
 name: hig-components-search
 description: Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.
@@ -27337,8 +27303,7 @@ Check for `.agents/apple-design-context.md` before asking questions. Use existin
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/internal-comms-community/SKILL.md
-
+## Imported Module: Internal Comms Community
 ---
 name: internal-comms-community
 description: "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. AI assistant should use this skill whenever asked to write some sort of internal ..."
@@ -27374,8 +27339,7 @@ If the communication type doesn't match any existing guideline, ask for clarific
 ## Keywords
 3P updates, company newsletter, company comms, weekly update, faqs, common questions, updates, internal comms
 
-## Source: references/skills/game-development/references/legacy/kpi-dashboard-design/SKILL.md
-
+## Imported Module: Kpi Dashboard Design
 ---
 name: kpi-dashboard-design
 description: "Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data ..."
@@ -27820,8 +27784,7 @@ for alert in alerts:
 - [Edward Tufte's Principles](https://www.edwardtufte.com/tufte/)
 - [Google Data Studio Gallery](https://datastudio.google.com/gallery)
 
-## Source: references/skills/game-development/references/legacy/laravel-expert/SKILL.md
-
+## Imported Module: Laravel Expert
 ---
 name: laravel-expert
 description: "Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+)."
@@ -28009,8 +27972,7 @@ When refactoring:
 - Do not assume cloud infrastructure
 - Keep solutions pragmatic and realistic
 
-## Source: references/skills/game-development/references/legacy/linear-agent-skill/SKILL.md
-
+## Imported Module: Linear Agent Skill
 ---
 name: linear-agent-skill
 description: "Manage Linear issues, projects, and teams"
@@ -28554,8 +28516,7 @@ npx tsx scripts/linear-ops.ts project-status "My Project" completed
 
 **External:** [Linear MCP Documentation](https://linear.app/docs/mcp.md)
 
-## Source: references/skills/game-development/references/legacy/market-sizing-analysis/SKILL.md
-
+## Imported Module: Market Sizing Analysis
 ---
 name: market-sizing-analysis
 description: This skill should be used when the user asks to \\\"calculate TAM\\\", "determine SAM", "estimate SOM", "size the market", "calculate market opportunity", "what's the total addressable market", or...
@@ -28980,8 +28941,7 @@ To perform market sizing analysis:
 
 For detailed step-by-step guidance on each methodology, reference the files in `references/` directory. For complete worked examples, see `examples/` directory.
 
-## Source: references/skills/game-development/references/legacy/monorepo-architect/SKILL.md
-
+## Imported Module: Monorepo Architect
 ---
 name: monorepo-architect
 description: "Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project development. Use PROACTIVELY for monorepo setup,"
@@ -29047,8 +29007,7 @@ Expert in monorepo architecture, build systems, and dependency management at sca
 - Document the dependency graph
 - Set up code ownership rules
 
-## Source: references/skills/game-development/references/legacy/monte-carlo-treasury/SKILL.md
-
+## Imported Module: Monte Carlo Treasury
 ---
 name: monte-carlo-treasury
 description: Monte Carlo Treasury
@@ -29056,8 +29015,7 @@ description: Monte Carlo Treasury
 
 404: Not Found
 
-## Source: references/skills/game-development/references/legacy/nft-standards/SKILL.md
-
+## Imported Module: Nft Standards
 ---
 name: nft-standards
 description: "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementi..."
@@ -29457,8 +29415,7 @@ contract OptimizedNFT is ERC721A {
 - Rarible: Protocol fees, lazy minting
 - Blur: Gas-optimized trading
 
-## Source: references/skills/game-development/references/legacy/parallel-agents/SKILL.md
-
+## Imported Module: Parallel Agents
 ---
 name: parallel-agents
 description: "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
@@ -29637,8 +29594,7 @@ After all agents complete, synthesize:
 - ✅ **Resume support** - Can continue previous agent work
 - ✅ **Context passing** - Findings flow between agents
 
-## Source: references/skills/game-development/references/legacy/polars/SKILL.md
-
+## Imported Module: Polars
 ---
 name: polars
 description: Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution, Apache Arrow backend. Best for 1-100GB datasets, ETL pipelines, faster pandas replacement. For larger-than-RAM data use dask or vaex.
@@ -30025,8 +29981,7 @@ This skill includes comprehensive reference documentation:
 Load these references as needed when users require detailed information about specific topics.
 
 
-## Source: references/skills/game-development/references/legacy/publish-and-summary/SKILL.md
-
+## Imported Module: Publish And Summary
 ---
 name: publish-and-summary
 description: Publish And Summary
@@ -30034,8 +29989,7 @@ description: Publish And Summary
 
 404: Not Found
 
-## Source: references/skills/game-development/references/legacy/react-flow-architect/SKILL.md
-
+## Imported Module: React Flow Architect
 ---
 name: react-flow-architect
 description: "Expert ReactFlow architect for building interactive graph applications with hierarchical node-edge systems, performance optimization, and auto-layout integration. Use when the assistant needs to create or..."
@@ -30656,8 +30610,7 @@ This comprehensive skill provides everything needed to build production-ready Re
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/research-engineer/SKILL.md
-
+## Imported Module: Research Engineer
 ---
 name: research-engineer
 description: Research Engineer
@@ -30665,8 +30618,7 @@ description: Research Engineer
 
 404: Not Found
 
-## Source: references/skills/game-development/references/legacy/semgrep-rule-variant-creator/SKILL.md
-
+## Imported Module: Semgrep Rule Variant Creator
 ---
 name: semgrep-rule-variant-creator
 description: Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified target languages. Takes an existing rule and target languages as input, produces independent rule+test directories for each language.
@@ -30867,8 +30819,7 @@ See workflow.md for detailed workflow and troubleshooting.
 - For language translation guidance, see language-syntax-guide.md
 - For detailed workflow and examples, see workflow.md
 
-## Source: references/skills/game-development/references/legacy/senior-architect/SKILL.md
-
+## Imported Module: Senior Architect
 ---
 name: senior-architect
 description: "Comprehensive software architecture skill for designing scalable, maintainable systems using ReactJS, NextJS, NodeJS, Express, React Native, Swift, Kotlin, Flutter, Postgres, GraphQL, Go, Python. I..."
@@ -31085,8 +31036,7 @@ Check the comprehensive troubleshooting section in `references/tech_decision_gui
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/sharp-edges/SKILL.md
-
+## Imported Module: Sharp Edges
 ---
 name: sharp-edges
 description: sharp-edges
@@ -31381,8 +31331,7 @@ Before concluding analysis:
 - [ ] Checked configuration validation
 - [ ] Constructor params validated (not just defaulted) - see config-patterns.md
 
-## Source: references/skills/game-development/references/legacy/spark-optimization/SKILL.md
-
+## Imported Module: Spark Optimization
 ---
 name: spark-optimization
 description: "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines."
@@ -31814,8 +31763,7 @@ spark_configs = {
 - [Spark Configuration](https://spark.apache.org/docs/latest/configuration.html)
 - [Databricks Optimization Guide](https://docs.databricks.com/en/optimizations/index.html)
 
-## Source: references/skills/game-development/references/legacy/startup-analyst/SKILL.md
-
+## Imported Module: Startup Analyst
 ---
 name: startup-analyst
 description: Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
@@ -32141,8 +32089,7 @@ Provide:
 
 Your goal is to provide startup founders with the analytical rigor of a top-tier strategy consultant combined with the practical, startup-specific knowledge of an experienced operator. Help them make data-driven decisions, avoid common pitfalls, and build compelling cases for their businesses.
 
-## Source: references/skills/game-development/references/legacy/startup-business-analyst-business-case/SKILL.md
-
+## Imported Module: Startup Business Analyst Business Case
 ---
 name: startup-business-analyst-business-case
 description: 'Generate comprehensive investor-ready business case document with
@@ -32636,8 +32583,7 @@ What materials do you have?
 - Customize sections based on audience
 - Keep executive summary to 2 pages max
 
-## Source: references/skills/game-development/references/legacy/startup-business-analyst-market-opportunity/SKILL.md
-
+## Imported Module: Startup Business Analyst Market Opportunity
 ---
 name: startup-business-analyst-market-opportunity
 description: 'Generate comprehensive market opportunity analysis with TAM/SAM/SOM
@@ -32884,8 +32830,7 @@ This command pairs well with:
 - Update annually as market evolves
 - Conservative estimates build credibility with investors
 
-## Source: references/skills/game-development/references/legacy/startup-metrics-framework/SKILL.md
-
+## Imported Module: Startup Metrics Framework
 ---
 name: startup-metrics-framework
 description: This skill should be used when the user asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", "marketplace metrics", or requests...
@@ -32919,8 +32864,7 @@ Comprehensive guide to tracking, calculating, and optimizing key performance met
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/game-development/references/legacy/unity-developer/SKILL.md
-
+## Imported Module: Unity Developer
 ---
 name: unity-developer
 description: Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment.
@@ -33149,8 +33093,7 @@ Expert Unity developer specializing in Unity 6 LTS, modern rendering pipelines, 
 
 Focus on performance-optimized, maintainable solutions using Unity 6 LTS features. Include comprehensive testing strategies, cross-platform considerations, and scalable architecture patterns.
 
-## Source: references/skills/game-development/references/legacy/unity-ecs-patterns/SKILL.md
-
+## Imported Module: Unity Ecs Patterns
 ---
 name: unity-ecs-patterns
 description: "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large ent..."
@@ -33188,8 +33131,7 @@ Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including 
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
 
-## Source: references/skills/game-development/references/legacy/unreal-engine-cpp-pro/SKILL.md
-
+## Imported Module: Unreal Engine Cpp Pro
 ---
 name: unreal-engine-cpp-pro
 description: "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices."
@@ -33306,8 +33248,7 @@ void AMyCharacter::Equip() {
 - [ ] Are hard references (TSubclassOf) causing load chains? Can they be Soft Ptrs?
 - [ ] Did you clean up verified delegates in `EndPlay`?
 
-## Source: references/skills/game-development/references/legacy/variant-analysis/SKILL.md
-
+## Imported Module: Variant Analysis
 ---
 name: variant-analysis
 description: Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzing security vulnerabilities, or performing systematic code audits after finding an initial issue.
@@ -33451,8 +33392,7 @@ Ready-to-use templates in `resources/`:
 
 **Report**: `resources/variant-report-template.md`
 
-## Source: references/skills/game-development/references/legacy/varlock/SKILL.md
-
+## Imported Module: Varlock
 ---
 name: varlock
 description: Secure environment variable management with Varlock. Use when handling secrets, API keys, credentials, or any sensitive configuration. Ensures secrets are never exposed in terminals, logs, traces, or AI assistant's context. Trigger phrases include "environment variables",...
@@ -33888,8 +33828,7 @@ Add these to your package.json:
 *Last updated: December 22, 2025*
 *Secure-by-default environment management for AI coding assistant*
 
-## Source: references/skills/game-development/references/legacy/varlock-agent-skill/SKILL.md
-
+## Imported Module: Varlock Agent Skill
 ---
 name: varlock-agent-skill
 description: "Secure environment variable management ensuring secrets are never exposed in AI assistant sessions, terminals, logs, or git commits"
@@ -33914,8 +33853,7 @@ This skill provides guidance and patterns for secure environment variable manage
 
 For more information, see the [source repository](https://github.com/wrsmith108/varlock-agent-skill).
 
-## Source: references/skills/game-development/references/legacy/warren-buffett/SKILL.md
-
+## Imported Module: Warren Buffett
 ---
 name: warren-buffett
 description: 'Agente que simula Warren Buffett — o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger. Use quando quiser:
@@ -34528,8 +34466,7 @@ Se nao for especificado, use a versao integrada de todos os periodos.
 - `geoffrey-hinton` - Complementary skill for enhanced analysis
 - `ilya-sutskever` - Complementary skill for enhanced analysis
 
-## Source: references/skills/game-development/references/legacy/wiki-architect/SKILL.md
-
+## Imported Module: Wiki Architect
 ---
 name: wiki-architect
 description: "Analyzes code repositories and generates hierarchical documentation structures with onboarding guides. Use when the user wants to create a wiki, generate documentation, map a codebase structure, or..."
@@ -34597,8 +34534,7 @@ JSON code block following the catalogue schema with `items[].children[]` structu
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/wiki-onboarding/SKILL.md
-
+## Imported Module: Wiki Onboarding
 ---
 name: wiki-onboarding
 description: "Generates two complementary onboarding guides \u2014 a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough. Use when the user wants onboarding documentation fo..."
@@ -34683,8 +34619,7 @@ Scan the repository for build files to determine the primary language for code e
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/wiki-researcher/SKILL.md
-
+## Imported Module: Wiki Researcher
 ---
 name: wiki-researcher
 description: "Conducts multi-turn iterative deep research on specific topics within a codebase with zero tolerance for shallow analysis. Use when the user wants an in-depth investigation, needs to understand how..."
@@ -34757,8 +34692,7 @@ Each iteration takes a different lens and builds on all prior findings:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/wireshark-analysis/SKILL.md
-
+## Imported Module: Wireshark Analysis
 ---
 name: wireshark-analysis
 description: "This skill should be used when the user asks to \"analyze network traffic with Wireshark\", \"capture packets for troubleshooting\", \"filter PCAP files\", \"follow TCP/UDP streams\", \"dete..."
@@ -35260,8 +35194,7 @@ File > Export Packet Dissections   # Export as text/CSV
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/game-development/references/legacy/x-article-publisher-skill/SKILL.md
-
+## Imported Module: X Article Publisher Skill
 ---
 name: x-article-publisher-skill
 description: "Publish articles to X/Twitter"
@@ -35286,8 +35219,7 @@ This skill provides guidance and patterns for publish articles to x/twitter.
 
 For more information, see the [source repository](https://github.com/wshuyi/x-article-publisher-skill).
 
-## Source: references/skills/game-development/references/legacy/youtube-summarizer/SKILL.md
-
+## Imported Module: Youtube Summarizer
 ---
 name: youtube-summarizer
 description: "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"

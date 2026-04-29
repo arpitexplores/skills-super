@@ -1,5 +1,4 @@
-## Source: references/skills/aws-skills/SKILL.md
-
+## Module: Aws Skills
 ---
 name: aws-skills
 description: "AWS development with infrastructure automation and cloud architecture patterns"
@@ -26,7 +25,7 @@ For more information, see the [source repository](https://github.com/zxkane/aws-
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-agentic-ai
@@ -37,7 +36,7 @@ description: Aws Agentic Ai
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-cdk-development
@@ -48,7 +47,7 @@ description: Aws Cdk Development
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-common
@@ -59,7 +58,7 @@ description: Aws Common
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-cost-cleanup
@@ -374,7 +373,7 @@ kiro-cli chat "Set up weekly automated cleanup using aws-cost-cleanup"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-cost-ops
@@ -385,7 +384,7 @@ description: Aws Cost Ops
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-cost-optimizer
@@ -583,7 +582,7 @@ kiro-cli chat "Create a cost optimization plan using aws-cost-optimizer"
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-mcp-setup
@@ -594,7 +593,7 @@ description: Aws Mcp Setup
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-penetration-testing
@@ -1007,7 +1006,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-serverless
@@ -1340,7 +1339,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: aws-serverless-eda
@@ -1351,7 +1350,7 @@ description: Aws Serverless Eda
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cdk-patterns
@@ -1434,7 +1433,7 @@ export class ServerlessApiPattern extends Construct {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cloudformation-best-practices
@@ -1518,7 +1517,7 @@ Outputs:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: terraform-aws-modules
@@ -1599,8 +1598,7 @@ terraform {
 **Problem:** State lock not released after a failed apply
 **Solution:** Run `terraform force-unlock <LOCK_ID>` after confirming no other operations are running.
 
-## Source: references/skills/aws-skills/references/legacy/aws-agentic-ai/SKILL.md
-
+## Imported Module: Aws Agentic Ai
 ---
 name: aws-agentic-ai
 description: Aws Agentic Ai
@@ -1608,8 +1606,7 @@ description: Aws Agentic Ai
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/aws-cdk-development/SKILL.md
-
+## Imported Module: Aws Cdk Development
 ---
 name: aws-cdk-development
 description: Aws Cdk Development
@@ -1617,8 +1614,7 @@ description: Aws Cdk Development
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/aws-common/SKILL.md
-
+## Imported Module: Aws Common
 ---
 name: aws-common
 description: Aws Common
@@ -1626,8 +1622,7 @@ description: Aws Common
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/aws-cost-cleanup/SKILL.md
-
+## Imported Module: Aws Cost Cleanup
 ---
 name: aws-cost-cleanup
 description: "Automated cleanup of unused AWS resources to reduce costs"
@@ -1939,8 +1934,7 @@ kiro-cli chat "Set up weekly automated cleanup using aws-cost-cleanup"
 - [AWS Systems Manager Automation](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-automation.html)
 - [AWS Config Rules for Compliance](https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html)
 
-## Source: references/skills/aws-skills/references/legacy/aws-cost-ops/SKILL.md
-
+## Imported Module: Aws Cost Ops
 ---
 name: aws-cost-ops
 description: Aws Cost Ops
@@ -1948,8 +1942,7 @@ description: Aws Cost Ops
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/aws-cost-optimizer/SKILL.md
-
+## Imported Module: Aws Cost Optimizer
 ---
 name: aws-cost-optimizer
 description: "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer"
@@ -2144,8 +2137,7 @@ kiro-cli chat "Create a cost optimization plan using aws-cost-optimizer"
 - [AWS Well-Architected Framework - Cost Optimization](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
 - [AWS Cost Explorer API](https://docs.aws.amazon.com/cost-management/latest/APIReference/Welcome.html)
 
-## Source: references/skills/aws-skills/references/legacy/aws-mcp-setup/SKILL.md
-
+## Imported Module: Aws Mcp Setup
 ---
 name: aws-mcp-setup
 description: Aws Mcp Setup
@@ -2153,8 +2145,7 @@ description: Aws Mcp Setup
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/aws-penetration-testing/SKILL.md
-
+## Imported Module: Aws Penetration Testing
 ---
 name: aws-penetration-testing
 description: "This skill should be used when the user asks to \"pentest AWS\", \"test AWS security\", \"enumerate IAM\", \"exploit cloud infrastructure\", \"AWS privilege escalation\", \"S3 bucket testing..."
@@ -2564,8 +2555,7 @@ For advanced techniques including Lambda/API Gateway exploitation, Secrets Manag
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/aws-skills/references/legacy/aws-serverless/SKILL.md
-
+## Imported Module: Aws Serverless
 ---
 name: aws-serverless
 description: "Specialized skill for building production-ready serverless applications on AWS. Covers Lambda functions, API Gateway, DynamoDB, SQS/SNS event-driven patterns, SAM/CDK deployment, and cold start opt..."
@@ -2895,8 +2885,7 @@ Blocking DNS lookups or connections worsen cold starts.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/aws-skills/references/legacy/aws-serverless-eda/SKILL.md
-
+## Imported Module: Aws Serverless Eda
 ---
 name: aws-serverless-eda
 description: Aws Serverless Eda
@@ -2904,8 +2893,7 @@ description: Aws Serverless Eda
 
 404: Not Found
 
-## Source: references/skills/aws-skills/references/legacy/cdk-patterns/SKILL.md
-
+## Imported Module: Cdk Patterns
 ---
 name: cdk-patterns
 description: "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs."
@@ -2985,8 +2973,7 @@ export class ServerlessApiPattern extends Construct {
 **Problem:** Circular dependency between stacks
 **Solution:** Extract shared resources into a dedicated base stack and pass references via constructor props.
 
-## Source: references/skills/aws-skills/references/legacy/cloudformation-best-practices/SKILL.md
-
+## Imported Module: Cloudformation Best Practices
 ---
 name: cloudformation-best-practices
 description: "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates."
@@ -3067,8 +3054,7 @@ Outputs:
 **Problem:** Stack stuck in `UPDATE_ROLLBACK_FAILED`
 **Solution:** Use `continue-update-rollback` with `--resources-to-skip` for the failing resource, then fix the root cause.
 
-## Source: references/skills/aws-skills/references/legacy/terraform-aws-modules/SKILL.md
-
+## Imported Module: Terraform Aws Modules
 ---
 name: terraform-aws-modules
 description: "Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure."

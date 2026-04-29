@@ -1,5 +1,4 @@
-## Source: references/skills/social-content/SKILL.md
-
+## Module: Social Content
 ---
 name: social-content
 description: Social content strategy and execution across platforms. Use for content calendars and post creation.
@@ -379,7 +378,7 @@ Instead of guessing, analyze what's working for top creators in your niche:
 - **email-sequence**: For nurturing social audience via email
 - **marketing-psychology**: For understanding what drives engagement
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 # Social Content
 

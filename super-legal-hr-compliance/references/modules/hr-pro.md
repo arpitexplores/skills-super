@@ -1,5 +1,4 @@
-## Source: references/skills/hr-pro/SKILL.md
-
+## Module: Hr Pro
 ---
 name: hr-pro
 description: Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.
@@ -128,8 +127,7 @@ Output a single Markdown package with:
 ---
 
 
-## Source: references/skills/hr-pro/references/legacy/employment-contract-templates/SKILL.md
-
+## Imported Module: Employment Contract Templates
 ---
 name: employment-contract-templates
 description: "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment docume..."
@@ -173,8 +171,7 @@ Templates and patterns for creating legally sound employment documentation inclu
 
 - `resources/implementation-playbook.md` for detailed templates and checklists.
 
-## Source: references/skills/hr-pro/references/legacy/internal-comms-provider/SKILL.md
-
+## Imported Module: Internal Comms Provider
 ---
 name: internal-comms-provider
 description: "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. AI assistant should use this skill whenever asked to write some sort of internal ..."
@@ -210,8 +207,7 @@ If the communication type doesn't match any existing guideline, ask for clarific
 ## Keywords
 3P updates, company newsletter, company comms, weekly update, faqs, common questions, updates, internal comms
 
-## Source: references/skills/hr-pro/references/legacy/odoo-hr-payroll-setup/SKILL.md
-
+## Imported Module: Odoo Hr Payroll Setup
 ---
 name: odoo-hr-payroll-setup
 description: "Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries."
