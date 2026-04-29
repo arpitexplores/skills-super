@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Data & Analytics"
+  short_description: "Data engineering, analytics, and science"
+  default_prompt: "Use $super-data-analytics to help with this request."

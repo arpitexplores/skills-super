@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super AI/ML Agents"
+  short_description: "Agent architecture, memory, and orchestration"
+  default_prompt: "Use $super-ai-ml-agents to help with this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Design Quality"
+  short_description: "Accessibility and visual QA"
+  default_prompt: "Use $super-design-quality to help with this request."

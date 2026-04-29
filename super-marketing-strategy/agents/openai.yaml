@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Marketing Strategy"
+  short_description: "Positioning, ICP, and growth strategy"
+  default_prompt: "Use $super-marketing-strategy to help with this request."

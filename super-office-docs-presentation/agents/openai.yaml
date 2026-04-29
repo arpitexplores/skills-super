@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Office & Docs"
+  short_description: "Docs, slides, and productivity workflows"
+  default_prompt: "Use $super-office-docs-presentation to help with this request."

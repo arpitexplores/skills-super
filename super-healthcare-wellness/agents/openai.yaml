@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Healthcare & Wellness"
+  short_description: "Health workflows and analysis"
+  default_prompt: "Use $super-healthcare-wellness to help with this request."

@@ -1,0 +1,442 @@
+{
+  "version": "0.1.0",
+  "skills": [
+    {
+      "name": "super-ai-ml-agents",
+      "title": "Super AI/ML Agents",
+      "folder": "super-ai-ml-agents",
+      "description": "Agent systems: architecture, tools, memory, orchestration, and autonomy. Use for building AI agents and workflows.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Agent Memory Systems",
+          "path": "references/modules/agent-memory-systems.md"
+        },
+        {
+          "name": "Agent Architecture",
+          "path": "references/modules/ai-agents-architect.md"
+        },
+        {
+          "name": "Multi-Agent Patterns",
+          "path": "references/modules/multi-agent-patterns.md"
+        }
+      ]
+    },
+    {
+      "name": "super-ai-ml-foundation",
+      "title": "Super AI/ML Foundation",
+      "folder": "super-ai-ml-foundation",
+      "description": "AI/ML foundations: model selection, prompt design, RAG, embeddings, and vector search. Use for core AI app design and build.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "AI Engineering",
+          "path": "references/modules/ai-engineer.md"
+        },
+        {
+          "name": "Prompt Engineering",
+          "path": "references/modules/prompt-engineering-patterns.md"
+        },
+        {
+          "name": "RAG Engineering",
+          "path": "references/modules/rag-engineer.md"
+        }
+      ]
+    },
+    {
+      "name": "super-ai-ml-ops",
+      "title": "Super AI/ML Ops",
+      "folder": "super-ai-ml-ops",
+      "description": "AI/ML operations: evaluation, monitoring, cost control, and reliability. Use for productionizing AI systems.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "LLM Evaluation",
+          "path": "references/modules/llm-evaluation.md"
+        },
+        {
+          "name": "LLM Ops",
+          "path": "references/modules/llm-ops.md"
+        }
+      ]
+    },
+    {
+      "name": "super-automation",
+      "title": "Super Automation",
+      "folder": "super-automation",
+      "description": "Workflow and app automations across SaaS tools, APIs, and integrations.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "GitHub Automation",
+          "path": "references/modules/github-automation.md"
+        },
+        {
+          "name": "Workflow Automation",
+          "path": "references/modules/workflow-automation.md"
+        }
+      ]
+    },
+    {
+      "name": "super-cloud",
+      "title": "Super Cloud",
+      "folder": "super-cloud",
+      "description": "Cloud platform engineering across AWS/Azure/GCP, IaC, networking, containers, and cost optimisation.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "AWS",
+          "path": "references/modules/aws-skills.md"
+        },
+        {
+          "name": "Azure Functions",
+          "path": "references/modules/azure-functions.md"
+        },
+        {
+          "name": "Cloud Architecture",
+          "path": "references/modules/cloud-architect.md"
+        }
+      ]
+    },
+    {
+      "name": "super-data-analytics",
+      "title": "Super Data & Analytics",
+      "folder": "super-data-analytics",
+      "description": "Data & analytics: pipelines, BI, SQL optimisation, analytics tooling, and dashboards.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Product Analytics",
+          "path": "references/modules/analytics-product.md"
+        },
+        {
+          "name": "Data Engineering",
+          "path": "references/modules/data-engineer.md"
+        },
+        {
+          "name": "Data Science",
+          "path": "references/modules/data-scientist.md"
+        }
+      ]
+    },
+    {
+      "name": "super-design-core",
+      "title": "Super Design Core",
+      "folder": "super-design-core",
+      "description": "Core UI/UX and product design: IA, flows, visual systems, UI patterns, and generators. Use for end-to-end design work.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "UI Generation",
+          "path": "references/modules/magic-ui-generator.md"
+        },
+        {
+          "name": "UI Patterns (React & Frameworks)",
+          "path": "references/modules/react-ui-patterns.md"
+        },
+        {
+          "name": "UX Design",
+          "path": "references/modules/ui-ux-designer.md"
+        },
+        {
+          "name": "UI/UX Systems",
+          "path": "references/modules/ui-ux-pro-max.md"
+        }
+      ]
+    },
+    {
+      "name": "super-design-quality",
+      "title": "Super Design Quality",
+      "folder": "super-design-quality",
+      "description": "Design QA: accessibility, WCAG compliance, and visual/consistency validation. Use for audits and remediation.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Accessibility Audit",
+          "path": "references/modules/accessibility-compliance-accessibility-audit.md"
+        },
+        {
+          "name": "Visual QA",
+          "path": "references/modules/ui-visual-validator.md"
+        }
+      ]
+    },
+    {
+      "name": "super-engineering-devops",
+      "title": "Super Engineering/DevOps",
+      "folder": "super-engineering-devops",
+      "description": "Engineering and DevOps delivery: architecture, build, test, deploy, and operate reliable systems.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "DevOps & Deployment",
+          "path": "references/modules/devops-deploy.md"
+        },
+        {
+          "name": "Observability",
+          "path": "references/modules/observability-engineer.md"
+        },
+        {
+          "name": "Full-Stack Engineering",
+          "path": "references/modules/senior-fullstack.md"
+        }
+      ]
+    },
+    {
+      "name": "super-gaming-3d-media",
+      "title": "Super Gaming / 3D / Media",
+      "folder": "super-gaming-3d-media",
+      "description": "Gaming, 3D, and media: engines, 3D web, animation, audio/video tooling.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Game Development",
+          "path": "references/modules/game-development.md"
+        },
+        {
+          "name": "Three.js & 3D Web",
+          "path": "references/modules/threejs-skills.md"
+        },
+        {
+          "name": "Video/Media Tooling",
+          "path": "references/modules/videodb.md"
+        }
+      ]
+    },
+    {
+      "name": "super-healthcare-wellness",
+      "title": "Super Healthcare & Wellness",
+      "folder": "super-healthcare-wellness",
+      "description": "Healthcare and wellness analysis: health data, trends, and guidance workflows.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Healthcare Workflows",
+          "path": "references/modules/healthcare-workflows.md"
+        },
+        {
+          "name": "Health Trend Analysis",
+          "path": "references/modules/health-trend-analyser.md"
+        }
+      ]
+    },
+    {
+      "name": "super-industry-ops",
+      "title": "Super Industry Operations",
+      "folder": "super-industry-ops",
+      "description": "Industry-specific operations: logistics, manufacturing, procurement, and quality workflows.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Energy Procurement",
+          "path": "references/modules/energy-procurement.md"
+        },
+        {
+          "name": "Logistics Exception Management",
+          "path": "references/modules/logistics-exception-management.md"
+        },
+        {
+          "name": "Production Scheduling",
+          "path": "references/modules/production-scheduling.md"
+        }
+      ]
+    },
+    {
+      "name": "super-legal-hr-compliance",
+      "title": "Super Legal/HR/Compliance",
+      "folder": "super-legal-hr-compliance",
+      "description": "Legal, HR, and compliance: contracts, policies, and regulatory guidance (non-security).",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "HR Operations",
+          "path": "references/modules/hr-pro.md"
+        },
+        {
+          "name": "Legal & Compliance",
+          "path": "references/modules/legal-advisor.md"
+        }
+      ]
+    },
+    {
+      "name": "super-marketing-execution",
+      "title": "Super Marketing Execution",
+      "folder": "super-marketing-execution",
+      "description": "Marketing execution: campaign orchestration, copywriting, CRO, analytics, paid ads, email, and social content. Use to ship campaigns and improve conversions.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Campaign Orchestration",
+          "path": "references/modules/campaign-orchestration.md"
+        },
+        {
+          "name": "Analytics & Tracking",
+          "path": "references/modules/analytics-tracking.md"
+        },
+        {
+          "name": "Copywriting",
+          "path": "references/modules/copywriting.md"
+        },
+        {
+          "name": "Email Sequences",
+          "path": "references/modules/email-sequence.md"
+        },
+        {
+          "name": "CRO & Landing Pages",
+          "path": "references/modules/page-cro.md"
+        },
+        {
+          "name": "Paid Ads",
+          "path": "references/modules/paid-ads.md"
+        },
+        {
+          "name": "Social Content",
+          "path": "references/modules/social-content.md"
+        }
+      ]
+    },
+    {
+      "name": "super-marketing-strategy",
+      "title": "Super Marketing Strategy",
+      "folder": "super-marketing-strategy",
+      "description": "Marketing strategy: positioning, ICP, growth hypotheses, and content strategy. Use to define the plan before execution.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Content Strategy",
+          "path": "references/modules/content-strategy.md"
+        },
+        {
+          "name": "Marketing Ideas",
+          "path": "references/modules/marketing-ideas.md"
+        },
+        {
+          "name": "Product Marketing Context",
+          "path": "references/modules/product-marketing-context.md"
+        }
+      ]
+    },
+    {
+      "name": "super-office-docs-presentation",
+      "title": "Super Office / Docs / Presentation",
+      "folder": "super-office-docs-presentation",
+      "description": "Office, docs, and presentations: PDFs, docs, slides, spreadsheets, and documentation workflows.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Documentation Systems",
+          "path": "references/modules/documentation.md"
+        },
+        {
+          "name": "Office Productivity",
+          "path": "references/modules/office-productivity.md"
+        }
+      ]
+    },
+    {
+      "name": "super-product-business-finance",
+      "title": "Super Product/Business/Finance",
+      "folder": "super-product-business-finance",
+      "description": "Product, business, and finance: market sizing, pricing, monetisation, and PM frameworks.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Pricing & Monetisation",
+          "path": "references/modules/pricing-strategy.md"
+        },
+        {
+          "name": "Product Management",
+          "path": "references/modules/product-manager.md"
+        },
+        {
+          "name": "Startup Analysis",
+          "path": "references/modules/startup-analyst.md"
+        }
+      ]
+    },
+    {
+      "name": "super-security",
+      "title": "Super Security",
+      "folder": "super-security",
+      "description": "Security audits, threat modelling, testing, and remediation across apps, APIs, and infrastructure.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Security Audits",
+          "path": "references/modules/security-auditor.md"
+        },
+        {
+          "name": "Threat Modelling",
+          "path": "references/modules/threat-modelling-expert.md"
+        },
+        {
+          "name": "Web Security Testing",
+          "path": "references/modules/web-security-testing.md"
+        }
+      ]
+    },
+    {
+      "name": "super-seo-foundation",
+      "title": "Super SEO Foundation",
+      "folder": "super-seo-foundation",
+      "description": "SEO foundations: audits, technical fixes, schema, sitemaps, hreflang, images, and tooling. Use for baseline health and technical readiness.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "SEO Audit",
+          "path": "references/modules/seo-audit.md"
+        },
+        {
+          "name": "Google SEO Tooling",
+          "path": "references/modules/seo-google.md"
+        },
+        {
+          "name": "Schema & Technical SEO",
+          "path": "references/modules/seo-schema.md"
+        }
+      ]
+    },
+    {
+      "name": "super-seo-growth",
+      "title": "Super SEO Growth",
+      "folder": "super-seo-growth",
+      "description": "SEO growth: content optimisation, programmatic SEO, AI/GEO visibility, and ongoing performance improvements. Use after a baseline audit or run a quick check first.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "SEO Content",
+          "path": "references/modules/seo-content.md"
+        },
+        {
+          "name": "AI/GEO Visibility",
+          "path": "references/modules/seo-geo.md"
+        },
+        {
+          "name": "Programmatic SEO",
+          "path": "references/modules/seo-programmatic.md"
+        }
+      ]
+    },
+    {
+      "name": "super-specialized-platform-sdks",
+      "title": "Super Specialized Platform SDKs",
+      "folder": "super-specialized-platform-sdks",
+      "description": "Specialized platform SDKs: ERP/CRM, commerce platforms, and messaging/bot platforms.",
+      "packaged": true,
+      "modules": [
+        {
+          "name": "Salesforce Development",
+          "path": "references/modules/salesforce-development.md"
+        },
+        {
+          "name": "Shopify Development",
+          "path": "references/modules/shopify-development.md"
+        },
+        {
+          "name": "Telegram/Discord Bots",
+          "path": "references/modules/telegram-bot-builder.md"
+        }
+      ]
+    }
+  ]
+}

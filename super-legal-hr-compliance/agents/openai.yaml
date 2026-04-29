@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Legal & HR"
+  short_description: "Contracts, HR, and compliance guidance"
+  default_prompt: "Use $super-legal-hr-compliance to help with this request."

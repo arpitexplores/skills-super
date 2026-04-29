@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Marketing Execution"
+  short_description: "Campaigns, CRO, and performance marketing"
+  default_prompt: "Use $super-marketing-execution to help with this request."

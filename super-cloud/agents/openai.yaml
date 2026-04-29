@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Cloud"
+  short_description: "Cloud architecture, AWS/Azure, deployment"
+  default_prompt: "Use $super-cloud to help with this request."

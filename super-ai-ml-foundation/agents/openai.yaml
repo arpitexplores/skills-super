@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super AI/ML Foundation"
+  short_description: "Models, prompting, and RAG fundamentals"
+  default_prompt: "Use $super-ai-ml-foundation to help with this request."

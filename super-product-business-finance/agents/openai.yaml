@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Product, Business & Finance"
+  short_description: "PM frameworks, pricing, startup analysis"
+  default_prompt: "Use $super-product-business-finance to help with this request."

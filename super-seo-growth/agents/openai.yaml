@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super SEO Growth"
+  short_description: "Content, programmatic SEO, and GEO"
+  default_prompt: "Use $super-seo-growth to help with this request."

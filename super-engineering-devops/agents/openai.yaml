@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Engineering & DevOps"
+  short_description: "Fullstack delivery, DevOps, observability"
+  default_prompt: "Use $super-engineering-devops to help with this request."

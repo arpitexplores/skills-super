@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Gaming & 3D Media"
+  short_description: "Game dev, 3D, and media tooling"
+  default_prompt: "Use $super-gaming-3d-media to help with this request."
