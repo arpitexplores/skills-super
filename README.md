@@ -1,12 +1,20 @@
 # Super Skills
 
 <!-- super-series-intro -->
-> Master catalogue for the SUPER Skills series: portable, product-ready agent skills across SEO, marketing, design, AI, cloud, security, automation, data, business, and operations.
+> The go-to SUPER Skills catalogue for AI vibe coding: portable agent skills for SEO, AI SEO/GEO, marketing, UI/UX design, AI agents, automation, cloud, security, data, business, and operations.
 
 [View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
 <!-- /super-series-intro -->
 
 Super Skills are agent-ready Markdown skills organised around real work domains. Each skill is designed to be installed independently, used on its own, and expanded over time without exposing users to dozens of small overlapping skills.
+
+## Why SUPER Skills For AI Vibe Coding
+
+SUPER Skills are built to be the go-to skill layer for AI vibe coding: fast, agent-assisted building where the assistant needs domain expertise, practical workflows, guardrails, and implementation-ready outputs.
+
+Instead of prompting from scratch, install the right SUPER Skill and give your AI coding agent a focused operating system for the task: technical SEO, AI SEO/GEO, marketing execution, UI/UX design, agent architecture, cloud, security, automation, data, business, and more.
+
+**SEO and discovery keywords:** AI vibe coding, AI coding skills, agent skills, AI coding agents, AI development workflow, Markdown skills, technical SEO, SEO audit, AI SEO, GEO, generative engine optimisation, LLM visibility, marketing execution, UI/UX design, AI agents.
 
 ## How They Work
 

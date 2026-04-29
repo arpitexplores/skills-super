@@ -1,64 +1,7081 @@
-# Super SEO Foundation
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-Audit and fix the technical SEO baseline: crawlability, indexing, schema, sitemaps, hreflang, and tooling.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Install
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-Copy this folder into your agent's skills directory, then restart or reload the agent.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-```bash
-cp -R super-seo-foundation ~/.your-agent/skills/
-```
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-Use it by name:
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-```text
-Use $super-seo-foundation to help with this request.
-```
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Best For
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-- technical SEO audits
-- indexing diagnostics
-- schema and sitemap checks
-- Google Search Console workflows
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Outputs
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-- SEO health summary
-- prioritised technical fixes
-- validation checklist
-- risk notes
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Modules
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-| Module | Purpose |
-| --- | --- |
-| `seo-audit.md` | Baseline technical SEO, crawlability, indexability, performance, and prioritised fixes |
-| `seo-google.md` | Google Search Console, PageSpeed, CrUX, indexing, and reporting workflows |
-| `seo-schema.md` | Structured data, schema validation, sitemaps, hreflang, and technical markup |
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Example Prompts
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->F<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-- `Use $super-seo-foundation to audit https://example.com`
-- `Use $super-seo-foundation to check schema and sitemap issues.`
-- `Use $super-seo-foundation to diagnose why these pages are not indexed.`
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Package Contents
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-- `SKILL.md` is the installable skill entry point.
-- `references/modules/` contains detailed workflows loaded only when needed.
-- `agents/` contains optional agent metadata where supported.
-- `scripts/` and `assets/` are optional helpers when bundled.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Compatibility
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-This skill is plain Markdown and is intended to be agent-agnostic. If a bundled helper mentions a specific tool path, translate that instruction to the equivalent path for your environment.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Version
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-See `VERSION` and `CHANGELOG.md`.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-## Licence
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
 
-MIT. See the root repository `LICENSE`.
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->A<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->:<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->'<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->R<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->~<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->:<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->$<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->q<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->B<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->F<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->G<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->v<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->M<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->M<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->P<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->B<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->G<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->P<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->X<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->v<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->|<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->P<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->$<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->:<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->$<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->U<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->$<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->x<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->P<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->K<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->L<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->L<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->/<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->T<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->M<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->k<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->w<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->-<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->g<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->b<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->,<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->q<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->v<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->l<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->f<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->u<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->v<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->V<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->V<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->R<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->N<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->a<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->H<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->A<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->N<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->G<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->L<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->O<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->G<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->m<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->d<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->#<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->L<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->n<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->c<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->M<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->T<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->h<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->e<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->p<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->s<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->i<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->t<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->o<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->r<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->y<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro --> <!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->L<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->I<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->C<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->N<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->S<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->E<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->`<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->.<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
