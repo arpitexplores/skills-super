@@ -50,6 +50,21 @@ Exact install paths vary by tool. The skills are Markdown-based and work with an
 
 See `ROADMAP.md` for the maintenance plan and upcoming improvements.
 
+## Start Here
+
+If you are new to SUPER Skills, start with one of these:
+
+| Goal | Start with |
+| --- | --- |
+| Audit and fix a website's technical SEO | [`super-seo-foundation`](https://github.com/arpitexplores/super-seo-foundation) |
+| Improve AI search, GEO, and content visibility | [`super-seo-growth`](https://github.com/arpitexplores/super-seo-growth) |
+| Build or review an AI agent workflow | [`super-ai-ml-agents`](https://github.com/arpitexplores/super-ai-ml-agents) |
+| Design better product flows and interfaces | [`super-design-core`](https://github.com/arpitexplores/super-design-core) |
+| Ship campaigns, CRO, copy, email, and ads | [`super-marketing-execution`](https://github.com/arpitexplores/super-marketing-execution) |
+| Review security risks and remediation plans | [`super-security`](https://github.com/arpitexplores/super-security) |
+
+Use one skill at a time for focused work. Combine skills when the task crosses domains, such as a landing page that needs design, SEO, tracking, and conversion copy.
+
 ## Skills
 
 | Skill | What it covers |
