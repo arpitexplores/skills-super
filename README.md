@@ -48,6 +48,8 @@ Use $super-seo-foundation to audit this site: https://example.com
 
 Exact install paths vary by tool. The skills are Markdown-based and work with any AI agent that supports local skill files.
 
+See `ROADMAP.md` for the maintenance plan and upcoming improvements.
+
 ## Skills
 
 | Skill | What it covers |
