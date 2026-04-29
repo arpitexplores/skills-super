@@ -4,27 +4,27 @@ This catalogue lists every installable super skill in this collection. Each `sup
 
 | Skill | Description | Modules | Product Package |
 | --- | --- | ---: | --- |
-| `super-ai-ml-agents` | Agent systems: architecture, tools, memory, orchestration, and autonomy. Use for building AI agents and workflows. | 3 | Yes |
-| `super-ai-ml-foundation` | AI/ML foundations: model selection, prompt design, RAG, embeddings, and vector search. Use for core AI app design and build. | 3 | Yes |
-| `super-ai-ml-ops` | AI/ML operations: evaluation, monitoring, cost control, and reliability. Use for productionizing AI systems. | 2 | Yes |
-| `super-automation` | Workflow and app automations across SaaS tools, APIs, and integrations. | 2 | Yes |
-| `super-cloud` | Cloud platform engineering across AWS/Azure/GCP, IaC, networking, containers, and cost optimisation. | 3 | Yes |
-| `super-data-analytics` | Data & analytics: pipelines, BI, SQL optimisation, analytics tooling, and dashboards. | 3 | Yes |
-| `super-design-core` | Core UI/UX and product design: IA, flows, visual systems, UI patterns, and generators. Use for end-to-end design work. | 4 | Yes |
-| `super-design-quality` | Design QA: accessibility, WCAG compliance, and visual/consistency validation. Use for audits and remediation. | 2 | Yes |
-| `super-engineering-devops` | Engineering and DevOps delivery: architecture, build, test, deploy, and operate reliable systems. | 3 | Yes |
-| `super-gaming-3d-media` | Gaming, 3D, and media: engines, 3D web, animation, audio/video tooling. | 3 | Yes |
-| `super-healthcare-wellness` | Healthcare and wellness analysis: health data, trends, and guidance workflows. | 2 | Yes |
-| `super-industry-ops` | Industry-specific operations: logistics, manufacturing, procurement, and quality workflows. | 3 | Yes |
-| `super-legal-hr-compliance` | Legal, HR, and compliance: contracts, policies, and regulatory guidance (non-security). | 2 | Yes |
-| `super-marketing-execution` | Marketing execution: campaign orchestration, copywriting, CRO, analytics, paid ads, email, and social content. Use to ship campaigns and improve conversions. | 7 | Yes |
-| `super-marketing-strategy` | Marketing strategy: positioning, ICP, growth hypotheses, and content strategy. Use to define the plan before execution. | 3 | Yes |
-| `super-office-docs-presentation` | Office, docs, and presentations: PDFs, docs, slides, spreadsheets, and documentation workflows. | 2 | Yes |
-| `super-product-business-finance` | Product, business, and finance: market sizing, pricing, monetisation, and PM frameworks. | 3 | Yes |
-| `super-security` | Security audits, threat modelling, testing, and remediation across apps, APIs, and infrastructure. | 3 | Yes |
-| `super-seo-foundation` | SEO foundations: audits, technical fixes, schema, sitemaps, hreflang, images, and tooling. Use for baseline health and technical readiness. | 3 | Yes |
-| `super-seo-growth` | SEO growth: content optimisation, programmatic SEO, AI/GEO visibility, and ongoing performance improvements. Use after a baseline audit or run a quick check first. | 3 | Yes |
-| `super-specialized-platform-sdks` | Specialized platform SDKs: ERP/CRM, commerce platforms, and messaging/bot platforms. | 3 | Yes |
+| `super-ai-ml-agents` | The go-to AI vibe coding skill for agent systems: AI agents, tool use, memory, orchestration, multi-agent patterns, autonomy, and production guardrails. | 3 | Yes |
+| `super-ai-ml-foundation` | The go-to AI vibe coding skill for AI application foundations: model selection, prompt engineering, RAG, embeddings, vector search, and production-ready AI app design. | 3 | Yes |
+| `super-ai-ml-ops` | The go-to AI vibe coding skill for AI operations: LLM evaluation, monitoring, cost control, reliability, latency, release gates, and production AI governance. | 2 | Yes |
+| `super-automation` | The go-to AI vibe coding skill for automation: SaaS workflows, API integrations, triggers, permissions, retries, monitoring, and GitHub automation. | 2 | Yes |
+| `super-cloud` | The go-to AI vibe coding skill for cloud engineering: AWS, Azure, GCP, infrastructure as code, Terraform, networking, containers, reliability, and cost optimisation. | 3 | Yes |
+| `super-data-analytics` | The go-to AI vibe coding skill for data and analytics: pipelines, BI dashboards, SQL optimisation, metrics, data quality, and analytics workflows. | 3 | Yes |
+| `super-design-core` | The go-to AI vibe coding skill for product design: UI/UX, design systems, frontend UI patterns, information architecture, flows, visual systems, and implementable interface guidance. | 4 | Yes |
+| `super-design-quality` | The go-to AI vibe coding skill for design QA: accessibility, WCAG, responsive testing, visual consistency, UI polish, and remediation plans. | 2 | Yes |
+| `super-engineering-devops` | The go-to AI vibe coding skill for engineering and DevOps: architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability. | 3 | Yes |
+| `super-gaming-3d-media` | The go-to AI vibe coding skill for games, 3D, and media: game engines, Three.js, animation, audio/video workflows, asset pipelines, and performance. | 3 | Yes |
+| `super-healthcare-wellness` | The go-to AI vibe coding skill for healthcare and wellness workflows: health trend analysis, care workflows, wellness data, safety boundaries, and non-diagnostic guidance. | 2 | Yes |
+| `super-industry-ops` | The go-to AI vibe coding skill for industry operations: logistics, manufacturing, procurement, production scheduling, supply chain workflows, and operational quality. | 3 | Yes |
+| `super-legal-hr-compliance` | The go-to AI vibe coding skill for legal, HR, and compliance workflows: contracts, policies, HR processes, obligations, internal comms, and non-security regulatory guidance. | 2 | Yes |
+| `super-marketing-execution` | The go-to AI vibe coding skill for marketing execution: campaign orchestration, CRO, copywriting, analytics, email, social, paid ads, landing pages, and growth workflows. | 7 | Yes |
+| `super-marketing-strategy` | The go-to AI vibe coding skill for marketing strategy: positioning, ICP, product marketing, growth hypotheses, content strategy, launch strategy, and GTM planning. | 3 | Yes |
+| `super-office-docs-presentation` | The go-to AI vibe coding skill for office workflows: documents, PDFs, presentations, spreadsheets, documentation systems, templates, and productivity automation. | 2 | Yes |
+| `super-product-business-finance` | The go-to AI vibe coding skill for product, business, and finance: market sizing, startup analysis, pricing, monetisation, roadmap decisions, and PM frameworks. | 3 | Yes |
+| `super-security` | The go-to AI vibe coding skill for security: security audits, threat modelling, web security testing, application security, API security, and remediation workflows. | 3 | Yes |
+| `super-seo-foundation` | The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows. | 3 | Yes |
+| `super-seo-growth` | The go-to AI vibe coding skill for SEO growth: AI SEO, GEO, LLM visibility, content optimisation, programmatic SEO, and citation-ready organic growth. | 3 | Yes |
+| `super-specialized-platform-sdks` | The go-to AI vibe coding skill for specialised platform SDKs: Shopify, Salesforce, Telegram bots, commerce platforms, CRM/ERP integrations, and messaging workflows. | 3 | Yes |
 
 ## Versioning Model
 

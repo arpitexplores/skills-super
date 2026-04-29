@@ -5,7 +5,7 @@
       "name": "super-ai-ml-agents",
       "title": "Super AI/ML Agents",
       "folder": "super-ai-ml-agents",
-      "description": "Agent systems: architecture, tools, memory, orchestration, and autonomy. Use for building AI agents and workflows.",
+      "description": "The go-to AI vibe coding skill for agent systems: AI agents, tool use, memory, orchestration, multi-agent patterns, autonomy, and production guardrails.",
       "packaged": true,
       "modules": [
         {
@@ -20,13 +20,25 @@
           "name": "Multi-Agent Patterns",
           "path": "references/modules/multi-agent-patterns.md"
         }
+      ],
+      "keywords": [
+        "AI agents",
+        "agent architecture",
+        "agentic workflows",
+        "multi-agent systems",
+        "tool use",
+        "agent memory",
+        "orchestration",
+        "LLM agents",
+        "AI automation",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-ai-ml-foundation",
       "title": "Super AI/ML Foundation",
       "folder": "super-ai-ml-foundation",
-      "description": "AI/ML foundations: model selection, prompt design, RAG, embeddings, and vector search. Use for core AI app design and build.",
+      "description": "The go-to AI vibe coding skill for AI application foundations: model selection, prompt engineering, RAG, embeddings, vector search, and production-ready AI app design.",
       "packaged": true,
       "modules": [
         {
@@ -41,13 +53,25 @@
           "name": "RAG Engineering",
           "path": "references/modules/rag-engineer.md"
         }
+      ],
+      "keywords": [
+        "AI app development",
+        "AI engineering",
+        "prompt engineering",
+        "RAG",
+        "retrieval augmented generation",
+        "embeddings",
+        "vector search",
+        "LLM apps",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-ai-ml-ops",
       "title": "Super AI/ML Ops",
       "folder": "super-ai-ml-ops",
-      "description": "AI/ML operations: evaluation, monitoring, cost control, and reliability. Use for productionizing AI systems.",
+      "description": "The go-to AI vibe coding skill for AI operations: LLM evaluation, monitoring, cost control, reliability, latency, release gates, and production AI governance.",
       "packaged": true,
       "modules": [
         {
@@ -58,13 +82,25 @@
           "name": "LLM Ops",
           "path": "references/modules/llm-ops.md"
         }
+      ],
+      "keywords": [
+        "LLM evaluation",
+        "AI monitoring",
+        "LLMOps",
+        "MLOps",
+        "AI reliability",
+        "LLM cost optimisation",
+        "AI observability",
+        "release gates",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-automation",
       "title": "Super Automation",
       "folder": "super-automation",
-      "description": "Workflow and app automations across SaaS tools, APIs, and integrations.",
+      "description": "The go-to AI vibe coding skill for automation: SaaS workflows, API integrations, triggers, permissions, retries, monitoring, and GitHub automation.",
       "packaged": true,
       "modules": [
         {
@@ -75,13 +111,24 @@
           "name": "Workflow Automation",
           "path": "references/modules/workflow-automation.md"
         }
+      ],
+      "keywords": [
+        "workflow automation",
+        "SaaS automation",
+        "API integrations",
+        "GitHub automation",
+        "business process automation",
+        "no-code automation",
+        "agentic automation",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-cloud",
       "title": "Super Cloud",
       "folder": "super-cloud",
-      "description": "Cloud platform engineering across AWS/Azure/GCP, IaC, networking, containers, and cost optimisation.",
+      "description": "The go-to AI vibe coding skill for cloud engineering: AWS, Azure, GCP, infrastructure as code, Terraform, networking, containers, reliability, and cost optimisation.",
       "packaged": true,
       "modules": [
         {
@@ -96,13 +143,25 @@
           "name": "Cloud Architecture",
           "path": "references/modules/cloud-architect.md"
         }
+      ],
+      "keywords": [
+        "cloud engineering",
+        "cloud architecture",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Terraform",
+        "infrastructure as code",
+        "containers",
+        "DevOps",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-data-analytics",
       "title": "Super Data & Analytics",
       "folder": "super-data-analytics",
-      "description": "Data & analytics: pipelines, BI, SQL optimisation, analytics tooling, and dashboards.",
+      "description": "The go-to AI vibe coding skill for data and analytics: pipelines, BI dashboards, SQL optimisation, metrics, data quality, and analytics workflows.",
       "packaged": true,
       "modules": [
         {
@@ -117,13 +176,25 @@
           "name": "Data Science",
           "path": "references/modules/data-scientist.md"
         }
+      ],
+      "keywords": [
+        "data analytics",
+        "data engineering",
+        "BI dashboards",
+        "SQL optimisation",
+        "data pipelines",
+        "KPI dashboards",
+        "data quality",
+        "analytics engineering",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-design-core",
       "title": "Super Design Core",
       "folder": "super-design-core",
-      "description": "Core UI/UX and product design: IA, flows, visual systems, UI patterns, and generators. Use for end-to-end design work.",
+      "description": "The go-to AI vibe coding skill for product design: UI/UX, design systems, frontend UI patterns, information architecture, flows, visual systems, and implementable interface guidance.",
       "packaged": true,
       "modules": [
         {
@@ -142,13 +213,25 @@
           "name": "UI/UX Systems",
           "path": "references/modules/ui-ux-pro-max.md"
         }
+      ],
+      "keywords": [
+        "UI/UX",
+        "product design",
+        "design systems",
+        "frontend design",
+        "React UI patterns",
+        "information architecture",
+        "visual systems",
+        "responsive design",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-design-quality",
       "title": "Super Design Quality",
       "folder": "super-design-quality",
-      "description": "Design QA: accessibility, WCAG compliance, and visual/consistency validation. Use for audits and remediation.",
+      "description": "The go-to AI vibe coding skill for design QA: accessibility, WCAG, responsive testing, visual consistency, UI polish, and remediation plans.",
       "packaged": true,
       "modules": [
         {
@@ -159,13 +242,25 @@
           "name": "Visual QA",
           "path": "references/modules/ui-visual-validator.md"
         }
+      ],
+      "keywords": [
+        "design QA",
+        "accessibility audit",
+        "WCAG",
+        "responsive testing",
+        "visual QA",
+        "UI polish",
+        "frontend QA",
+        "usability",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-engineering-devops",
       "title": "Super Engineering/DevOps",
       "folder": "super-engineering-devops",
-      "description": "Engineering and DevOps delivery: architecture, build, test, deploy, and operate reliable systems.",
+      "description": "The go-to AI vibe coding skill for engineering and DevOps: architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability.",
       "packaged": true,
       "modules": [
         {
@@ -180,13 +275,25 @@
           "name": "Full-Stack Engineering",
           "path": "references/modules/senior-fullstack.md"
         }
+      ],
+      "keywords": [
+        "software engineering",
+        "DevOps",
+        "full-stack development",
+        "CI/CD",
+        "observability",
+        "incident response",
+        "software architecture",
+        "testing",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-gaming-3d-media",
       "title": "Super Gaming / 3D / Media",
       "folder": "super-gaming-3d-media",
-      "description": "Gaming, 3D, and media: engines, 3D web, animation, audio/video tooling.",
+      "description": "The go-to AI vibe coding skill for games, 3D, and media: game engines, Three.js, animation, audio/video workflows, asset pipelines, and performance.",
       "packaged": true,
       "modules": [
         {
@@ -201,13 +308,25 @@
           "name": "Video/Media Tooling",
           "path": "references/modules/videodb.md"
         }
+      ],
+      "keywords": [
+        "game development",
+        "Three.js",
+        "3D web",
+        "Unity",
+        "Unreal",
+        "Godot",
+        "animation",
+        "audio video tooling",
+        "media workflows",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-healthcare-wellness",
       "title": "Super Healthcare & Wellness",
       "folder": "super-healthcare-wellness",
-      "description": "Healthcare and wellness analysis: health data, trends, and guidance workflows.",
+      "description": "The go-to AI vibe coding skill for healthcare and wellness workflows: health trend analysis, care workflows, wellness data, safety boundaries, and non-diagnostic guidance.",
       "packaged": true,
       "modules": [
         {
@@ -218,13 +337,24 @@
           "name": "Health Trend Analysis",
           "path": "references/modules/health-trend-analyser.md"
         }
+      ],
+      "keywords": [
+        "healthcare workflows",
+        "wellness analysis",
+        "health data",
+        "health trends",
+        "care workflows",
+        "non-diagnostic guidance",
+        "wellbeing",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-industry-ops",
       "title": "Super Industry Operations",
       "folder": "super-industry-ops",
-      "description": "Industry-specific operations: logistics, manufacturing, procurement, and quality workflows.",
+      "description": "The go-to AI vibe coding skill for industry operations: logistics, manufacturing, procurement, production scheduling, supply chain workflows, and operational quality.",
       "packaged": true,
       "modules": [
         {
@@ -239,13 +369,24 @@
           "name": "Production Scheduling",
           "path": "references/modules/production-scheduling.md"
         }
+      ],
+      "keywords": [
+        "industry operations",
+        "logistics",
+        "manufacturing",
+        "procurement",
+        "supply chain",
+        "production scheduling",
+        "operational quality",
+        "process improvement",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-legal-hr-compliance",
       "title": "Super Legal/HR/Compliance",
       "folder": "super-legal-hr-compliance",
-      "description": "Legal, HR, and compliance: contracts, policies, and regulatory guidance (non-security).",
+      "description": "The go-to AI vibe coding skill for legal, HR, and compliance workflows: contracts, policies, HR processes, obligations, internal comms, and non-security regulatory guidance.",
       "packaged": true,
       "modules": [
         {
@@ -256,13 +397,24 @@
           "name": "Legal & Compliance",
           "path": "references/modules/legal-advisor.md"
         }
+      ],
+      "keywords": [
+        "legal workflows",
+        "contract review",
+        "HR automation",
+        "HR policies",
+        "compliance workflows",
+        "people operations",
+        "policy drafting",
+        "regulatory guidance",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-marketing-execution",
       "title": "Super Marketing Execution",
       "folder": "super-marketing-execution",
-      "description": "Marketing execution: campaign orchestration, copywriting, CRO, analytics, paid ads, email, and social content. Use to ship campaigns and improve conversions.",
+      "description": "The go-to AI vibe coding skill for marketing execution: campaign orchestration, CRO, copywriting, analytics, email, social, paid ads, landing pages, and growth workflows.",
       "packaged": true,
       "modules": [
         {
@@ -293,13 +445,26 @@
           "name": "Social Content",
           "path": "references/modules/social-content.md"
         }
+      ],
+      "keywords": [
+        "marketing execution",
+        "campaign orchestration",
+        "CRO",
+        "conversion copywriting",
+        "landing page optimisation",
+        "email marketing",
+        "social content",
+        "paid ads",
+        "UTM tracking",
+        "growth marketing",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-marketing-strategy",
       "title": "Super Marketing Strategy",
       "folder": "super-marketing-strategy",
-      "description": "Marketing strategy: positioning, ICP, growth hypotheses, and content strategy. Use to define the plan before execution.",
+      "description": "The go-to AI vibe coding skill for marketing strategy: positioning, ICP, product marketing, growth hypotheses, content strategy, launch strategy, and GTM planning.",
       "packaged": true,
       "modules": [
         {
@@ -314,13 +479,25 @@
           "name": "Product Marketing Context",
           "path": "references/modules/product-marketing-context.md"
         }
+      ],
+      "keywords": [
+        "marketing strategy",
+        "positioning",
+        "ICP",
+        "product marketing",
+        "content strategy",
+        "go-to-market",
+        "GTM",
+        "growth strategy",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-office-docs-presentation",
       "title": "Super Office / Docs / Presentation",
       "folder": "super-office-docs-presentation",
-      "description": "Office, docs, and presentations: PDFs, docs, slides, spreadsheets, and documentation workflows.",
+      "description": "The go-to AI vibe coding skill for office workflows: documents, PDFs, presentations, spreadsheets, documentation systems, templates, and productivity automation.",
       "packaged": true,
       "modules": [
         {
@@ -331,13 +508,24 @@
           "name": "Office Productivity",
           "path": "references/modules/office-productivity.md"
         }
+      ],
+      "keywords": [
+        "document automation",
+        "PDF workflows",
+        "presentation decks",
+        "PowerPoint",
+        "spreadsheets",
+        "documentation",
+        "office automation",
+        "productivity workflows",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-product-business-finance",
       "title": "Super Product/Business/Finance",
       "folder": "super-product-business-finance",
-      "description": "Product, business, and finance: market sizing, pricing, monetisation, and PM frameworks.",
+      "description": "The go-to AI vibe coding skill for product, business, and finance: market sizing, startup analysis, pricing, monetisation, roadmap decisions, and PM frameworks.",
       "packaged": true,
       "modules": [
         {
@@ -352,13 +540,24 @@
           "name": "Startup Analysis",
           "path": "references/modules/startup-analyst.md"
         }
+      ],
+      "keywords": [
+        "product management",
+        "business analysis",
+        "market sizing",
+        "startup analysis",
+        "pricing strategy",
+        "monetisation",
+        "PM frameworks",
+        "roadmap prioritisation",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-security",
       "title": "Super Security",
       "folder": "super-security",
-      "description": "Security audits, threat modelling, testing, and remediation across apps, APIs, and infrastructure.",
+      "description": "The go-to AI vibe coding skill for security: security audits, threat modelling, web security testing, application security, API security, and remediation workflows.",
       "packaged": true,
       "modules": [
         {
@@ -373,13 +572,24 @@
           "name": "Web Security Testing",
           "path": "references/modules/web-security-testing.md"
         }
+      ],
+      "keywords": [
+        "security audit",
+        "threat modelling",
+        "web security",
+        "application security",
+        "API security",
+        "security testing",
+        "remediation",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-seo-foundation",
       "title": "Super SEO Foundation",
       "folder": "super-seo-foundation",
-      "description": "SEO foundations: audits, technical fixes, schema, sitemaps, hreflang, images, and tooling. Use for baseline health and technical readiness.",
+      "description": "The go-to AI vibe coding skill for technical SEO: SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google Search Console workflows.",
       "packaged": true,
       "modules": [
         {
@@ -394,13 +604,28 @@
           "name": "Schema & Technical SEO",
           "path": "references/modules/seo-schema.md"
         }
+      ],
+      "keywords": [
+        "technical SEO",
+        "SEO audit",
+        "site audit",
+        "crawlability",
+        "indexing",
+        "schema markup",
+        "structured data",
+        "XML sitemap",
+        "hreflang",
+        "Core Web Vitals",
+        "Google Search Console",
+        "PageSpeed Insights",
+        "AI vibe coding"
       ]
     },
     {
       "name": "super-seo-growth",
       "title": "Super SEO Growth",
       "folder": "super-seo-growth",
-      "description": "SEO growth: content optimisation, programmatic SEO, AI/GEO visibility, and ongoing performance improvements. Use after a baseline audit or run a quick check first.",
+      "description": "The go-to AI vibe coding skill for SEO growth: AI SEO, GEO, LLM visibility, content optimisation, programmatic SEO, and citation-ready organic growth.",
       "packaged": true,
       "modules": [
         {
@@ -415,13 +640,26 @@
           "name": "Programmatic SEO",
           "path": "references/modules/seo-programmatic.md"
         }
+      ],
+      "keywords": [
+        "AI SEO",
+        "GEO",
+        "generative engine optimisation",
+        "LLM visibility",
+        "AI Overviews",
+        "AI search visibility",
+        "programmatic SEO",
+        "content optimisation",
+        "topical authority",
+        "AI vibe coding",
+        "agent skills"
       ]
     },
     {
       "name": "super-specialized-platform-sdks",
       "title": "Super Specialized Platform SDKs",
       "folder": "super-specialized-platform-sdks",
-      "description": "Specialized platform SDKs: ERP/CRM, commerce platforms, and messaging/bot platforms.",
+      "description": "The go-to AI vibe coding skill for specialised platform SDKs: Shopify, Salesforce, Telegram bots, commerce platforms, CRM/ERP integrations, and messaging workflows.",
       "packaged": true,
       "modules": [
         {
@@ -436,6 +674,17 @@
           "name": "Telegram/Discord Bots",
           "path": "references/modules/telegram-bot-builder.md"
         }
+      ],
+      "keywords": [
+        "platform SDKs",
+        "Shopify development",
+        "Salesforce development",
+        "Telegram bots",
+        "commerce integrations",
+        "CRM integrations",
+        "ERP integrations",
+        "messaging bots",
+        "AI vibe coding"
       ]
     }
   ]
