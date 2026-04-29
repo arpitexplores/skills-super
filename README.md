@@ -16,44 +16,19 @@ Instead of prompting from scratch, install the right SUPER Skill and give your A
 
 **SEO and discovery keywords:** AI vibe coding, AI coding skills, agent skills, AI coding agents, AI development workflow, Markdown skills, technical SEO, SEO audit, AI SEO, GEO, generative engine optimisation, LLM visibility, marketing execution, UI/UX design, AI agents.
 
-## How They Work
+## What You Get
 
-Each `super-*` folder is one installable skill:
+Each `super-*` folder is one installable skill. Install only the skill you need, or use this catalogue to browse the full collection.
 
 ```text
 super-example/
 ├── SKILL.md
-├── agents/
-│   └── openai.yaml
 └── references/
     └── modules/
         └── focused-module.md
 ```
 
-The root `SKILL.md` is the public entry point. It explains what the skill does, what users can ask, what output to expect, and which internal module to load. Detailed workflows live in `references/modules/` so agents can load only the context they need.
-
-## Product Model
-
-This repository is the master catalogue, but each skill is structured to become its own standalone product over time.
-
-Product-ready skill folders may include:
-
-```text
-super-example/
-├── SKILL.md
-├── README.md
-├── CHANGELOG.md
-├── VERSION
-├── examples/
-├── agents/
-└── references/
-```
-
-All `21` skills are now product-packaged with standalone README, changelog, version, and examples scaffold.
-
-See `CATALOG.md` and `catalog.json` for the full catalogue and product-package status.
-
-To export each skill as a standalone product repository folder, see `PUBLISHING.md`.
+The `SKILL.md` file is what your AI agent reads first. The referenced modules provide deeper workflows when a task needs more detail.
 
 ## Install
 
@@ -71,7 +46,7 @@ Use the installed skill by name, for example:
 Use $super-seo-foundation to audit this site: https://example.com
 ```
 
-Exact install paths vary by tool. The skills themselves are plain Markdown and are intended to remain agent-agnostic.
+Exact install paths vary by tool. The skills are Markdown-based and work with any AI agent that supports local skill files.
 
 ## Skills
 
@@ -101,16 +76,7 @@ Exact install paths vary by tool. The skills themselves are plain Markdown and a
 
 ## Compatibility
 
-These skills are designed as portable Markdown instructions. Some bundled references may mention platform-specific commands or paths when they document a real integration, but the skill should still provide useful guidance without requiring a specific AI coding app.
-
-## Design Rules
-
-- One visible skill per `super-*` folder.
-- Exactly one `SKILL.md` per super skill.
-- Detailed content belongs in `references/modules/`.
-- Modules should be self-contained enough to be useful without other installed skills.
-- Avoid AI coding app branding unless the module is truly about that platform.
-- Prefer practical workflows, checklists, and outputs over long explanations.
+These skills are portable Markdown instructions. They are designed to work across AI coding agents and local agent setups.
 
 ## Licence
 

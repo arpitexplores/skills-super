@@ -60,16 +60,9 @@ Use $super-ai-ml-agents to help with this request.
 - `Use $super-ai-ml-agents to review this multi-agent architecture.`
 - `Use $super-ai-ml-agents to define memory and guardrails for an autonomous workflow.`
 
-## Package Contents
-
-- `SKILL.md` is the installable skill entry point.
-- `references/modules/` contains detailed workflows loaded only when needed.
-- `agents/` contains optional agent metadata where supported.
-- `scripts/` and `assets/` are optional helpers when bundled.
-
 ## Compatibility
 
-This skill is plain Markdown and is intended to be agent-agnostic. If a bundled helper mentions a specific tool path, translate that instruction to the equivalent path for your environment.
+Works with any AI agent that can read Markdown skill files. Install paths vary by tool.
 
 ## SUPER Skills Series
 

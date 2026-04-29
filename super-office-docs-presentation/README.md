@@ -59,16 +59,9 @@ Use $super-office-docs-presentation to help with this request.
 - `Use $super-office-docs-presentation to analyse this spreadsheet workflow.`
 - `Use $super-office-docs-presentation to create a documentation template.`
 
-## Package Contents
-
-- `SKILL.md` is the installable skill entry point.
-- `references/modules/` contains detailed workflows loaded only when needed.
-- `agents/` contains optional agent metadata where supported.
-- `scripts/` and `assets/` are optional helpers when bundled.
-
 ## Compatibility
 
-This skill is plain Markdown and is intended to be agent-agnostic. If a bundled helper mentions a specific tool path, translate that instruction to the equivalent path for your environment.
+Works with any AI agent that can read Markdown skill files. Install paths vary by tool.
 
 ## SUPER Skills Series
 
