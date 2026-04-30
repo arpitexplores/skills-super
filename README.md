@@ -1,5 +1,10 @@
 # Super Skills
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Licence](https://img.shields.io/badge/licence-MIT-green)
+![Markdown Skill](https://img.shields.io/badge/Markdown-skill-2b2f36)
+![AI Vibe Coding](https://img.shields.io/badge/AI%20vibe%20coding-ready-ffb000)
+
 ![SUPER Skills social preview](assets/social-preview.png)
 
 <!-- super-series-intro -->
@@ -50,9 +55,19 @@ Use $super-seo-foundation to audit this site: https://example.com
 
 Exact install paths vary by tool. The skills are Markdown-based and work with any AI agent that supports local skill files.
 
-See `INSTALL.md` for detailed installation and update guidance.
+See `INSTALL.md` for detailed installation, Download ZIP instructions, and update guidance.
 
 See `ROADMAP.md` for the maintenance plan and upcoming improvements. See `PUBLIC_LAUNCH_CHECKLIST.md` for the release-readiness checklist.
+
+## Quality Check
+
+Run the public-readiness checker before publishing updates:
+
+```bash
+python3 scripts/check_skill_quality.py
+```
+
+The checker validates required files, versions, badges, install guidance, skill entry points, bundled modules, product manifests, and public-facing language basics.
 
 ## Start Here
 

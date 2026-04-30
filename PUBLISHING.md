@@ -71,6 +71,16 @@ super-design-core
 - The master catalogue version can move separately from individual product versions.
 - Use `PUBLIC_LAUNCH_CHECKLIST.md` before tagging or promoting a release.
 
+## Quality Check
+
+Before publishing catalogue or product updates, run:
+
+```bash
+python3 scripts/check_skill_quality.py
+```
+
+The checker validates required files, versions, badges, install guidance, `SKILL.md` entry points, bundled modules, product manifests, and public-facing language basics.
+
 ## Sync Rule
 
 The master catalogue is the canonical working copy until a skill has a separate release process.

@@ -21,6 +21,7 @@ Use this checklist before publishing or promoting a SUPER Skills release.
 ## Installation And Usage
 
 - `INSTALL.md` explains generic installation for Markdown-compatible AI agents.
+- `INSTALL.md` includes a Download ZIP path for non-technical users.
 - README includes a short install example.
 - Example prompts show realistic tasks.
 - Compatibility language stays platform-neutral.
@@ -39,6 +40,7 @@ Use this checklist before publishing or promoting a SUPER Skills release.
 - Issue templates exist for bugs, improvements, new skill requests, and documentation feedback.
 - Roadmap is published and realistic.
 - Social preview image or README hero image is present where useful.
+- `python3 scripts/check_skill_quality.py` passes.
 - Release tag exists for the current version.
 - Release notes explain what is included and how to install.
 
