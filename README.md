@@ -1,5 +1,7 @@
 # Super Skills
 
+![SUPER Skills social preview](assets/social-preview.png)
+
 <!-- super-series-intro -->
 > The go-to SUPER Skills catalogue for AI vibe coding: portable agent skills for SEO, AI SEO/GEO, marketing, UI/UX design, AI agents, automation, cloud, security, data, business, and operations.
 
