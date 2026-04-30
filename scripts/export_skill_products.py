@@ -67,7 +67,7 @@ def write_product_manifest(skill: dict, target: Path) -> None:
         "description": skill["description"],
         "version": (target / "VERSION").read_text().strip()
         if (target / "VERSION").exists()
-        else "0.1.0",
+        else "1.0.0",
         "source_catalogue": "skills-super",
         "skill_entrypoint": "SKILL.md",
         "modules": skill["modules"],
@@ -93,7 +93,7 @@ This folder is a standalone product export for `{skill["name"]}`.
 
 ## Suggested First Release
 
-`v0.1.0`
+`v1.0.0`
 
 ## Sync Rule
 

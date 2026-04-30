@@ -4,16 +4,15 @@ Super Skills is a public collection of Markdown-based skills for AI coding agent
 
 ## Current Status
 
-- `v0.1.0` public launch is live.
+- `v1.0.0` public launch is live.
 - 21 standalone SUPER Skills are published as individual repositories.
 - Each skill can be installed and used independently.
 - The master catalogue links the full series and keeps discovery simple.
+- Generic installation docs, issue templates, repository topics, and release metadata are in place.
 
 ## Near Term
 
-- Improve install guidance for different local agent setups.
 - Add more real-world example prompts to the most-used skills.
-- Add issue templates for bug reports, skill requests, and improvement ideas.
 - Add lightweight checks for skill metadata, broken links, and README consistency.
 - Tighten the master catalogue so new users can pick the right skill faster.
 
@@ -52,4 +51,3 @@ Priority areas for recurring updates:
 - Do not move large reference material into the main `SKILL.md`.
 - Do not split skills just because a module is large.
 - Do not add generated filler, vague advice, or untested workflows.
-

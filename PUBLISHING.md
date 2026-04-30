@@ -23,6 +23,7 @@ Every standalone skill product should contain:
 ```text
 SKILL.md
 README.md
+INSTALL.md
 CHANGELOG.md
 VERSION
 examples/
@@ -64,10 +65,11 @@ super-design-core
 
 ## Release Versioning
 
-- Start each standalone skill at `v0.1.0`.
+- Start each public standalone skill at `v1.0.0` when it has README, install guidance, bundled modules, versioning, and release notes.
 - Update the product `VERSION` file for product-specific releases.
 - Update product `CHANGELOG.md` for every public release.
 - The master catalogue version can move separately from individual product versions.
+- Use `PUBLIC_LAUNCH_CHECKLIST.md` before tagging or promoting a release.
 
 ## Sync Rule
 
